@@ -1,0 +1,45 @@
+{
+  "issue_id": "",
+  "issue_number": "",
+  "title": null,
+  "slug": "",
+  "url": null,
+
+  "publication_name": "",
+  "issn_online": null,
+  "issn_print": null,
+  "edition_type": null,
+  "issue_period": null,
+  "release_date": null,
+
+  "main_cover_id": null,
+  "back_cover_id": null,
+  "full_cover_id": null,
+  "rubric_covers": [],
+
+  "rubrics": [
+    {
+      "rubric_id": "",
+      "name": "",
+      "description": null,
+      "cover_variant_id": null,
+      "related_publications": []
+    }
+  ],
+
+  "publications": [],
+  "authors": [],
+  "paintings": [],
+  "visual_assets": [],
+  "collections": [],
+  "exhibitions": [],
+
+  "editor_in_chief": null,
+  "design_author": null,
+  "description": null,
+  "keywords": [],
+  "color_palette": [],
+
+  "seo_title": null,
+  "seo_description": null
+}

@@ -1,0 +1,27 @@
+{
+  "author_id": "",
+  "name_original": "",
+  "name_display": "",
+  "slug": "",
+  "url": null,
+
+  "country": null,
+  "city": null,
+  "birth_year": null,
+  "death_year": null,
+
+  "biography": null,
+  "keywords": [],
+
+  "photo_id": null,
+  "gallery": [],
+
+  "publications": [],
+  "books": [],
+  "magazine_issues": [],
+  "exhibitions": [],
+  "collections": [],
+
+  "seo_title": null,
+  "seo_description": null
+}

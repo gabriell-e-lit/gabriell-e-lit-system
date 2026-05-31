@@ -1,0 +1,27 @@
+{
+  "painting_id": "",
+  "title": "",
+  "slug": "",
+  "url": null,
+
+  "author_id": "",
+  "year": null,
+  "technique": null,
+  "materials": null,
+  "dimensions": null,
+  "orientation": null,
+
+  "description": null,
+  "keywords": [],
+
+  "image_id": null,
+  "gallery_assets": [],
+
+  "collections": [],
+  "exhibitions": [],
+  "related_paintings": [],
+
+  "color_palette": [],
+  "seo_title": null,
+  "seo_description": null
+}
