@@ -1,0 +1,11 @@
+Book {
+    id: string,             // уникален идентификатор (slug)
+    title: string,          // заглавие на книгата
+    title_latin: string|null, // латинизирано заглавие
+    authors: [string],      // списък от Author.id
+    year: string|null,      // година на издаване
+    isbn: string|null,      // ISBN, ако е наличен
+    description: string|null, // кратко описание
+    ebook_files: [string],  // списък от EBookFile.id
+    source_urls: [string]   // URL-и, от които е извлечена информация
+}
