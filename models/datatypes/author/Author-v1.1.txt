@@ -1,0 +1,9 @@
+Author {
+    id: string,             // уникален идентификатор (slug)
+    name: string,           // име на автора
+    name_latin: string|null,// латинизирано име (ако има)
+    description: string|null,// кратка биография или описание
+    books: [string],        // списък от Book.id
+    posts: [string],        // списък от Post.id
+    source_urls: [string]   // URL-и, от които е извлечена информация
+}
