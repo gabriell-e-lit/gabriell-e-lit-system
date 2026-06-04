@@ -1,0 +1,8 @@
+EBookFile {
+    id: string,            // уникален идентификатор (обикновено filename без разширение)
+    book_id: string,       // Book.id, към която принадлежи файлът
+    format: string,        // "pdf" или "epub"
+    file_path: string,     // относителен път в поддомейна (e-library или e-books)
+    file_size: number|null,// размер в байтове (ако искаш да го поддържаме)
+    checksum: string|null  // md5/sha1 за проверка на целостта (по желание)
+} 
