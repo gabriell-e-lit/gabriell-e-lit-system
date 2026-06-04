@@ -1,0 +1,33 @@
+Issue {
+    id: string,                     // уникален идентификатор: "1-2026"
+    number: string,                 // номер на броя: "1"
+    year: string,                   // година: "2026"
+    title: string|null,             // официално заглавие (ако има)
+    description: string|null,       // кратко описание на броя
+
+    front_cover: string|null,       // Artwork.id (предна корица)
+    full_cover: string|null,        // Artwork.id (двойна/разгъната корица)
+    gallery: [string],              // Artwork.id[] (илюстрации, картини, изображения в броя)
+
+    pdf_file: string|null,          // EBookFile.id (официален PDF на броя)
+
+    sections: [                     // структурирано съдържание на броя
+        {
+            section_id: string,     // Section.id
+            posts: [string]         // Post.id[]
+        }
+    ],
+
+    authors: [string],              // Author.id[] (автори в броя)
+    guest_editors: [string],        // Author.id[] (гост-редактори, ако има)
+
+    source_urls: [string],          // реални URL-и, от които е извлечена информация за броя
+    wp_category_url: string,        // WordPress категорията на броя
+    static_issue_url: [string]|null,// статични ресурси, свързани с броя (PDF, корици, изложби, гост-редактори)
+
+    is_print_edition: boolean,      // true, ако има full_cover
+    is_ebook_edition: boolean,      // true, ако има pdf_file или front_cover
+
+    published_at: string|null,      // ISO8601 дата на публикуване
+    order: number|null              // позиция в годишния архив
+}
