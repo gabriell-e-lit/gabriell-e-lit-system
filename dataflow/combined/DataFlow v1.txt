@@ -1,0 +1,147 @@
+DataFlow v1 {
+
+    // ------------------------------------------------------------
+    // 1) СЛОЕВЕ НА ДАННИТЕ
+    // ------------------------------------------------------------
+    // Данните в gabriell-e-lit идват от шест реални слоя.
+    // Всеки слой може да бъде едновременно източник и консуматор.
+    // ------------------------------------------------------------
+
+    layers: [
+        "wordpress_posts",              // публикации, рецензии, новини
+        "wordpress_tags",               // тагове на автори и книги
+        "wordpress_categories",         // категории на броеве
+        "wordpress_structural_pages",   // H2/H3 авторски списъци (най-важният слой)
+        "static_site",                  // e-gallery, p-izdatelstvo, статични страници
+        "ebooks",                       // PDF, EPUB, MOBI и метаданни
+        "static_files",                 // изображения, корици, каталози
+        "extractor"                     // централният мозък
+    ]
+
+
+    // ------------------------------------------------------------
+    // 2) ОСНОВНИ ПРИНЦИПИ НА ПОТОКА НА ДАННИТЕ
+    // ------------------------------------------------------------
+
+    principles: [
+
+        // 2.1 Всеки слой може да бъде източник
+        "every layer can be a data source",
+
+        // 2.2 Всеки слой може да бъде консуматор
+        "every layer can be a data consumer",
+
+        // 2.3 Данните се движат двупосочно
+        "data moves bidirectionally between layers",
+
+        // 2.4 Екстракторът е центърът на истината
+        "extractor is the central point of truth",
+
+        // 2.5 Данните се обогатяват, не се заменят
+        "data is enriched, not overwritten",
+
+        // 2.6 Конфликтите се решават чрез приоритети
+        "conflicts resolved by strict priority rules",
+
+        // 2.7 Всички данни се валидират чрез DataTypes v2
+        "validation is performed against DataTypes v2"
+    ]
+
+
+    // ------------------------------------------------------------
+    // 3) СПЕЦИАЛНИ ПРАВИЛА ЗА WORDPRESS STRUCTURAL PAGES
+    // ------------------------------------------------------------
+    // Това е най-важният слой за авторите.
+    // Той съдържа H2 и H3 заглавия, които определят:
+    // - кой е автор
+    // - каква роля има
+    // - дали трябва да има таг
+    // - дали трябва да има статична страница
+    // - първа поява
+    // - биография и портрет
+    // ------------------------------------------------------------
+
+    structural_pages_rules: {
+
+        // 3.1 H2 автори → задължителни биографии в таговете
+        // Срещат се само в страниците "Автори в брой X".
+        H2_authors: {
+            must_have_wp_tag: true,
+            must_have_static_page: false,
+            biography_priority: "H2",
+            portrait_priority: "H2",
+            first_appearance_source: "H2_page"
+        },
+
+        // 3.2 H3 автори → задължителни статични страници
+        // Срещат се в:
+        // - Автори на издателството
+        // - Автори в е-библиотека
+        // - Автори в е-галерия
+        // - Гост-редактори
+        H3_authors: {
+            must_have_static_page: true,
+            must_have_wp_tag: false,
+            biography_priority: "H3_if_no_H2",
+            portrait_priority: "H3_if_no_H2",
+            first_appearance_source: "H3_page_if_no_H2"
+        },
+
+        // 3.3 Подкатегории на художници (от "Автори в е-галерия")
+        gallery_subcategories: {
+            "Автори с изложби": "exhibition_artist",
+            "Илюстратори на книги": "illustrator",
+            "Художници в списанието": "magazine_artist"
+        }
+    }
+
+
+    // ------------------------------------------------------------
+    // 4) ПРИОРИТЕТИ НА ИЗТОЧНИЦИТЕ
+    // ------------------------------------------------------------
+    // Това определя коя информация е "по-истинна" при конфликт.
+    // ------------------------------------------------------------
+
+    priority_order: [
+        "wordpress_structural_pages_H2",   // най-висок приоритет
+        "wordpress_structural_pages_H3",
+        "wordpress_tags",
+        "wordpress_posts",
+        "static_site",
+        "ebooks",
+        "static_files"
+    ]
+
+
+    // ------------------------------------------------------------
+    // 5) ПОТОК НА ДАННИТЕ (flow map)
+    // ------------------------------------------------------------
+
+    flow: [
+
+        // WordPress → Extractor
+        { from: "wordpress_posts", to: "extractor", type: "posts" },
+        { from: "wordpress_tags", to: "extractor", type: "tags" },
+        { from: "wordpress_categories", to: "extractor", type: "categories" },
+        { from: "wordpress_structural_pages", to: "extractor", type: "H2_H3_author_data" },
+
+        // Static site → Extractor
+        { from: "static_site", to: "extractor", type: "exhibitions" },
+        { from: "static_site", to: "extractor", type: "covers" },
+        { from: "static_site", to: "extractor", type: "pdf" },
+
+        // E-books → Extractor
+        { from: "ebooks", to: "extractor", type: "ebook_files" },
+
+        // Extractor → DataTypes
+        { from: "extractor", to: "datatypes", type: "normalized_objects" },
+
+        // DataTypes → Extractor
+        { from: "datatypes", to: "extractor", type: "validation" },
+        { from: "datatypes", to: "extractor", type: "enrichment" },
+
+        // Extractor → WordPress / Static site
+        { from: "extractor", to: "wordpress", type: "generated_metadata" },
+        { from: "extractor", to: "static_site", type: "generated_assets" }
+    ]
+}
