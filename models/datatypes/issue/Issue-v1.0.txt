@@ -1,0 +1,38 @@
+Issue {
+    id: string,                     // уникален идентификатор (slug: issue-<number>-<year>)
+    number: string,                 // номер на броя (напр. "1", "2", "3")
+    year: string,                   // година на издаване
+    title: string,                  // заглавие на броя (ако има)
+    cover_url: string|null,         // корица на броя (ако има)
+    description: string|null,       // кратко описание или увод
+    source_urls: [string],          // всички страници, от които е извлечен
+    dynamic_page: string|null,      // URL към динамичната страница на броя (WP)
+    static_page: string|null,       // URL към статичната страница на броя (стар архив)
+    posts: [string],                // списък от Post.id, включени в броя
+    authors: [string],              // списък от Author.id, участващи в броя
+    sections: [string],             // списък от Section.id (поезия, проза, критика…)
+    guest_editors: [string],        // списък от Author.id (ако има гост-редактори)
+    artworks: [string],             // изображения, свързани с броя (илюстрации, корици)
+    pdf_url: string|null            // PDF на броя (ако съществува)
+}
+
+{
+  "id": "issue-1-2024",
+  "number": "1",
+  "year": "2024",
+  "title": "Брой 1 / 2024",
+  "cover_url": "/spisanie/broi-1-2024/cover.jpg",
+  "description": "Първи брой за 2024 година...",
+  "source_urls": [
+      "/spisanie/broi-1-2024/",
+      "/spisanie/2024/broi-1.php"
+  ],
+  "dynamic_page": "/spisanie/broi-1-2024/",
+  "static_page": "/spisanie/2024/broi-1.php",
+  "posts": ["poem-ivan-2024", "story-maria-2024"],
+  "authors": ["ivan-petrov", "maria-georgieva"],
+  "sections": ["poezia", "proza"],
+  "guest_editors": ["petar-ivanov"],
+  "artworks": ["issue-1-2024-cover"],
+  "pdf_url": "/spisanie/broi-1-2024/broi-1-2024.pdf"
+}
