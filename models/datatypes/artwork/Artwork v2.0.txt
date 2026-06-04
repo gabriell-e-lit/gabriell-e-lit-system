@@ -1,0 +1,20 @@
+Artwork {
+    id: string,                     // уникален идентификатор (slug)
+    artwork_type: string,           // front_cover | full_cover | illustration | portrait | exhibition_artwork | gallery_artwork
+    title: string|null,             // заглавие, ако съществува
+    year: string|null,              // година (ако е налична)
+    technique: string|null,         // техника (масло, акварел, дигитална илюстрация…)
+    dimensions: string|null,        // размери (ако са налични)
+    source_urls: [string],          // URL-и, от които е извлечено изображението
+
+    image_url: string,              // URL към самото изображение
+    thumbnail_url: string|null,     // миниатюра (ако съществува)
+
+    linked_book: string|null,       // Book.id (ако е корица или илюстрация)
+    linked_issue: string|null,      // Issue.id (ако е корица на брой)
+    linked_author: string|null,     // Author.id (ако е портрет или авторска картина)
+    linked_exhibition: string|null, // Exhibition.id (ако е част от изложба)
+
+    order: number|null,             // позиция в галерия/изложба/карусел
+    role: string|null               // cover_front | cover_full | illustration | portrait | artwork
+}
