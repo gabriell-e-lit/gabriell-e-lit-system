@@ -1,0 +1,200 @@
+SYSTEM‑ARCHITECTURE‑v1.0
+Обединена архитектура на платформата gabriell‑e‑lit
+Версия: 1.0 (официална)
+
+I. МЕТА‑АРХИТЕКТУРА
+1. Основен принцип
+gabriell‑e‑lit е многослойна екосистема, в която:
+- WordPress = динамика
+- Статичният сайт = канон
+- Поддомейните = структурирани архиви
+- e‑books = пълни текстове и метаданни
+- Екстракторът = обединяващ слой
+- DataTypes v2 = единен модел на истината
+
+Всеки слой е източник на истина за различен тип данни.
+Нито един слой не е вторичен.
+
+II. СЛОЕВЕ НА СИСТЕМАТА
+1. ROOT LAYER (gabriell-e-lit.com)
+Основни статични страници, описателно ядро, без динамични зависимости.
+
+2. PROJECT LAYER
+Три входни точки:
+- Издателство (WordPress)
+- Списание (WordPress)
+- Поддомейни (e-library, e-gallery, e-books)
+
+3. DYNAMIC LAYER 1 — Издателство (WordPress)
+- WP Pages
+- WP Categories
+- Publisher Genres
+- AuthorIndex
+- Връзки към поддомейните
+
+4. DYNAMIC LAYER 2 — Списание (WordPress)
+- Главна категория
+- Теми
+- Рубрики
+- Направления
+- Архиви
+- Гост‑редактори
+- Автори в брой
+
+5. STATIC LAYER — Статичен сайт
+- Статични автори
+- Статични книги
+- Статични изложби
+- Статични галерии
+- Статични архиви
+
+6. SUBDOMAIN LAYER — e-library / e-gallery / e-books
+Най‑структурираният слой: реални файлове, изображения, корици, изложби.
+
+III. ИЗТОЧНИЦИ НА ИСТИНА
+1. WordPress
+Истина за:
+- публикации
+- броеве
+- жанрови категории
+- авторски тагове
+- изображения в публикации
+
+2. Статичен сайт
+Истина за:
+- автори
+- книги
+- изложби
+- галерии
+- канонични биографии
+- канонични портрети
+
+3. e‑books
+Истина за:
+- пълни текстове
+- корици
+- метаданни
+
+IV. DATAFLOW — ОБЕДИНЕН ПОТОК НА ДАННИ
+1. WordPress → DataTypes
+- Categories → Issue / Year / Genre
+- Posts → Authors / Books / Artworks
+- Tags → Author metadata
+- Structural Pages → Canonical authors
+
+2. Static Site → DataTypes
+- Authors → canonical metadata
+- Books → canonical metadata
+- Exhibitions → artworks + artists
+- Gallery → artworks + artists
+
+3. e‑books → DataTypes
+- Full texts
+- Covers
+- Metadata
+
+4. Обединяване
+Екстракторът:
+- извлича сурови факти
+- прилага приоритети
+- решава конфликти
+- изгражда DataTypes v2
+
+V. ПРИОРИТЕТИ
+1. Биография
+H2 > H3 > wp_tag > wp_posts > static_site > ebooks
+
+2. Портрет
+H2 > H3 > wp_tag > static_site > wp_posts
+
+3. Име
+static_site > wp_structural > wp_tag > wp_post
+
+4. Роли
+wp_structural (водещ) + static_site + wp_tag/wp_post
+
+5. Галерийна подкатегория
+wp_structural > static_site
+
+VI. КАНОН
+1. Канонът включва:
+- статични авторски страници
+- статични книги
+- статични изложби
+- галерии
+- редакторски утвърдени биографии
+- редакторски утвърдени портрети
+
+2. Канонът НЕ включва:
+- WordPress публикации
+- WordPress тагове
+- автоматично генерирани данни
+
+3. Канонът е редакторска власт.
+Екстракторът може да предлага, но не може да променя.
+
+VII. ЕКСТРАКТОР
+1. Слоеве
+- Raw Extraction
+- Model Alignment
+- Cross‑Source Enrichment
+- Merge
+- Build
+
+2. Поведение
+- HTML е суров материал
+- Моделът е истина
+- Канонът е неприкосновен
+- Идентичността е стабилна
+- Ролите се обединяват
+- Нищо не се трие автоматично
+
+VIII. DATATYPES v2
+1. Author v2.3
+- name, biography, portrait
+- roles
+- gallery_subcategory
+- issues, posts, books
+- structural_pages_h2/h3
+- must_have_static_page / must_have_wp_tag
+
+2. Book v2
+- title, authors, cover
+- description
+- publication_year
+- isbn
+
+3. Artwork v2
+- image_url
+- caption
+- artist
+- exhibition
+
+4. Exhibition v1.1
+- title
+- artworks
+- artists
+- description
+
+IX. ЗАВИСИМОСТИ
+- WordPress → Static Site
+- Static Site → WordPress
+- WordPress → Subdomains
+- Static Site → Subdomains
+- Subdomains → DataTypes
+
+X. ОБЕДИНЕНА АРХИТЕКТУРА (MASTER STRUCTURE)
+
+ROOT
+│
+├── PROJECTS
+│   ├── Издателство (WP)
+│   ├── Списание (WP)
+│   ├── e-library (static)
+│   ├── e-gallery (static)
+│   └── e-books (static)
+│
+├── DYNAMIC LAYER 1 – Издателство
+├── DYNAMIC LAYER 2 – Списание
+├── STATIC LAYER – Статичен сайт
+└── SUBDOMAIN LAYER – e-library / e-gallery / e-books

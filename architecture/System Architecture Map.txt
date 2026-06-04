@@ -1,0 +1,18 @@
+gabriell-e-lit
+│
+├── StaticSite
+│     ├── Authors
+│     ├── Books
+│     ├── Galleries
+│     └── Exhibitions
+│
+├── WordPress
+│     ├── Posts
+│     ├── Sections
+│     └── Issues
+│
+├── EBookDomain
+│     └── EBookFiles
+│
+└── DataTypes (7)
+      Author, Book, Issue, Post, Section, Artwork, EBookFile

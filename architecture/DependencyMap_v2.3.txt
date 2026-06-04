@@ -1,0 +1,135 @@
+DEPENDENCY MAP — v2.3 (MASTER)
+Архитектурна карта на зависимостите между всички слоеве на системата
+gabriell-e-lit-library / system / architecture
+
+------------------------------------------------------------
+I. NORMATIVE LAYER (човешки слой)
+------------------------------------------------------------
+Редакторът чете, машината НЕ чете.
+
+NORMATIVE LAYER
+    ├── Architecture Rules
+    │     ├── Fundamental Principles
+    │     ├── Directory Architecture
+    │     ├── Navigation Rules
+    │     ├── Slug Rules
+    │     ├── Priority Rules
+    │     └── Migration Rules
+    │
+    ├── DataFlow Architecture
+    │     ├── Author DataFlow
+    │     ├── Book DataFlow
+    │     ├── Publication DataFlow
+    │     └── Navigation DataFlow
+    │
+    └── Conceptual Models
+          ├── Author (conceptual)
+          ├── Book (conceptual)
+          ├── Publication (conceptual)
+          └── Gallery (conceptual)
+
+------------------------------------------------------------
+II. TECHNICAL LAYER (машинен слой)
+------------------------------------------------------------
+Машината чете, редакторът може да чете.
+
+TECHNICAL LAYER
+    ├── Models (machine-readable)
+    │     ├── AuthorModel v2.3
+    │     ├── BookModel v2.3
+    │     ├── PublicationModel v2.3
+    │     └── NavigationModel v2.3
+    │
+    ├── Extractor Rules
+    │     ├── Author Extractor Rules
+    │     ├── Book Extractor Rules
+    │     ├── Publication Extractor Rules
+    │     └── Navigation Extractor Rules
+    │
+    └── Generator Rules
+          ├── Author Generator Rules
+          ├── Book Generator Rules
+          ├── Publication Generator Rules
+          └── Navigation Generator Rules
+
+------------------------------------------------------------
+III. TEMPLATE LAYER (визуален слой)
+------------------------------------------------------------
+
+TEMPLATE LAYER
+    ├── AuthorTemplate v2.3
+    │     ├── author_block.php
+    │     ├── books_block.php
+    │     ├── publications_block.php
+    │     └── alphabet_nav.php
+    │
+    ├── BookTemplate v2.3
+    │     ├── book_block.php
+    │     ├── gallery_block.php
+    │     └── reviews_block.php
+    │
+    └── PublicationTemplate v2.3
+          ├── publication_block.php
+          └── related_books_block.php
+
+------------------------------------------------------------
+IV. CONTENT LAYER (данни в страниците)
+------------------------------------------------------------
+
+CONTENT LAYER
+    ├── Author Pages (data panel)
+    ├── Book Pages (data panel)
+    ├── Publication Pages (data panel)
+    └── Navigation Pages (data panel)
+
+------------------------------------------------------------
+V. AUTOMATION LAYER (екстрактор и генератор)
+------------------------------------------------------------
+
+AUTOMATION LAYER
+    ├── Extractor v2.3
+    │     ├── чете Data Panel
+    │     ├── валидира по Model
+    │     ├── прилага Extractor Rules
+    │     └── създава JSON
+    │
+    └── Generator v2.3
+          ├── чете JSON
+          ├── прилага Generator Rules
+          ├── попълва Template
+          └── създава нови страници
+
+------------------------------------------------------------
+VI. DIRECTORY LAYER (файлова архитектура)
+------------------------------------------------------------
+
+DIRECTORY LAYER
+    ├── /includes/                     → глобални блокове
+    ├── /p-izdatelstvo/includes/       → нови блокове v2.3
+    ├── /p-izdatelstvo/authors/        → авторски страници v2.3
+    ├── /p-izdatelstvo/books/          → страници за книги v2.3
+    ├── /p-izdatelstvo/publications/   → страници за публикации v2.3
+    ├── /AI-Library/                   → техническа библиотека
+    └── /gabriell-e-lit-library/       → нормативна библиотека
+
+------------------------------------------------------------
+VII. FULL DEPENDENCY TREE (в една картина)
+------------------------------------------------------------
+
+NORMATIVE LAYER
+    ↓ defines
+TECHNICAL LAYER (models + rules)
+    ↓ defines
+TEMPLATE LAYER (visual blocks)
+    ↓ defines
+CONTENT LAYER (data panels)
+    ↓ is read by
+AUTOMATION LAYER (extractor + generator)
+    ↓ produces
+CONTENT LAYER (new pages)
+    ↓ lives in
+DIRECTORY LAYER (physical structure)
+
+------------------------------------------------------------
+END OF DOCUMENT
+------------------------------------------------------------
