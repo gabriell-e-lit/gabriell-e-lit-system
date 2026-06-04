@@ -1,0 +1,23 @@
+I. canonical_name
+static_site > wp_structural > wp_tag > wp_post > ebooks
+
+II. display_name
+wp_post > wp_tag > H2 > H3 > static_site
+
+III. biography
+H2 > H3 > wp_tag > wp_post > static_site
+
+IV. portrait
+H2 > H3 > wp_tag > static_site > wp_post
+
+V. roles (сливане, не избор)
+wp_structural (водещ) + static_site (канон) + wp_tag/wp_post (допълващи)
+
+VI. gallery_subcategory
+wp_structural > static_site
+
+VII. static_page_url
+static_site (единствен източник)
+
+VIII. source_urls
+обединение на всички източници 
