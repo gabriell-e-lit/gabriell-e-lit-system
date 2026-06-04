@@ -1,0 +1,134 @@
+{
+  "module": "ebooks",
+  "description": "Модул за поддомейна e-books.gabriell-e-lit.com. Включва начална страница, жанрови страници, списъци по числа и файловата структура на електронните книги (PDF/EPUB).",
+
+  "nodes": [
+
+    {
+      "id": "ebooks_root",
+      "type": "section",
+      "url": "https://e-books.gabriell-e-lit.com/",
+      "title": "Електронни книги – начало",
+      "description": "Начална страница на поддомейна. Съдържа навигация към жанровете, списъците по числа и таблица с най-новите идеални книги.",
+      "children": [
+        "ebooks_genres",
+        "ebooks_lists",
+        "ebooks_latest"
+      ],
+      "links_to": [
+        "publisher_static_ideal_book",
+        "publisher_static_authors"
+      ]
+    },
+
+    {
+      "id": "ebooks_genres",
+      "type": "collection_group",
+      "title": "Жанрове (e-books)",
+      "children": [
+        "ebooks_genre_poezia",
+        "ebooks_genre_beletristika",
+        "ebooks_genre_dokumentalnaproza",
+        "ebooks_genre_publicistika",
+        "ebooks_genre_sbornici",
+        "ebooks_genre_nliteratura",
+        "ebooks_genre_art"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_poezia",
+      "type": "collection",
+      "title": "Поезия",
+      "url": "https://e-books.gabriell-e-lit.com/poezia.php",
+      "patterns": [
+        "/poezia/{book_folder}/{file}"
+      ],
+      "examples": [
+        "https://e-books.gabriell-e-lit.com/poezia/balkan/DimitarAnakiev-Balkan.pdf"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_beletristika",
+      "type": "collection",
+      "title": "Белетристика",
+      "url": "https://e-books.gabriell-e-lit.com/beletristika.php",
+      "patterns": [
+        "/beletristika/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_dokumentalnaproza",
+      "type": "collection",
+      "title": "Документална проза",
+      "url": "https://e-books.gabriell-e-lit.com/dokumentalnaproza.php",
+      "patterns": [
+        "/dokumentalnaproza/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_publicistika",
+      "type": "collection",
+      "title": "Публицистика",
+      "url": "https://e-books.gabriell-e-lit.com/publicistika.php",
+      "patterns": [
+        "/publicistika/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_sbornici",
+      "type": "collection",
+      "title": "Сборници и антологии",
+      "url": "https://e-books.gabriell-e-lit.com/sbornici.php",
+      "patterns": [
+        "/sbornici/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_nliteratura",
+      "type": "collection",
+      "title": "Научна литература",
+      "url": "https://e-books.gabriell-e-lit.com/nliteratura.php",
+      "patterns": [
+        "/nliteratura/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_genre_art",
+      "type": "collection",
+      "title": "Арт книги",
+      "url": "https://e-books.gabriell-e-lit.com/art.php",
+      "patterns": [
+        "/art/{book_folder}/{file}"
+      ]
+    },
+
+    {
+      "id": "ebooks_lists",
+      "type": "collection",
+      "title": "Списъци по числа",
+      "patterns": [
+        "/books/{number}.php"
+      ],
+      "examples": [
+        "https://e-books.gabriell-e-lit.com/books/1.php"
+      ]
+    },
+
+    {
+      "id": "ebooks_latest",
+      "type": "collection",
+      "title": "Най-нови идеални книги",
+      "description": "Таблица на началната страница, съдържаща най-новите книги в BookCell формат.",
+      "links_to": [
+        "publisher_static_ideal_book"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "module": "elibrary",
+  "description": "Модул за поддомейна e-library.gabriell-e-lit.com. Включва начална страница, азбучни списъци на автори, азбучни списъци на книги, авторски HTML страници, файлови директории (PDF/EPUB) и архив на вестник „Литературно земеделско знаме“. Структурата на файловете предстои да бъде оптимизирана.",
+
+  "nodes": [
+
+    {
+      "id": "elibrary_root",
+      "type": "section",
+      "url": "https://e-library.gabriell-e-lit.com/",
+      "title": "е-Библиотека – начало",
+      "description": "Начална страница на поддомейна. Съдържа азбучна навигация към авторите, азбучна навигация към книгите, архив на ЛЗЗ и достъп до файловите директории.",
+      "children": [
+        "elibrary_alphabet_authors",
+        "elibrary_alphabet_books",
+        "elibrary_author_pages",
+        "elibrary_author_files",
+        "elibrary_lzz_archive"
+      ]
+    },
+
+    {
+      "id": "elibrary_alphabet_authors",
+      "type": "collection_group",
+      "title": "Азбучна навигация по автори",
+      "description": "Списъци на автори по числа (1.php, 2.php, 3.php...).",
+      "patterns": [
+        "/authors/{number}.php"
+      ],
+      "examples": [
+        "https://e-library.gabriell-e-lit.com/authors/1.php",
+        "https://e-library.gabriell-e-lit.com/authors/2.php"
+      ]
+    },
+
+    {
+      "id": "elibrary_alphabet_books",
+      "type": "collection_group",
+      "title": "Азбучна навигация по заглавия на книги",
+      "description": "Списъци на книги по начална буква (1.php, 2.php, 3.php...).",
+      "patterns": [
+        "/books/{number}.php"
+      ],
+      "examples": [
+        "https://e-library.gabriell-e-lit.com/books/1.php",
+        "https://e-library.gabriell-e-lit.com/books/2.php"
+      ]
+    },
+
+    {
+      "id": "elibrary_author_pages",
+      "type": "collection",
+      "title": "Авторски страници",
+      "description": "HTML страници на авторите в поддомейна.",
+      "patterns": [
+        "/authors/{slug}.php"
+      ],
+      "examples": [
+        "https://e-library.gabriell-e-lit.com/authors/ivanivanov.php"
+      ]
+    },
+
+    {
+      "id": "elibrary_author_files",
+      "type": "collection",
+      "title": "Файлови директории на авторите",
+      "description": "Всяка авторска директория съдържа опростен модел на \"идеална книга\": корица и PDF/EPUB файл. Структурата предстои да бъде подредена.",
+      "patterns": [
+        "/authors/{slug}/{book_folder}/{file}"
+      ],
+      "examples": [
+        "https://e-library.gabriell-e-lit.com/authors/ivanivanov/SomeBook.pdf",
+        "https://e-library.gabriell-e-lit.com/authors/ivanivanov/poezia/AnotherBook.epub"
+      ]
+    },
+
+    {
+      "id": "elibrary_lzz_archive",
+      "type": "collection_group",
+      "title": "Архив на вестник „Литературно земеделско знаме“",
+      "description": "Пълен архив на всички броеве на вестника (2012–2025). Архивът е завършен и няма да се допълва. Съдържа външни и вътрешни PDF файлове.",
+      "patterns": [
+        "/lzz/{file}",
+        "http://litzemedelskozname.free.bg/{file}"
+      ],
+      "examples": [
+        "http://litzemedelskozname.free.bg/litzzname-1-2012.pdf",
+        "https://e-library.gabriell-e-lit.com/lzz/litzzname-1-2024.pdf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "module": "egallery",
+  "description": "Модул за поддомейна e-gallery.gabriell-e-lit.com. Включва начална страница, азбучни списъци на автори, авторски страници, изложби, колекции и файлови директории с произведения. Структурата е трислойна: e-gallery, gabriell-e-lit, kartini-s-dumi-i-bagri, плюс паралелна структура pictures/.",
+
+  "nodes": [
+
+    {
+      "id": "egallery_root",
+      "type": "section",
+      "url": "https://e-gallery.gabriell-e-lit.com/",
+      "title": "Електронна галерия – начало",
+      "description": "Начална страница на поддомейна. Съдържа азбучна навигация към авторите, изложби, колекции и произведения.",
+      "children": [
+        "egallery_alphabet_authors",
+        "egallery_author_pages",
+        "egallery_exhibitions",
+        "egallery_collections",
+        "egallery_pictures_root",
+        "egallery_artwork_files"
+      ]
+    },
+
+    {
+      "id": "egallery_alphabet_authors",
+      "type": "collection_group",
+      "title": "Азбучна навигация по автори",
+      "description": "Списъци на автори по числа (1.php, 2.php, 3.php...).",
+      "patterns": [
+        "/authors/{number}.php"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/authors/1.php",
+        "https://e-gallery.gabriell-e-lit.com/authors/2.php"
+      ]
+    },
+
+    {
+      "id": "egallery_author_pages",
+      "type": "collection",
+      "title": "Авторски страници",
+      "description": "HTML страници на авторите в e-gallery. Структурата е трислойна: e-gallery (изложби), gabriell-e-lit (илюстратори), kartini-s-dumi-i-bagri (автори, представени в списанието).",
+      "patterns": [
+        "/authors/e-gallery/{slug}.php",
+        "/authors/gabriell-e-lit/{slug}.php",
+        "/authors/kartini-s-dumi-i-bagri/{slug}.php"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/authors/e-gallery/valentinagrigorova.php",
+        "https://e-gallery.gabriell-e-lit.com/authors/gabriell-e-lit/ivanivanov.php",
+        "https://e-gallery.gabriell-e-lit.com/authors/kartini-s-dumi-i-bagri/venelinapetkova.php"
+      ]
+    },
+
+    {
+      "id": "egallery_exhibitions",
+      "type": "collection",
+      "title": "Изложби",
+      "description": "Страници на изложби. Изложбите се намират в същите трислойни поддиректории като авторите.",
+      "patterns": [
+        "/authors/e-gallery/{slug}/{exhibition}.php",
+        "/authors/gabriell-e-lit/{slug}/{exhibition}.php",
+        "/authors/kartini-s-dumi-i-bagri/{slug}/{exhibition}.php"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/authors/e-gallery/valentinagrigorova/exhibition1.php"
+      ]
+    },
+
+    {
+      "id": "egallery_collections",
+      "type": "collection",
+      "title": "Колекции",
+      "description": "Статични страници с колекции/изложби/илюстрации. Структурата е трислойна, идентична с авторите.",
+      "patterns": [
+        "/collections/e-gallery/{slug}.php",
+        "/collections/gabriell-e-lit/{slug}.php",
+        "/collections/kartini-s-dumi-i-bagri/{slug}.php"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/collections/e-gallery/valentinagrigorova.php"
+      ]
+    },
+
+    {
+      "id": "egallery_pictures_root",
+      "type": "collection_group",
+      "title": "Папка с изображения (pictures)",
+      "description": "Обща директория за изображения, групирани по автори и по колекции. Паралелна структура на authors/ и collections/.",
+      "patterns": [
+        "/pictures/{author}/",
+        "/pictures/{author}/{collection}/"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/pictures/DianaGeorgieva-Di-Light/",
+        "https://e-gallery.gabriell-e-lit.com/pictures/DianaGeorgieva-Di-Light/collection-Black-Light/"
+      ]
+    },
+
+    {
+      "id": "egallery_artwork_files",
+      "type": "collection",
+      "title": "Файлови директории с произведения",
+      "description": "Изображения на произведенията. В момента структурата е смесена: трислойна (authors/collections) и паралелна структура pictures/, която съдържа изображения, групирани по автор и по колекция.",
+      "patterns": [
+        "/authors/e-gallery/{slug}/{folder}/{file}",
+        "/authors/gabriell-e-lit/{slug}/{folder}/{file}",
+        "/authors/kartini-s-dumi-i-bagri/{slug}/{folder}/{file}",
+
+        "/collections/e-gallery/{slug}/{folder}/{file}",
+        "/collections/gabriell-e-lit/{slug}/{folder}/{file}",
+        "/collections/kartini-s-dumi-i-bagri/{slug}/{folder}/{file}",
+
+        "/pictures/{author}/{file}",
+        "/pictures/{author}/{collection}/{file}"
+      ],
+      "examples": [
+        "https://e-gallery.gabriell-e-lit.com/authors/e-gallery/valentinagrigorova/images/picture01.jpg",
+        "https://e-gallery.gabriell-e-lit.com/collections/gabriell-e-lit/ivanivanov/images/illustration02.png",
+        "https://e-gallery.gabriell-e-lit.com/pictures/DianaGeorgieva-Di-Light/image01.jpg",
+        "https://e-gallery.gabriell-e-lit.com/pictures/DianaGeorgieva-Di-Light/collection-Black-Light/image02.jpg"
+      ]
+    }
+  ]
+}

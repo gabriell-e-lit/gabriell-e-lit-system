@@ -1,0 +1,265 @@
+{
+  "module": "static_site",
+  "description": "Модул за всички статични landing pages на главния сайт gabriell-e-lit.com, извлечени от горното и долното меню. Тези страници са входни точки към отделните модули на платформата.",
+
+  "nodes": [
+
+    {
+      "id": "static_home",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/index.php",
+      "title": "Начало",
+      "children": [
+        "static_about",
+        "static_mission",
+        "static_team",
+        "static_services",
+        "static_izdatelstvo",
+        "static_spisanie",
+        "static_gallery",
+        "static_library",
+        "static_events",
+        "static_bookshops",
+        "static_libraries",
+        "static_legal"
+      ]
+    },
+
+
+    {
+      "id": "static_about",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/zanas.php",
+      "title": "За нас"
+    },
+
+    {
+      "id": "static_mission",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/mission.php",
+      "title": "Мисия"
+    },
+
+    {
+      "id": "static_team",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/ekip.php",
+      "title": "Екип"
+    },
+
+    {
+      "id": "static_services",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/uslugi.php",
+      "title": "Услуги"
+    },
+
+
+    {
+      "id": "static_izdatelstvo",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/izdatelstvo.php",
+      "title": "Издателство",
+      "links_to": ["publisher_static_home"],
+      "children": [
+        "static_izdatelstvo_actual",
+        "static_izdatelstvo_newbooks",
+        "static_izdatelstvo_catalogs",
+        "static_izdatelstvo_authors"
+      ]
+    },
+
+    {
+      "id": "static_izdatelstvo_actual",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/aktualno.php",
+      "title": "Актуално"
+    },
+
+    {
+      "id": "static_izdatelstvo_newbooks",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/newbooks.php",
+      "title": "Очаквайте"
+    },
+
+    {
+      "id": "static_izdatelstvo_catalogs",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/knigi.php",
+      "title": "Каталози"
+    },
+
+    {
+      "id": "static_izdatelstvo_authors",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/authors.php",
+      "title": "Автори"
+    },
+
+
+    {
+      "id": "static_spisanie",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/spisanie.php",
+      "title": "Списание",
+      "links_to": ["magazine_root"],
+      "children": [
+        "static_spisanie_new",
+        "static_spisanie_team",
+        "static_spisanie_authors",
+        "static_spisanie_archive"
+      ]
+    },
+
+    {
+      "id": "static_spisanie_new",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-new.php",
+      "title": "Новият брой"
+    },
+
+    {
+      "id": "static_spisanie_team",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-ekip.php",
+      "title": "Екип на списанието"
+    },
+
+    {
+      "id": "static_spisanie_authors",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-authors.php",
+      "title": "Автори на списанието"
+    },
+
+    {
+      "id": "static_spisanie_archive",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-arhiv.php",
+      "title": "Архив"
+    },
+
+
+    {
+      "id": "static_gallery",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/gallery.php",
+      "title": "Галерия",
+      "links_to": ["egallery_root"],
+      "children": [
+        "static_gallery_paintings",
+        "static_gallery_catalogs",
+        "static_gallery_artists"
+      ]
+    },
+
+    {
+      "id": "static_gallery_paintings",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/kartini.php",
+      "title": "Картини и изложби"
+    },
+
+    {
+      "id": "static_gallery_catalogs",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/katalozi.php",
+      "title": "Каталози"
+    },
+
+    {
+      "id": "static_gallery_artists",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/authors-painters.php",
+      "title": "Художници"
+    },
+
+
+    {
+      "id": "static_library",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/library.php",
+      "title": "Библиотека",
+      "note": "Страница, която предстои да бъде създадена.",
+      "links_to": ["e_library_root"],
+      "children": [
+        "static_library_deposit",
+        "static_library_regional"
+      ]
+    },
+
+    {
+      "id": "static_library_deposit",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/dbiblioteki.php",
+      "title": "Депозитни библиотеки"
+    },
+
+    {
+      "id": "static_library_regional",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/biblioteki.php",
+      "title": "Регионални библиотеки"
+    },
+
+
+    {
+      "id": "static_events",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/premieri.php",
+      "title": "Събития",
+      "children": [
+        "static_events_discussions",
+        "static_events_feedback"
+      ]
+    },
+
+    {
+      "id": "static_events_discussions",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/diskusii.php",
+      "title": "Дискусии"
+    },
+
+    {
+      "id": "static_events_feedback",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/otzvuk.php",
+      "title": "Отзвук"
+    },
+
+
+    {
+      "id": "static_bookshops",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/e-bookshops.php",
+      "title": "Книжарници"
+    },
+
+
+    {
+      "id": "static_legal",
+      "type": "section",
+      "title": "Правна информация",
+      "children": [
+        "static_authors_law",
+        "static_personal_data"
+      ]
+    },
+
+    {
+      "id": "static_authors_law",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/authors-law.php",
+      "title": "Авторско право"
+    },
+
+    {
+      "id": "static_personal_data",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/personal-data-protection.php",
+      "title": "Лични данни"
+    }
+  ]
+}

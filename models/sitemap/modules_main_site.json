@@ -1,0 +1,88 @@
+{
+  "module": "main_site",
+  "description": "Главен статичен сайт / арт платформа. Основни секции, достъпни от началната страница.",
+  "nodes": [
+    {
+      "id": "home",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/",
+      "title": "Начало",
+      "children": [
+        "main_izdatelstvo",
+        "main_spisanie",
+        "main_gallery",
+        "main_library",
+        "main_events",
+        "main_magazine"
+      ]
+    },
+
+    {
+      "id": "main_izdatelstvo",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/izdatelstvo.php",
+      "title": "Издателство (статична секция)",
+      "description": "Основна витрина и навигация за всички книги на издателството – по жанрове, по букви, по автори, включително таблици с контейнери „идеална книга“.",
+      "links_to": [
+        "p_izdatelstvo_root"
+      ]
+    },
+
+    {
+      "id": "main_spisanie",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/spisanie.php",
+      "title": "Списание (статична секция)",
+      "description": "Статична страница на списанието, отделена от WordPress структурата.",
+      "links_to": [
+        "magazine_root"
+      ]
+    },
+
+    {
+      "id": "main_gallery",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/gallery.php",
+      "title": "Галерия (статична секция)",
+      "description": "Електронният образ на реална галерия – представя реални колекции, изложби и автори.",
+      "links_to": [
+        "egallery_root"
+      ]
+    },
+
+    {
+      "id": "main_library",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/library.php",
+      "title": "Библиотека (статична секция)",
+      "note": "Страница, която предстои да бъде създадена за пълнота на главното меню.",
+      "links_to": [
+        "e_library_root"
+      ]
+    },
+
+    {
+      "id": "main_events",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/premieri.php",
+      "title": "Събития и премиери (архив и анонси)",
+      "description": "Архив и анонси за премиери, събития и представяния, свързани със списанието и издателството.",
+      "links_to": [
+        "publisher_wp",
+        "publisher_main_category"
+      ]
+    },
+
+    {
+      "id": "main_magazine",
+      "type": "section",
+      "url": "https://gabriell-e-lit.com/izdatelstvo/",
+      "title": "Списание „Картини с думи и багри“ (официален ISSN URL)",
+      "note": "Официален URL на списанието според ISSN регистрите. Съдържа и други WordPress категории.",
+      "links_to": [
+        "magazine_root"
+      ]
+    }
+  ]
+}
+
