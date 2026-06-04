@@ -1,0 +1,224 @@
+# StructuralAuthorPages – v1.1
+## Структурни WordPress страници за автори  
+**Версия 1.1 — нормативен документ за екстрактора**
+
+Този документ описва всички типове структурни WordPress страници, които съдържат автори, както и тяхната семантика, ефекти върху Author v2.3 и връзките между H2/H3 нива.
+
+---
+
+# 🟦 1. Типове структурни WordPress страници за автори
+
+```
+page_types: [
+```
+
+## **1.1 Автори в брой X (H2 = автори)**
+
+```
+{
+    id: "authors_in_issue",
+    title_pattern: "Автори в брой *",
+    heading_level_for_authors: "H2",
+    description: "Определя кои лица са автори в конкретния брой. H2 = автор.",
+    effects_on_author: {
+        must_have_wp_tag: true,
+        must_have_static_page: false,
+        sets_first_appearance: true,
+        can_provide_biography: true,
+        can_provide_portrait: true
+    }
+}
+```
+
+---
+
+## **1.2 Автори на издателство gabriell‑e‑lit (двуслойна структура)**
+
+```
+{
+    id: "publisher_authors",
+    title_pattern: "Автори на издателство gabriell-e-lit",
+    heading_level_for_categories: "H2",
+    heading_level_for_authors: "H3",
+    description: "H2 = структурни категории (години). H3 = автори.",
+    effects_on_author: {
+        must_have_static_page: true,
+        can_provide_biography: true,
+        can_provide_portrait: true
+    }
+}
+```
+
+---
+
+## **1.3 Автори в е‑библиотека (двуслойна структура)**
+
+```
+{
+    id: "elib_authors",
+    title_pattern: "Автори в е-библиотека",
+    heading_level_for_categories: "H2",
+    heading_level_for_authors: "H3",
+    description: "H2 = структурни раздели. H3 = автори.",
+    effects_on_author: {
+        must_have_static_page: true,
+        can_provide_biography: true,
+        can_provide_portrait: true
+    }
+}
+```
+
+---
+
+## **1.4 Автори в е‑галерия gabriell‑e‑lit (двуслойна структура с подкатегории)**
+
+```
+{
+    id: "egallery_authors",
+    title_pattern: "Автори в е-галерия gabriell-e-lit",
+    heading_level_for_categories: "H2",
+    heading_level_for_authors: "H3",
+    description: "H2 = подкатегории на художници. H3 = автори.",
+    effects_on_author: {
+        must_have_static_page: true,
+        can_provide_biography: true,
+        can_provide_portrait: true,
+        sets_gallery_subcategory: true
+    }
+}
+```
+
+---
+
+## **1.5 Гост редактори (двуслойна структура)**
+
+```
+{
+    id: "guest_editors",
+    title_pattern: "Гост редактори",
+    heading_level_for_categories: "H2",
+    heading_level_for_authors: "H3",
+    description: "H2 = структурни групи. H3 = автори.",
+    effects_on_author: {
+        must_have_static_page: true,
+        sets_role_guest_editor: true,
+        can_provide_biography: true,
+        can_provide_portrait: true
+    }
+}
+```
+
+```
+]
+```
+
+---
+
+# 🟩 2. Семантика на H2 и H3 в двуслойните страници
+
+```
+semantics: {
+```
+
+## **2.1 H2 категории**
+
+```
+H2_categories: {
+    meaning: "H2 НЕ е автор. Това са структурни групи: години, роли, подкатегории.",
+    examples: [
+        "Година 2020",
+        "Илюстратори на книги",
+        "Автори с изложби",
+        "Художници в списанието"
+    ],
+    extractor_rule: "Игнорирай H2 като автор. Използвай го само за класификация."
+}
+```
+
+---
+
+## **2.2 H3 автори**
+
+```
+H3_authors: {
+    meaning: "H3 = автор. Това е единственият валиден маркер за автор в тези страници.",
+    effects: {
+        must_have_static_page: true,
+        may_provide_biography: true,
+        may_provide_portrait: true
+    }
+}
+```
+
+```
+}
+```
+
+---
+
+# 🟧 3. Подкатегории на художници (само за е‑галерия)
+
+```
+gallery_subcategories: {
+    "Автори с изложби": "exhibition_artist",
+    "Илюстратори на книги": "illustrator",
+    "Художници в списанието": "magazine_artist"
+}
+```
+
+---
+
+# 🟪 4. Връзка с Author v2.3
+
+```
+author_mapping: {
+```
+
+## **H2 автори (само в „Автори в брой X“)**
+```
+H2_in_issue -> {
+    Author.must_have_wp_tag = true,
+    Author.must_have_static_page = false,
+    Author.first_appearance = this_page_or_issue,
+    Author.biography = H2_biography_if_present,
+    Author.portrait = H2_portrait_if_present
+}
+```
+
+---
+
+## **H3 автори (в 4-те двуслойни страници)**
+
+```
+H3_in_structural_pages -> {
+    Author.must_have_static_page = true,
+    Author.biography = H3_biography_if_no_H2,
+    Author.portrait = H3_portrait_if_no_H2
+}
+```
+
+---
+
+## **Подкатегории на художници**
+
+```
+H2_category_in_egallery -> Author.gallery_subcategory
+```
+
+```
+}
+```
+
+---
+
+# ⭐ Финал
+
+Това е **официалната Markdown версия на StructuralAuthorPages – v1.1**.  
+Тя трябва да бъде поставена в:
+
+```
+Architecture/StructuralLayers/StructuralAuthorPages – v1.1.md
+```
+
+След това можеш да изтриеш `.txt` файла.
+
