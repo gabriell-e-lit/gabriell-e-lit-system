@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "",
+    "description": "",
+    "canonical_url": ""
+  },
+
+  "metadata": {
+    "title": "",
+    "author": "",
+    "genre": "",
+    "year": "",
+    "pages": "",
+    "binding_print": "",
+    "format_print": "",
+    "isbn_print": "",
+    "isbn_pdf": "",
+    "isbn_epub": ""
+  },
+
+  "cover": {
+    "ebook_url": "",
+    "ebook_alt": "",
+    "print_url": "",
+    "print_alt": ""
+  },
+
+  "formats": {
+    "pdf_url": "",
+    "epub_url": "",
+    "pbook_url": "",
+    "audio_url": ""
+  },
+
+  "links": {
+    "author_page_url": "",
+    "tag_url": "",
+    "registry_url": "",
+    "goodreads_url": "",
+    "bookstore_url": ""
+  },
+
+  "intro": "",
+  "description": "",
+
+  "reviews": [
+    {
+      "text": "",
+      "source_url": "",
+      "source_label": ""
+    }
+  ],
+
+  "navigation": {
+    "alphabetical": true,
+    "genre": false
+  },
+
+  "visual": {
+    "include_book_cell": true
+  }
+}
