@@ -1,0 +1,21 @@
+{
+  "id": "ivan-petrov",
+  "name": "Иван Петров",
+  "name_latin": "Ivan Petrov",
+  "roles": ["поет", "прозаик"],
+  "description": "Български автор, публикуван в списанието...",
+  "photo_url": "/images/authors/ivan-petrov.jpg",
+  "source_urls": [
+      "/spisanie/poezia/ivan-petrov/",
+      "/p-izdatelstvo/authors/ivan-petrov.php"
+  ],
+  "books": ["kniga-za-moreto", "stihove-2024"],
+  "posts": ["poem-ivan-2024", "story-ivan-2023"],
+  "issues": ["issue-1-2024", "issue-4-2023"],
+  "exhibitions": [],
+  "artworks": [],
+  "static_page": "/p-izdatelstvo/authors/ivan-petrov.php",
+  "dynamic_page": null,
+  "gallery_page": null,
+  "library_page": null
+} 
