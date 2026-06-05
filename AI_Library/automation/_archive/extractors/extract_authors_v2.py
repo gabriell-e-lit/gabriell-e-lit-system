@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 INPUT_HTML = "authors_page.html"
-OUTPUT_JSON = "database/json/authors_raw_v3.json"
+OUTPUT_JSON = "database/json/authors_raw_v2.json"
 
 # --- Помощни функции ---
 
@@ -39,21 +39,9 @@ def is_name_like(text):
 
     return True
 
-def extract_bio_before(element):
-    """
-    Взима първия <p> ПРЕДИ даденото <h2>.
-    Това е правилната биография за структурата на страниците.
-    """
-    prev = element.find_previous_sibling()
-    while prev:
-        if prev.name == "p":
-            return clean_text(prev.get_text())
-        prev = prev.find_previous_sibling()
-    return ""
-
 def extract_bio_after(element):
     """
-    Fallback: ако няма <p> преди <h2>, взимаме първия <p> след него.
+    Взима първия <p> след даден елемент (strong или h2).
     """
     nxt = element.find_next()
     while nxt:
@@ -73,23 +61,40 @@ def extract_authors(html):
 
     authors = []
 
-    # Правило 1: пропускаме първото H2 (секционно заглавие)
+    # Правило 1: пропускаме първото H2
     h2_list = h2_list[1:]
 
     for h2 in h2_list:
         h2_text = clean_text(h2.get_text())
 
         # Правило 2: H2 е водещ кандидат за име
-        if not is_name_like(h2_text):
+        name_from_h2 = h2_text if is_name_like(h2_text) else None
+
+        # Правило 3: strong е подсигуряващ слой
+        strong = h2.find_next("strong")
+        name_from_strong = None
+        if strong:
+            strong_text = clean_text(strong.get_text())
+            if is_name_like(strong_text):
+                name_from_strong = strong_text
+
+        # Правило 4: избор на име
+        if name_from_h2:
+            # H2 е водещо
+            final_name = name_from_h2
+        elif name_from_strong:
+            # H2 не е име, strong е
+            final_name = name_from_strong
+        else:
+            # нито едно не е име → пропускаме блока
             continue
 
-        final_name = h2_text
-
-        # Правило 3: биографията е <p> ПРЕДИ <h2>
-        bio = extract_bio_before(h2)
-
-        # fallback: ако няма <p> преди <h2>, взимаме след него
-        if not bio:
+        # Правило 5: биография
+        if strong:
+            bio = extract_bio_after(strong)
+            if not bio:
+                bio = extract_bio_after(h2)
+        else:
             bio = extract_bio_after(h2)
 
         authors.append({
