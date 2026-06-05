@@ -1,0 +1,5050 @@
+[
+    {
+        "name": "\"Алманах Литературно земеделско знаме\"",
+        "slug": "almanah-literaturno-zemedelsko-zname"
+    },
+    {
+        "name": "\"Ало 112 ли е?\" - Лили Чолакова",
+        "slug": "alo-112-li-e-lili-cholakova"
+    },
+    {
+        "name": "\"Ангелът Рафаил\" - Рени Васева",
+        "slug": "angelyt-rafail-reni-vaseva"
+    },
+    {
+        "name": "\"Балкан. 41 танки\" - Димитър Анакиев",
+        "slug": "balkan-dimitar-anakiev"
+    },
+    {
+        "name": "\"Боричкане в сърцето\" - Тодор Билчев",
+        "slug": "borichkane-v-sartseto-todor-bilchev"
+    },
+    {
+        "name": "\"Бурята сплита ръце\" - Габриела Цанева",
+        "slug": "buryata-splita-race-gabriela-zaneva"
+    },
+    {
+        "name": "\"Български хайку речник\" - Димитър Анакиев",
+        "slug": "bulgarski-haiku-rechnik"
+    },
+    {
+        "name": "\"Високосният ден\" - Габриела Цанева",
+        "slug": "visokosniyat-den-gabriela-zaneva"
+    },
+    {
+        "name": "\"Водопой за кръвопийци\" - Тодор Билчев",
+        "slug": "vodopoi-za-kravopiitsi-todor-bilchev"
+    },
+    {
+        "name": "\"Врабче върху антената\" - Габриела Цанева",
+        "slug": "vrabche-varhu-antenata-gabriela-zaneva"
+    },
+    {
+        "name": "\"Възможности за усъвършенстване на здравноосигурителната система\"-Симеон Симеонов",
+        "slug": "vazmojnosti-za-usavarshenstvane-na-zdravnoosiguritelnata-sistema"
+    },
+    {
+        "name": "\"Върхове сред ледове\" - Тодор Билчев",
+        "slug": "varhove-sred-ledove-todor-bilchev"
+    },
+    {
+        "name": "\"Гласът на сърцето\" - Христина Въчева",
+        "slug": "glasyt-na-sartseto-hristina-vacheva"
+    },
+    {
+        "name": "\"Годината на дъждовника\" - Ана Стоянова",
+        "slug": "godinata-na-dajdovnika-ana-stoyanova"
+    },
+    {
+        "name": "\"Гологанов и Сие\" - Гатя Симеонова",
+        "slug": "gologanov-i-sie-gatia-simeonova"
+    },
+    {
+        "name": "\"Денонощия\" - Рени Васева",
+        "slug": "denonoshtiya-reni-vaseva"
+    },
+    {
+        "name": "\"Дискордия и конкордия\" - Илияна Кръстева",
+        "slug": "diskordia-i-konkordia-iliyana-krasteva"
+    },
+    {
+        "name": "\"Дневник с обратна дата\" - Надежда Александрова Цанева",
+        "slug": "dnevnik-s-obratna-data-nadejda-alexandrova-tsaneva"
+    },
+    {
+        "name": "\"Дневникът на госпожица Радка\" - Маруся Николова",
+        "slug": "dnevnikyt-na-gospojitsa-radka-marusia-nikolova"
+    },
+    {
+        "name": "\"Догонвам бягащия ден\" - Габриела Цанева",
+        "slug": "dogonvam-biagashtiya-den-dabriela-zaneva"
+    },
+    {
+        "name": "\"Душа като снежинка\" - Тодор Билчев",
+        "slug": "dusha-kato-snejinka-todor-bilchev"
+    },
+    {
+        "name": "\"Един малък възел\" - Димитър Анакиев и Икуйо Йошимура",
+        "slug": "one-small-knot-dimitar-anakiev-ikuyo-yoshimura"
+    },
+    {
+        "name": "\"Есенни послания\" - съставител Маргарита Нешкова",
+        "slug": "esenni-poslania-margarita-neshkova"
+    },
+    {
+        "name": "\"Живея със седем котки\" - Габриела Цанева и Димитър Анакиев",
+        "slug": "jiveia-sys-sedem-kotki-rensaku-100-gabriela-zaneva-dimitar-anakiev"
+    },
+    {
+        "name": "\"Живота в стих събрах\" - Габриела Цанева",
+        "slug": "jivota-v-stih-sabrah-gabriela-zaneva"
+    },
+    {
+        "name": "\"Зад гърба\" - автор Габриела Цанева",
+        "slug": "zad-garba-gabriela-zaneva"
+    },
+    {
+        "name": "\"И в края е началото\" - Мартин Димитров",
+        "slug": "i-v-kraya-e-nachaloto-martin-dimitrov"
+    },
+    {
+        "name": "\"И небето тежи\" - Кас",
+        "slug": "i-nebeto-teji-kas"
+    },
+    {
+        "name": "\"Изпращане на април\" - Надежда Радева",
+        "slug": "izprashtane-na-april-nadejda-radeva"
+    },
+    {
+        "name": "\"Инсомния\" - Стилиян Ангелов",
+        "slug": "insomniya-stiliyan-angelov"
+    },
+    {
+        "name": "\"Искам себе си\" - Габриела Цанева",
+        "slug": "iskam-sebe-si-gabriela-zaneva"
+    },
+    {
+        "name": "\"Историите на Вартоломей\" - Рени Васева",
+        "slug": "istoriite-na-vartolomei-reni-vaseva"
+    },
+    {
+        "name": "\"Календар за вечността\" - Тодор Билчев",
+        "slug": "kalendar-za-vechnostta-todor-bilchev"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - изкуство",
+        "slug": "kartini-s-dumi-i-bagri-izkustvo"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - наука",
+        "slug": "kartini-s-dumi-i-bagri-nauka"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - наука за изкуството",
+        "slug": "kartini-s-dumi-i-bagri-nauka-za-izkustvoto"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - онлайн",
+        "slug": "kartini-s-dumi-i-bagri-online"
+    },
+    {
+        "name": "\"Картините на моите книги\" - Габриела Цанева",
+        "slug": "kartinite-na-moite-knigi-gabriela-zaneva"
+    },
+    {
+        "name": "\"Книга за Добрич\" - съставители Тодор Билчев и Цветомира Димитрова",
+        "slug": "kniga-za-dobrich"
+    },
+    {
+        "name": "\"Книга за мечтите\" - Венелин Терзиев",
+        "slug": "kniga-za-mechtite"
+    },
+    {
+        "name": "\"Красен или раждането на духа\" - Тодор Билчев",
+        "slug": "krasen-ili-rajdaneto-na-duha-todor-bilchev"
+    },
+    {
+        "name": "\"Кръстена вода\" - Димитър Анакиев",
+        "slug": "krystena-voda-dimitar-anakiev"
+    },
+    {
+        "name": "\"Кръстопът на сънища\" - Габриела Цанева",
+        "slug": "krystopyt-na-synishta-gabriela-zaneva"
+    },
+    {
+        "name": "\"Култура на лъжите\" - Димитър Анакиев",
+        "slug": "kultura-na-lajite-dimitar-anakiev"
+    },
+    {
+        "name": "\"Късната любов на самотата\" - Йордан Йорданов",
+        "slug": "kysnata-lubov-na-samotata-jordan-jordanov"
+    },
+    {
+        "name": "\"Луна в огледалото\" - Габриела Цанева",
+        "slug": "luna-v-ogledaloto-gabriela-zaneva"
+    },
+    {
+        "name": "\"Любов и свобода\" - Веселина Башова",
+        "slug": "lubov-i-svoboda-veselina-bashova"
+    },
+    {
+        "name": "\"Медитации за България. 12 ренсаку\" - Димитър Анакиев",
+        "slug": "meditatsii-za-bulgaria-dimitar-anakiev"
+    },
+    {
+        "name": "\"Миналото в мен\" - Габриела Цанева",
+        "slug": "minaloto-v-men-gabriela-zaneva"
+    },
+    {
+        "name": "\"Мурзилки\" - Димитър Анакиев",
+        "slug": "murzilki-dimitar-anakiev"
+    },
+    {
+        "name": "\"На незабравата зовът\" - Тодор Билчев",
+        "slug": "na-nezabravata-zovat-todor-bilchev"
+    },
+    {
+        "name": "\"На попрището жизнено в средата\" - Надежда Александрова Цанева",
+        "slug": "na-poprishteto-jizneno-v-sredata-nadejda-alexandrova-zaneva"
+    },
+    {
+        "name": "\"Наниз от пендари\" - Христо Иванов",
+        "slug": "naniz-ot-pendari-hristo-ivanov"
+    },
+    {
+        "name": "\"Народе\" - Тодор Билчев",
+        "slug": "narode-todor-bilchev"
+    },
+    {
+        "name": "\"Не жена\" - Надежда Радева",
+        "slug": "ne-jena-nadejda-radeva"
+    },
+    {
+        "name": "\"Небеса\" - Гатя Симеонова",
+        "slug": "nebesa-gatia-simeonova"
+    },
+    {
+        "name": "\"Необикновените приключения на робота Ари\" - Лиляна Петкова",
+        "slug": "neobiknovenite-prikluchenia-na-robota-ari-lilyana-petkova"
+    },
+    {
+        "name": "\"Новото бъдеще\" - Лиляна Петкова",
+        "slug": "novoto-bydeshte-liliana-petkova"
+    },
+    {
+        "name": "\"Нощта на щурците\" - Габриела Цанева",
+        "slug": "noshtta-na-shturzite-gabriela-zaneva"
+    },
+    {
+        "name": "\"Облачна поезия. Ренсаку с Microsoft Copilot\" - Габриела Цанева",
+        "slug": "oblachna-poezia-rensaku-s-microsoft-copilot-gabriela-zaneva"
+    },
+    {
+        "name": "\"Окото на разума\" - Лиляна Петкова",
+        "slug": "okoto-na-razuma-lilyana-petkova"
+    },
+    {
+        "name": "\"Оскъдни дни\" - Габриела Цанева",
+        "slug": "oskadni-dni-gabriela-zaneva"
+    },
+    {
+        "name": "\"От слънце и вода. Международна антология на хайку и речник на ключови думи\" - съставител Димитър Анакиев",
+        "slug": "out-of-sun-and-water-international-haiku-anthology-dimitar-anakiev"
+    },
+    {
+        "name": "\"Отвъд болката и красотата\" - Тодор Билчев",
+        "slug": "otvyd-bolkata-i-krasotata-todor-bilchev"
+    },
+    {
+        "name": "\"Отвътре навън\" - Снежана Стамова",
+        "slug": "otvytre-navyn-snejana-stamova"
+    },
+    {
+        "name": "\"Отмъщението на цивилизацията\" - Лиляна Петкова",
+        "slug": "otmashtenieto-na-tsivilizatsiyata-lilyana-petkova"
+    },
+    {
+        "name": "\"Очите на града\" - Рени Васева",
+        "slug": "ochite-na-grada-reni-vaseva"
+    },
+    {
+        "name": "\"Парче от дъга\"- антология на българската танка - съставител Димитър Анакиев",
+        "slug": "parche-ot-daga-antologia-na-bulgarskata-tanka-dimitar-anakiev"
+    },
+    {
+        "name": "\"Пепел от дъга\" - Тодор Билчев",
+        "slug": "pepel-ot-daga-todor-bilchev"
+    },
+    {
+        "name": "\"Песни за залез в сапунен балон\" - Тодор Билчев",
+        "slug": "pesni-za-zalez-v-sapunen-balon-todor-cilchev"
+    },
+    {
+        "name": "\"Пиеса за ягодови полета\" - Лариса Ангелова",
+        "slug": "piesa-za-yagodovi-poleta-larisa-angelova"
+    },
+    {
+        "name": "\"Писма върху лист от сърце\" - Тодор Билчев",
+        "slug": "pisma-varhu-list-ot-sartse-todor-bilchev"
+    },
+    {
+        "name": "\"Планина със звезден дъх\" - Христина Въчева",
+        "slug": "planina-sys-zvezden-dyh-hristina-vacheva"
+    },
+    {
+        "name": "\"Под небето в мене\" - Тодор Билчев",
+        "slug": "pod-nebeto-v-mene-todor-bilchev"
+    },
+    {
+        "name": "\"Поезия. Избрано 1994-2024\" - автор Габриела Цанева",
+        "slug": "poezia-izbrano-1994-2024-gabriela-zaneva"
+    },
+    {
+        "name": "\"Поп Дошо\" - автор Тодор Билчев",
+        "slug": "pop-dosho-todor-bilchev"
+    },
+    {
+        "name": "\"През погледа ми\" - Габриела Цанева",
+        "slug": "prez-pogleda-mi-gabriela-zaneva"
+    },
+    {
+        "name": "\"Приказният град гора\" - Кирил Назъров",
+        "slug": "prikazniyat-grad-gora-kiril-nazarov"
+    },
+    {
+        "name": "\"Ренсаку с хан Омуртаг\" - антология",
+        "slug": "rensaku-s-han-omurtag-antologia"
+    },
+    {
+        "name": "\"Реши се и ще си свободен\" - Габриела Цанева",
+        "slug": "reshi-se-i-shte-si-svoboden-gabriela-zaneva"
+    },
+    {
+        "name": "\"Родена през 70-те\" - Марина Йорданова",
+        "slug": "rodena-prez-70-te-marina-jordanova"
+    },
+    {
+        "name": "\"С аромат на лотос\" - Весислава Савова",
+        "slug": "s-aromat-na-lotos-vesislava-savova"
+    },
+    {
+        "name": "\"Светата троица човек\" - Тодор Билчев",
+        "slug": "svetata-troitsa-chovek-todor-bilchev"
+    },
+    {
+        "name": "\"След девети след десети\" - Христо Ангелов",
+        "slug": "sled-deveti-sled-deseti-hristo-angelov"
+    },
+    {
+        "name": "\"Слънце и море\" - Маргарита Нешкова",
+        "slug": "slyntse-i-more-margarita-neshkova"
+    },
+    {
+        "name": "\"Слънчеви багри\" - Кирил Желязков",
+        "slug": "slynchevi-bagri-kiril-jeliazkov"
+    },
+    {
+        "name": "\"Спонтанно съзнание\" - Димитър Анакиев",
+        "slug": "spontanno-saznanie-dimitar-anakiev"
+    },
+    {
+        "name": "\"Спри да те прегърна\" - Тодор Билчев",
+        "slug": "spri-da-te-pregyrna-todor-bilchev"
+    },
+    {
+        "name": "\"Стъпала обрасли с мъх - събрани съчинения\" - Димитър Анакиев",
+        "slug": "stypala-obrasli-s-myh-dimitar-anakiev"
+    },
+    {
+        "name": "\"Стъпки по пламъци\" - Габриела Цанева",
+        "slug": "stypki-po-plamatsi-gabriela-zaneva"
+    },
+    {
+        "name": "\"Събудено небе\" - Лили Трендова",
+        "slug": "sabudeno-nebe-lili-trendova"
+    },
+    {
+        "name": "\"Съединението\" - Димитър Анакиев",
+        "slug": "saedinenieto-dimitar-anakiev"
+    },
+    {
+        "name": "\"Състояния. Хайга\" - Габриела Цанева",
+        "slug": "sastoyania-haiga-gabriela-zaneva"
+    },
+    {
+        "name": "\"Тан-Ку за Украйна. Световна хайку и танка антология - съставител Димитър Анакиев",
+        "slug": "tan-ku-for-ukraine-world-haiku-and-tanka-anthology-dimitar-anakiev"
+    },
+    {
+        "name": "\"Толкова е рано\" - Габриела Цанева",
+        "slug": "tolkova-e-rano-gabriela-zaneva"
+    },
+    {
+        "name": "\"Треви под снега\" - Габриела Цанева",
+        "slug": "trevi-pod-snega-gabriela-zaneva"
+    },
+    {
+        "name": "\"Тясна пътека през душата и света\" - Димитър Анакиев",
+        "slug": "tiasna-pateka-prez-dushata-i-sveta-dimitar-anakiev"
+    },
+    {
+        "name": "\"Хайку. Избрано 1994-2024\" - Габриела Цанева",
+        "slug": "haiku-izbrano-1994-2024-gabriela-zaneva"
+    },
+    {
+        "name": "\"Цветето на любовта\" - Елисавета Цветкова",
+        "slug": "tsveteto-na-lubovta-elisaveta-tsvetkova"
+    },
+    {
+        "name": "\"Цвилят гривести коне\" - Живка Танчева",
+        "slug": "tsviliat-grivesti-kone-jivka-tancheva"
+    },
+    {
+        "name": "\"Целувката на небесата\" - Тодор Билчев",
+        "slug": "tseluvkata-na-nebesata-todor-bilchev"
+    },
+    {
+        "name": "\"Черешовите води на българската танка\" - национален конкурс за танка поезия",
+        "slug": "chereshovite-vodi-na-bulgarskata-tanka-natsionalen-konkurs-za-tanka-poezia"
+    },
+    {
+        "name": "\"Човек - антология на българското хайку\" - Димитър Анакиев и Габриела Цанева",
+        "slug": "chovek-antologia-na-bulgarskoto-haiku"
+    },
+    {
+        "name": "\"Щастие - спомени за бъдеще\" - Венелин Терзиев",
+        "slug": "shtastie-spomeni-za-bydeshte-venelin-terziev"
+    },
+    {
+        "name": "\"Ято спомени\" - Кирил Желязков",
+        "slug": "yato-spomeni-kiril-jeliazkov"
+    },
+    {
+        "name": "AI-Suno",
+        "slug": "ai-suno"
+    },
+    {
+        "name": "ChatGPT",
+        "slug": "chatgpt"
+    },
+    {
+        "name": "Emiko Miyashita",
+        "slug": "emiko-miyashita"
+    },
+    {
+        "name": "Haiku International Association",
+        "slug": "haiku-international-association"
+    },
+    {
+        "name": "in memoriam",
+        "slug": "in-memoriam"
+    },
+    {
+        "name": "Karin Wada",
+        "slug": "karin-wada"
+    },
+    {
+        "name": "Le bananier - Centre International de Documentation et de Recherche sur le Haïku",
+        "slug": "le-bananier-centre-international-de-documentation-et-de-recherche-sur-le-haiku"
+    },
+    {
+        "name": "Microsoft Copilot",
+        "slug": "microsoft-copilot"
+    },
+    {
+        "name": "Takano Mitsuo",
+        "slug": "takano-mitsuo"
+    },
+    {
+        "name": "Yuzo Ono",
+        "slug": "yuzo-ono"
+    },
+    {
+        "name": "Аарне Пуу",
+        "slug": "aarne-puu"
+    },
+    {
+        "name": "Абдул Карим Ал-Ахмад",
+        "slug": "abdul-karim-al-ahmad"
+    },
+    {
+        "name": "Аделина Кошова – Lynn",
+        "slug": "adelina-koshova-lynn"
+    },
+    {
+        "name": "Адриан Василев",
+        "slug": "adrian-vasilev"
+    },
+    {
+        "name": "Адриан Попеску",
+        "slug": "adrian-popescu"
+    },
+    {
+        "name": "Айнур Каплан",
+        "slug": "ainur-kaplan"
+    },
+    {
+        "name": "Акценти",
+        "slug": "akcenti"
+    },
+    {
+        "name": "Албена Иванова",
+        "slug": "albena-ivanova"
+    },
+    {
+        "name": "Албена Тодорова",
+        "slug": "albena-todorova"
+    },
+    {
+        "name": "Албер Камю",
+        "slug": "albert-camus"
+    },
+    {
+        "name": "Алберто Моравия",
+        "slug": "alberto-moravia"
+    },
+    {
+        "name": "Алберто Савинио",
+        "slug": "alberto-savinio"
+    },
+    {
+        "name": "Алеко Константинов",
+        "slug": "aleko-konstantinov"
+    },
+    {
+        "name": "Александра Ивойлова",
+        "slug": "alexandra-ivoilova"
+    },
+    {
+        "name": "Александра Кирева",
+        "slug": "alexandra-kireva"
+    },
+    {
+        "name": "Александрина Шаханова",
+        "slug": "alexandrina-shahanova"
+    },
+    {
+        "name": "Александър Алекс Дъбнишки",
+        "slug": "alexander-alex-dabnishki"
+    },
+    {
+        "name": "Александър Байтошев",
+        "slug": "alexander-baitoshev"
+    },
+    {
+        "name": "Александър Богориди",
+        "slug": "alexander-bogoridi"
+    },
+    {
+        "name": "Александър Йорганджиев",
+        "slug": "alexander-jorgandjiev"
+    },
+    {
+        "name": "Александър Недков",
+        "slug": "alexander-nedkov"
+    },
+    {
+        "name": "Александър Петров",
+        "slug": "alexander-petrov"
+    },
+    {
+        "name": "Александър Секулов",
+        "slug": "alexander-sekulov"
+    },
+    {
+        "name": "Александър Стамболийски",
+        "slug": "alexander-stamboliiski"
+    },
+    {
+        "name": "Александър Теллалим",
+        "slug": "alexander-tallalim"
+    },
+    {
+        "name": "Александър Шурбанов",
+        "slug": "alexander-shurbanov"
+    },
+    {
+        "name": "Али Юсейн",
+        "slug": "ali-jusein"
+    },
+    {
+        "name": "Алфонсо Марино",
+        "slug": "alfonso-marino"
+    },
+    {
+        "name": "Ана Бландиана",
+        "slug": "ana-blandiana"
+    },
+    {
+        "name": "Ана Стоянова",
+        "slug": "ana-stoyanova"
+    },
+    {
+        "name": "Анастасия Георгиева",
+        "slug": "anastasia-georgieva"
+    },
+    {
+        "name": "Анатол Гужел",
+        "slug": "anatol-gujel"
+    },
+    {
+        "name": "Анатол Чокану",
+        "slug": "anatol-chokanu"
+    },
+    {
+        "name": "Анатолий Кузнецов",
+        "slug": "anatolii-kuznetsov"
+    },
+    {
+        "name": "Ангел Дюлгеров",
+        "slug": "angel-dulgerov"
+    },
+    {
+        "name": "Ангел Каралийчев",
+        "slug": "angel-karaliichev"
+    },
+    {
+        "name": "Ангелина Михайлова",
+        "slug": "angelina-mihailova"
+    },
+    {
+        "name": "Англоезична литература",
+        "slug": "english-literature"
+    },
+    {
+        "name": "Андон Тацев",
+        "slug": "andon-tatsev"
+    },
+    {
+        "name": "Андреа Чекон",
+        "slug": "andrea-chekone"
+    },
+    {
+        "name": "Андрей Германов",
+        "slug": "andrei-germanov"
+    },
+    {
+        "name": "Андрей Рангелов",
+        "slug": "andrei-rangelov"
+    },
+    {
+        "name": "Анелия Атанасова",
+        "slug": "anelia-atanasova"
+    },
+    {
+        "name": "Анжела Димчева",
+        "slug": "angela-dimcheva"
+    },
+    {
+        "name": "Анжела Терзиева",
+        "slug": "angela-terzieva"
+    },
+    {
+        "name": "Ани Пачалова",
+        "slug": "ani-pachalova"
+    },
+    {
+        "name": "Аниз Колц",
+        "slug": "anise-koltz"
+    },
+    {
+        "name": "Анита Коларова",
+        "slug": "anita-kolarova"
+    },
+    {
+        "name": "Анна Гуманская",
+        "slug": "anna-gumanska"
+    },
+    {
+        "name": "Анна Димитрова",
+        "slug": "anna-dimitrova"
+    },
+    {
+        "name": "Анна дьо Ноай",
+        "slug": "anna-de-noailles"
+    },
+    {
+        "name": "Анна Петрова-Дюлгерова",
+        "slug": "anna-petrova-dulgerova"
+    },
+    {
+        "name": "Анна Фериеро",
+        "slug": "anna-ferriero"
+    },
+    {
+        "name": "Анонси",
+        "slug": "anonsi"
+    },
+    {
+        "name": "Анонси - онлайн",
+        "slug": "anonsi-online"
+    },
+    {
+        "name": "Анри Матис",
+        "slug": "henri-matisse"
+    },
+    {
+        "name": "Антоанета Добрева",
+        "slug": "antoaneta-dobreva"
+    },
+    {
+        "name": "Антоанета Николова",
+        "slug": "antoaneta-nikolova"
+    },
+    {
+        "name": "Антонен Арто",
+        "slug": "antonin-artaud"
+    },
+    {
+        "name": "Антонина Василева",
+        "slug": "antonina-vasileva"
+    },
+    {
+        "name": "Антонио Копола",
+        "slug": "antonio-coppola"
+    },
+    {
+        "name": "Антонио Риналди",
+        "slug": "antonio-rinaldi"
+    },
+    {
+        "name": "Антониу Рамуш Роза",
+        "slug": "antonio-ramos-rosa"
+    },
+    {
+        "name": "Антония Атанасова",
+        "slug": "antonia-atanasova"
+    },
+    {
+        "name": "апева",
+        "slug": "apeva"
+    },
+    {
+        "name": "Арво Валтон",
+        "slug": "arvo-valton"
+    },
+    {
+        "name": "Арина Димова",
+        "slug": "arina-dimova"
+    },
+    {
+        "name": "Арт платформа gabriell-e-lit",
+        "slug": "art-platforma-gabriell-e-lit"
+    },
+    {
+        "name": "Арт център Бяла",
+        "slug": "art-center-biala"
+    },
+    {
+        "name": "Артюр Рембо",
+        "slug": "arthur-rimbaod"
+    },
+    {
+        "name": "Артюр Юло",
+        "slug": "arthur-haulot"
+    },
+    {
+        "name": "Асен Селимски",
+        "slug": "asen-selimski"
+    },
+    {
+        "name": "Ася Трицова",
+        "slug": "asia-tritsova"
+    },
+    {
+        "name": "Атанас Далчев",
+        "slug": "atanas-dalchev"
+    },
+    {
+        "name": "Атанас Дудулов",
+        "slug": "atanas-dudulov"
+    },
+    {
+        "name": "Атанас Колев",
+        "slug": "atanas-kolev"
+    },
+    {
+        "name": "Атанас Москов",
+        "slug": "atanas-moskov"
+    },
+    {
+        "name": "Атанас Парушев - Шока",
+        "slug": "atanas-parushev-shoka"
+    },
+    {
+        "name": "Атанас Петров",
+        "slug": "atanas-petrov"
+    },
+    {
+        "name": "Атанас Райков",
+        "slug": "atanas-raikov"
+    },
+    {
+        "name": "Атанас Хранов",
+        "slug": "atanas-hranov"
+    },
+    {
+        "name": "Атанаска Иванова",
+        "slug": "atanaska-ivanova"
+    },
+    {
+        "name": "Аукцион",
+        "slug": "auction"
+    },
+    {
+        "name": "афоризми",
+        "slug": "aforizmi"
+    },
+    {
+        "name": "Баня Нацуиши",
+        "slug": "banya-natsuishi"
+    },
+    {
+        "name": "Барбара Анна Гаярдони",
+        "slug": "barbara-anna-gaiardoni"
+    },
+    {
+        "name": "Бартоло Катафи",
+        "slug": "bartolo-cattafi"
+    },
+    {
+        "name": "Без давност",
+        "slug": "bez-davnost"
+    },
+    {
+        "name": "Бела Барток",
+        "slug": "bela-bartok"
+    },
+    {
+        "name": "Белетристика",
+        "slug": "beletristika"
+    },
+    {
+        "name": "Белин Моллов",
+        "slug": "belin-mollov"
+    },
+    {
+        "name": "Белла Бенова",
+        "slug": "bella-benova"
+    },
+    {
+        "name": "Бернар Кирини",
+        "slug": "bernard-quiriny"
+    },
+    {
+        "name": "Бети Алвер",
+        "slug": "betti-alver"
+    },
+    {
+        "name": "Биенале",
+        "slug": "bienale"
+    },
+    {
+        "name": "Билал Лайпанов",
+        "slug": "bilal-laipanov"
+    },
+    {
+        "name": "Биографични бележки",
+        "slug": "biografichni-belejki"
+    },
+    {
+        "name": "Блага Димитрова",
+        "slug": "blaga-dimitrova"
+    },
+    {
+        "name": "Благовеста Касабова",
+        "slug": "blagovesta-kasabova"
+    },
+    {
+        "name": "Богдан Богдев",
+        "slug": "bogdan-bogdev"
+    },
+    {
+        "name": "Богдана Нейкова",
+        "slug": "bogdana-neikova"
+    },
+    {
+        "name": "Богинка Матеева",
+        "slug": "boginka-mateeva"
+    },
+    {
+        "name": "Божана Петкова-Харизанова",
+        "slug": "bojana-petkova-harizanova"
+    },
+    {
+        "name": "Божидар Бончев",
+        "slug": "bojidar-bonchev"
+    },
+    {
+        "name": "Божидар Пангелов",
+        "slug": "bojidar-pangelov"
+    },
+    {
+        "name": "Божидара Цекова",
+        "slug": "bojidara-tsekova"
+    },
+    {
+        "name": "Божидарка Божинова",
+        "slug": "bojidarka-bojinova"
+    },
+    {
+        "name": "Бойко Митков",
+        "slug": "boiko-mitkov"
+    },
+    {
+        "name": "Борис Рахнев",
+        "slug": "boris-rahnev"
+    },
+    {
+        "name": "Борис Цветанов",
+        "slug": "boris-tsvetanov"
+    },
+    {
+        "name": "Борислав Любомиров",
+        "slug": "borislav-lubomirov"
+    },
+    {
+        "name": "Борислава Узунова",
+        "slug": "borislava-uzunova"
+    },
+    {
+        "name": "Боряна Ботева",
+        "slug": "boriana-boteva"
+    },
+    {
+        "name": "Боян Балкански",
+        "slug": "boyan-balkanski"
+    },
+    {
+        "name": "Бранимир Георгиев",
+        "slug": "branimir-georgiev"
+    },
+    {
+        "name": "Бранимира Кунчева",
+        "slug": "branimira-kuncheva"
+    },
+    {
+        "name": "Братислав Иванов",
+        "slug": "bratislav-ivanov"
+    },
+    {
+        "name": "Българска литература",
+        "slug": "bulgarska-literatura"
+    },
+    {
+        "name": "Български танка клуб",
+        "slug": "bulgarian-tanka-club"
+    },
+    {
+        "name": "Български хайку съюз",
+        "slug": "bulgarian-haiku-union"
+    },
+    {
+        "name": "Българско съвременно хайку и танка",
+        "slug": "bulgarsko-savremenno-haiku-i-tanka"
+    },
+    {
+        "name": "В памет на",
+        "slug": "v-pamet-na"
+    },
+    {
+        "name": "В паметта ни",
+        "slug": "v-pametta-ni"
+    },
+    {
+        "name": "Валентин Ангелов",
+        "slug": "valentin-angelov"
+    },
+    {
+        "name": "Валентин Асенов-Хакъла",
+        "slug": "valentin-asenov-hakala"
+    },
+    {
+        "name": "Валентин Бакърджиев",
+        "slug": "valentin-bakardjiev"
+    },
+    {
+        "name": "Валентин Баров",
+        "slug": "valentin-barov"
+    },
+    {
+        "name": "Валентин Дончевски",
+        "slug": "valentin-donchevski"
+    },
+    {
+        "name": "Валентин Павлов-Вай Воф",
+        "slug": "valentin-pavlov-vai-vof"
+    },
+    {
+        "name": "Валентина Герова",
+        "slug": "valentina-gerova"
+    },
+    {
+        "name": "Валентина Григорова",
+        "slug": "valentina-grigorova"
+    },
+    {
+        "name": "Валентина Йорданова",
+        "slug": "valentina-jordanova"
+    },
+    {
+        "name": "Валентина Йотова-Тодорова",
+        "slug": "valentina-iotova-todorova"
+    },
+    {
+        "name": "Валентина Летяк",
+        "slug": "valentina-letiak"
+    },
+    {
+        "name": "Валентина Мелони",
+        "slug": "valentina-meloni"
+    },
+    {
+        "name": "Валентина Стоянова - ЛидаВали",
+        "slug": "valentina-stoyanova-lidavali"
+    },
+    {
+        "name": "Валентина Щайн",
+        "slug": "valentina-shtain"
+    },
+    {
+        "name": "Валерий Йотов",
+        "slug": "valerii-iotov"
+    },
+    {
+        "name": "Валерия Тодорова",
+        "slug": "valeria-todorova"
+    },
+    {
+        "name": "Ваня / Иванка Лапавичева",
+        "slug": "vania-lapavicheva"
+    },
+    {
+        "name": "Ваня Йорданова",
+        "slug": "vania-jordanova"
+    },
+    {
+        "name": "Ваня Колева",
+        "slug": "vania-koleva"
+    },
+    {
+        "name": "Ваня Статева",
+        "slug": "vania-stateva"
+    },
+    {
+        "name": "Васил Бараков",
+        "slug": "vasil-barakov"
+    },
+    {
+        "name": "Васил Кондов",
+        "slug": "vasil-kondov"
+    },
+    {
+        "name": "Васил Левски",
+        "slug": "vasil-levski"
+    },
+    {
+        "name": "Васил Стоилов",
+        "slug": "vasil-stoilov"
+    },
+    {
+        "name": "Василе Никулеску",
+        "slug": "vasile-niculescu"
+    },
+    {
+        "name": "Василе Романчук",
+        "slug": "vasile-romanchuk"
+    },
+    {
+        "name": "Василен Васевски",
+        "slug": "vasilen-vasevski"
+    },
+    {
+        "name": "Васка Монева",
+        "slug": "vaska-moneva"
+    },
+    {
+        "name": "Ваяна Панкова",
+        "slug": "vaiana-pankova"
+    },
+    {
+        "name": "Велиана Симеонова",
+        "slug": "veliana-simeonova"
+    },
+    {
+        "name": "Велико Маринчевски",
+        "slug": "veliko-marinchevski"
+    },
+    {
+        "name": "Велислава Иванова",
+        "slug": "velislava-ivanova"
+    },
+    {
+        "name": "Величка Вълчева",
+        "slug": "velichka-valcheva"
+    },
+    {
+        "name": "Велка Стамова",
+        "slug": "velka-stamova"
+    },
+    {
+        "name": "Велла Неделчева",
+        "slug": "vella-nedelcheva"
+    },
+    {
+        "name": "Венелин Терзиев",
+        "slug": "venelin-terziev"
+    },
+    {
+        "name": "Венелина Петкова",
+        "slug": "venelina-petkova"
+    },
+    {
+        "name": "Венцеслав Константинов",
+        "slug": "ventseslav-kostadinov"
+    },
+    {
+        "name": "Венци Любомиров",
+        "slug": "ventsi-lubomirov"
+    },
+    {
+        "name": "Венцислав Иванов",
+        "slug": "ventsislav-ivanov"
+    },
+    {
+        "name": "Вера Ганчева",
+        "slug": "vera-gancheva"
+    },
+    {
+        "name": "Вера Костадинова",
+        "slug": "vera-kostadinova"
+    },
+    {
+        "name": "Вероника Иванова",
+        "slug": "veronika-ivanova"
+    },
+    {
+        "name": "Весела Люцканова",
+        "slug": "vesela-lutzkanova"
+    },
+    {
+        "name": "Веселин Веселинов",
+        "slug": "veselin-veselinov"
+    },
+    {
+        "name": "Веселин Господинов",
+        "slug": "veselin-gospodinov"
+    },
+    {
+        "name": "Веселин Касчиев",
+        "slug": "veselin-kaschiev"
+    },
+    {
+        "name": "Веселина Башова",
+        "slug": "veselina-bashova"
+    },
+    {
+        "name": "Веселина Камбурова",
+        "slug": "veselina-kamburova"
+    },
+    {
+        "name": "Веселина Кожухарова",
+        "slug": "veselina-kojuharova"
+    },
+    {
+        "name": "Веселка Кюкова",
+        "slug": "veselka-kukova"
+    },
+    {
+        "name": "Весислава Савова",
+        "slug": "vesislava-savova"
+    },
+    {
+        "name": "Веско Велев",
+        "slug": "vesko-velev"
+    },
+    {
+        "name": "вестник \"Хайку новини\" - Ниш",
+        "slug": "vestnik-haiku-novini-nish"
+    },
+    {
+        "name": "Визуални изкуства",
+        "slug": "vizualni-izkustva"
+    },
+    {
+        "name": "визуални изкуства - онлайн",
+        "slug": "vizualni-izkustva-online"
+    },
+    {
+        "name": "Виктор Желев-Викей",
+        "slug": "viktor-jelev-vikei"
+    },
+    {
+        "name": "Виктор Марешов",
+        "slug": "viktor-mareshov"
+    },
+    {
+        "name": "Виктор Сегален",
+        "slug": "victor-segalen"
+    },
+    {
+        "name": "Виктория Динкъ",
+        "slug": "viktoria-dinka"
+    },
+    {
+        "name": "Виктория Маринова",
+        "slug": "viktoria-marinova"
+    },
+    {
+        "name": "Винсент ван Гог",
+        "slug": "vincent-van-gogh"
+    },
+    {
+        "name": "Виолета Радева",
+        "slug": "violeta-radeva"
+    },
+    {
+        "name": "Виолета Солникова",
+        "slug": "violeta-solnikova"
+    },
+    {
+        "name": "Виолета Цолова",
+        "slug": "violeta-tsolova"
+    },
+    {
+        "name": "Вихрен Бънков",
+        "slug": "vihren-bankov"
+    },
+    {
+        "name": "Владан Лалович",
+        "slug": "vladan-lalovich"
+    },
+    {
+        "name": "Владимир Бараков",
+        "slug": "vladimir-barakov"
+    },
+    {
+        "name": "Владимир Башев",
+        "slug": "vladimir-bashev"
+    },
+    {
+        "name": "Владимир Димитров - Майстора",
+        "slug": "vladimir-dimitrov-maistora"
+    },
+    {
+        "name": "Владимир Карамазов",
+        "slug": "vladimir-karamazov"
+    },
+    {
+        "name": "Владимир Климук",
+        "slug": "vladimir-klimuk"
+    },
+    {
+        "name": "Владимир Луков",
+        "slug": "vladimir-lukov"
+    },
+    {
+        "name": "Владимир Цоневски",
+        "slug": "vladimir-tsonevski"
+    },
+    {
+        "name": "Владислав Христов",
+        "slug": "vladislav-hristov"
+    },
+    {
+        "name": "Войчех Кас",
+        "slug": "voicheh-kas"
+    },
+    {
+        "name": "Волфганг Амадеус Моцарт",
+        "slug": "wolfgang-amadeus-mozart"
+    },
+    {
+        "name": "ВОНЧ \"Зора-1866\" Русе",
+        "slug": "vonch-zora-1866-ruse"
+    },
+    {
+        "name": "Във фокуса ни",
+        "slug": "vyv-fokusa-ni"
+    },
+    {
+        "name": "Вяра Дамянова",
+        "slug": "viara-damianova"
+    },
+    {
+        "name": "Вяра Попова",
+        "slug": "viara-popova"
+    },
+    {
+        "name": "Габриела Жекова",
+        "slug": "gabriela-jekova"
+    },
+    {
+        "name": "Габриела Негряну",
+        "slug": "gabriela-negryanu"
+    },
+    {
+        "name": "Габриела Стефанова",
+        "slug": "gabriela-stefanova"
+    },
+    {
+        "name": "Габриела Цанева",
+        "slug": "gabriela-zaneva"
+    },
+    {
+        "name": "Галерия - ХГ-Перник",
+        "slug": "galeriya-hg-pernik"
+    },
+    {
+        "name": "Галерия \"Борис Георгиев\"-Варна",
+        "slug": "galeria-boris-georgiev-varna"
+    },
+    {
+        "name": "Галерия \"Графит\"",
+        "slug": "galeria-grafit"
+    },
+    {
+        "name": "Галерия \"Кракра\" - Перник",
+        "slug": "galeria-krakra-pernik"
+    },
+    {
+        "name": "Галерия \"Любен Гайдаров\" - Перник",
+        "slug": "galeria-luben-gaidarov-pernik"
+    },
+    {
+        "name": "Галерия \"Марин Гогев\" - Перник",
+        "slug": "galeria-marin-gogev-pernik"
+    },
+    {
+        "name": "Галерия \"Париж\"",
+        "slug": "galeriya-parizh"
+    },
+    {
+        "name": "Галерия \"Ракурси\"",
+        "slug": "galeria-rakursi"
+    },
+    {
+        "name": "Галерия \"Сердика\"",
+        "slug": "galeria-serdika"
+    },
+    {
+        "name": "Галерия \"Станка Димитрова\" - Кърджали",
+        "slug": "galeria-stanka-dimitrova-kardjali"
+    },
+    {
+        "name": "Галерия \"Форум\" - Хасково",
+        "slug": "galeria-forum-haskovo"
+    },
+    {
+        "name": "Галерия \"ХГ-Русе\"",
+        "slug": "hudojestvena-galeria-ruse"
+    },
+    {
+        "name": "Галерия \"Шипка-6\"-СБХ",
+        "slug": "galeria-shipka-6-sbh"
+    },
+    {
+        "name": "Галерия gabriell-e-lit",
+        "slug": "galeria-gabriell-e-lit"
+    },
+    {
+        "name": "Галерия L’union",
+        "slug": "galeria-lunion"
+    },
+    {
+        "name": "Галерия-книжарница София Прес",
+        "slug": "galeria-knijarnitsa-sofia-pres"
+    },
+    {
+        "name": "Галина Розора",
+        "slug": "galina-rozora"
+    },
+    {
+        "name": "Ганка Найденова",
+        "slug": "ganka-naydenova"
+    },
+    {
+        "name": "Гастрол",
+        "slug": "gastrol"
+    },
+    {
+        "name": "Гатя Симеонова",
+        "slug": "gatia-simeonova"
+    },
+    {
+        "name": "Генко Генков",
+        "slug": "genko-genkov"
+    },
+    {
+        "name": "Гео Милев",
+        "slug": "geo-milev"
+    },
+    {
+        "name": "Георг Фридрих Хендел",
+        "slug": "georg-fridrih-hendel"
+    },
+    {
+        "name": "Георге Фъркашу",
+        "slug": "george-farcashu"
+    },
+    {
+        "name": "Георги Атанасов",
+        "slug": "georgi-atanasov"
+    },
+    {
+        "name": "Георги Божилов-Слона",
+        "slug": "georgi-bojilov-slona"
+    },
+    {
+        "name": "Георги Делев",
+        "slug": "georgi-delev"
+    },
+    {
+        "name": "Георги Жулев",
+        "slug": "georgi-julev"
+    },
+    {
+        "name": "Георги Иронов",
+        "slug": "georgi-ironov"
+    },
+    {
+        "name": "Георги Константинов",
+        "slug": "georgi-konstantinov"
+    },
+    {
+        "name": "Георги Лефтеров-Майстора",
+        "slug": "georgi-lefterov-maystora"
+    },
+    {
+        "name": "Георги Марков",
+        "slug": "georgi-markov"
+    },
+    {
+        "name": "Георги Пинчев",
+        "slug": "georgi-pinchev"
+    },
+    {
+        "name": "Георги Радулов",
+        "slug": "georgi-radulov"
+    },
+    {
+        "name": "Георги Раковски",
+        "slug": "georgi-rakovski"
+    },
+    {
+        "name": "Георги Режев",
+        "slug": "georgi-rejev"
+    },
+    {
+        "name": "Георги Стаматов",
+        "slug": "georgi-stamatov"
+    },
+    {
+        "name": "Георги Търпанов",
+        "slug": "georgi-tarpanov"
+    },
+    {
+        "name": "Георги Цанков",
+        "slug": "georgi-tsankov"
+    },
+    {
+        "name": "Георги Чендов",
+        "slug": "georgi-chendov"
+    },
+    {
+        "name": "Гергана Христова",
+        "slug": "gergana-hristova"
+    },
+    {
+        "name": "Гинка Билярска",
+        "slug": "ginka-biliarska"
+    },
+    {
+        "name": "Глория Костадинова-Петрова",
+        "slug": "gloria-kostadinova-petrova"
+    },
+    {
+        "name": "Гостува ни",
+        "slug": "gostuva-ni"
+    },
+    {
+        "name": "Гоце Делчев",
+        "slug": "gotse-delchev"
+    },
+    {
+        "name": "гранични изкуства",
+        "slug": "granichni-izkustva"
+    },
+    {
+        "name": "Греди Асса",
+        "slug": "gredy-assa"
+    },
+    {
+        "name": "Григоре Виеру",
+        "slug": "grigore-vieru"
+    },
+    {
+        "name": "Густав Климт",
+        "slug": "gustav-klimt"
+    },
+    {
+        "name": "Гьоте Институт",
+        "slug": "gote-institut"
+    },
+    {
+        "name": "д-р Васил Харизанов",
+        "slug": "d-r-vasil-harizanov"
+    },
+    {
+        "name": "д-р Веселина Узунова",
+        "slug": "d-r-veselina-uzunova"
+    },
+    {
+        "name": "д-р Габриела Цанева",
+        "slug": "d-r-gabriela-zaneva"
+    },
+    {
+        "name": "д-р Красимира Узунова",
+        "slug": "d-r-krasimira-uzunova"
+    },
+    {
+        "name": "Далай Лама",
+        "slug": "dalai-lama"
+    },
+    {
+        "name": "Дамски литературен салон \"Евгения Марс\"",
+        "slug": "damski-literaturen-salon-evgenia-mars"
+    },
+    {
+        "name": "Дан Верона",
+        "slug": "dan-verona"
+    },
+    {
+        "name": "Дан Муташку",
+        "slug": "dan-mutashku"
+    },
+    {
+        "name": "Дан Скордели",
+        "slug": "dan-skordeli"
+    },
+    {
+        "name": "Данаил Антонов - Danny Diester",
+        "slug": "danail-antonov-danny-diester"
+    },
+    {
+        "name": "Даниел Генчев",
+        "slug": "daniel-genchev"
+    },
+    {
+        "name": "Даниел Дянков",
+        "slug": "daniel-diankov"
+    },
+    {
+        "name": "Даниел Йорданов - Алберчи",
+        "slug": "daniel-jordanov-alberchi"
+    },
+    {
+        "name": "Даниел Петров",
+        "slug": "daniel-petrov"
+    },
+    {
+        "name": "Даниел Турча",
+        "slug": "daniel-turcha"
+    },
+    {
+        "name": "Даниела Ангелова",
+        "slug": "daniela-angelova"
+    },
+    {
+        "name": "Даниела Горчева",
+        "slug": "daniela-gorcheva"
+    },
+    {
+        "name": "Даниела Николова",
+        "slug": "daniela-nikolova"
+    },
+    {
+        "name": "Даниела Симеоновска",
+        "slug": "daniela-simeonovska"
+    },
+    {
+        "name": "Даниела Трачева",
+        "slug": "daniela-tracheva"
+    },
+    {
+        "name": "Дарина Дикова",
+        "slug": "darina-dikova"
+    },
+    {
+        "name": "Дарина Душкова",
+        "slug": "darina-dushkova"
+    },
+    {
+        "name": "Дарина Цветкова",
+        "slug": "darina-tsvetkova"
+    },
+    {
+        "name": "Дария Георгиева",
+        "slug": "daria-georgieva"
+    },
+    {
+        "name": "Дафина Кузманова",
+        "slug": "dafina-kuzmanova"
+    },
+    {
+        "name": "Даша Добрева",
+        "slug": "dasha-dobreva"
+    },
+    {
+        "name": "Деби Стрейндж",
+        "slug": "debbie-strange"
+    },
+    {
+        "name": "Дебора П. Колоджи",
+        "slug": "deborah-p-kolodji"
+    },
+    {
+        "name": "Дейвид Георгиев",
+        "slug": "deivid-georgiev"
+    },
+    {
+        "name": "Дейвид Ланю",
+        "slug": "david-lanoue"
+    },
+    {
+        "name": "Денис Миланов",
+        "slug": "denis-milanov"
+    },
+    {
+        "name": "Денис Олегов",
+        "slug": "denis-olegov"
+    },
+    {
+        "name": "Деси Цветкова",
+        "slug": "dessy-tsvetkova"
+    },
+    {
+        "name": "Десислава Стоянова",
+        "slug": "desislava-stoyanova"
+    },
+    {
+        "name": "Детелина Стефанова",
+        "slug": "detelina-stefanova"
+    },
+    {
+        "name": "Детелина Тихолова",
+        "slug": "detelina-tiholnova"
+    },
+    {
+        "name": "Деян Богоевич",
+        "slug": "deyan-bogoevich"
+    },
+    {
+        "name": "Деян Павлинович",
+        "slug": "dejan-pavlinovich"
+    },
+    {
+        "name": "Джанг Хюей",
+        "slug": "zhang-hui"
+    },
+    {
+        "name": "Джани Родари",
+        "slug": "gianni-rodari"
+    },
+    {
+        "name": "Джанино Даскалов",
+        "slug": "djanino-daskalov"
+    },
+    {
+        "name": "Джеймс Къркъп",
+        "slug": "james-kirkup"
+    },
+    {
+        "name": "Джим Кейшън",
+        "slug": "jim-kacian"
+    },
+    {
+        "name": "Джовани Джудичи",
+        "slug": "giovanni-giudici"
+    },
+    {
+        "name": "Джовани Папини",
+        "slug": "dzhovani-papini"
+    },
+    {
+        "name": "Джованино Гуарески",
+        "slug": "giovannino-guareschi"
+    },
+    {
+        "name": "Джордже Албою",
+        "slug": "dzhordzhe-alboyu"
+    },
+    {
+        "name": "Джордже Баковиа",
+        "slug": "george-bacovia"
+    },
+    {
+        "name": "Джорджо Капрони",
+        "slug": "giorgio-caproni"
+    },
+    {
+        "name": "Джошкун Сами",
+        "slug": "dzhoshkun-sami"
+    },
+    {
+        "name": "Джузепе Унгарети",
+        "slug": "giuseppe-ungaretti"
+    },
+    {
+        "name": "Джун Джордан",
+        "slug": "june-jordan"
+    },
+    {
+        "name": "Джуна Харизанова",
+        "slug": "juna-harizanova"
+    },
+    {
+        "name": "Диана Георгиева - Di-Light",
+        "slug": "diana-georgieva-di-light"
+    },
+    {
+        "name": "Диана Стефанова",
+        "slug": "diana-stefanova"
+    },
+    {
+        "name": "Диана Тенева",
+        "slug": "diana-teneva"
+    },
+    {
+        "name": "Диана Фъртунова",
+        "slug": "diana-fartunova"
+    },
+    {
+        "name": "Диего Веласкес",
+        "slug": "diego-velazquez"
+    },
+    {
+        "name": "Диляна Георгиева",
+        "slug": "diliana-georgieva"
+    },
+    {
+        "name": "Диляна Тодорова",
+        "slug": "diliana-todorova"
+    },
+    {
+        "name": "Дими Борисова",
+        "slug": "dimi-borisova"
+    },
+    {
+        "name": "Димитрина Петрова",
+        "slug": "dimitrina-petrova"
+    },
+    {
+        "name": "Димитру Раду Попеску",
+        "slug": "dimitru-radu-popesku"
+    },
+    {
+        "name": "Димитър Анакиев",
+        "slug": "dimitar-anakiev"
+    },
+    {
+        "name": "Димитър Бояджиев",
+        "slug": "dimitar-boyadjiev"
+    },
+    {
+        "name": "Димитър Васин",
+        "slug": "dimitar-vasin"
+    },
+    {
+        "name": "Димитър Владов",
+        "slug": "dimitar-vladov"
+    },
+    {
+        "name": "Димитър Вълчев",
+        "slug": "dimitar-valchev"
+    },
+    {
+        "name": "Димитър Горсов",
+        "slug": "dimitar-gorsov"
+    },
+    {
+        "name": "Димитър Драганов",
+        "slug": "dimitar-draganov"
+    },
+    {
+        "name": "Димитър Казаков-Нерон",
+        "slug": "dimitar-kazakov-neron"
+    },
+    {
+        "name": "Димитър Лазаров",
+        "slug": "dimitar-lazarov"
+    },
+    {
+        "name": "Димитър Мантов",
+        "slug": "dimitar-mantov"
+    },
+    {
+        "name": "Димитър Милушев",
+        "slug": "dimitar-milushev"
+    },
+    {
+        "name": "Димитър Палазов",
+        "slug": "dimitar-palazov"
+    },
+    {
+        "name": "Димитър Пенчев",
+        "slug": "dimitar-penchev"
+    },
+    {
+        "name": "Димитър Петков",
+        "slug": "dimitar-petkov"
+    },
+    {
+        "name": "Димитър Петров",
+        "slug": "dimitar-petrov"
+    },
+    {
+        "name": "Димитър Стефанов",
+        "slug": "dimitar-stefanov"
+    },
+    {
+        "name": "Димитър Талев",
+        "slug": "dimitat-talev"
+    },
+    {
+        "name": "Димитър Христов",
+        "slug": "dimitar-hristov"
+    },
+    {
+        "name": "Димчо Дебелянов",
+        "slug": "dimcho-debelianov"
+    },
+    {
+        "name": "Дияна Иванова",
+        "slug": "diyana-ivanova"
+    },
+    {
+        "name": "Добавена от автора публицакия",
+        "slug": "dobavena-ot-avtora-publikatsia"
+    },
+    {
+        "name": "Добрина Симова",
+        "slug": "dobrina-simova"
+    },
+    {
+        "name": "Добромир Георгиев",
+        "slug": "dobromir-georgiev"
+    },
+    {
+        "name": "Добромир Тонев",
+        "slug": "dobromir-tonev"
+    },
+    {
+        "name": "Доброцвета Илиева",
+        "slug": "dobrotsveta-ilieva"
+    },
+    {
+        "name": "документална проза",
+        "slug": "dokumentalna-proza"
+    },
+    {
+        "name": "Доменико Чимароза",
+        "slug": "domenico-cimarosa"
+    },
+    {
+        "name": "Дончо Захариев",
+        "slug": "doncho-zahariev"
+    },
+    {
+        "name": "Дора Габе",
+        "slug": "dora-gabe"
+    },
+    {
+        "name": "Дора Дякова",
+        "slug": "dora-diakova"
+    },
+    {
+        "name": "Дора Каменова",
+        "slug": "dora-kamenova"
+    },
+    {
+        "name": "Дора Конова",
+        "slug": "dora-konova"
+    },
+    {
+        "name": "Дора Нонинска",
+        "slug": "dora-noninska"
+    },
+    {
+        "name": "Дора Янева-Медникарова",
+        "slug": "dora-yaneva-mednikarova"
+    },
+    {
+        "name": "Дорин Тудоран",
+        "slug": "dorin-tudoran"
+    },
+    {
+        "name": "доц. д-р Марин Георгиев",
+        "slug": "doc-d-r-marin-georgiev"
+    },
+    {
+        "name": "Драган Ристич",
+        "slug": "dragan-ristic"
+    },
+    {
+        "name": "Драма",
+        "slug": "drama"
+    },
+    {
+        "name": "Думитру М. Йон",
+        "slug": "dumitru-m-ion"
+    },
+    {
+        "name": "Дуня Паланджеану",
+        "slug": "dunia-palangeanu"
+    },
+    {
+        "name": "Дьониз Жале",
+        "slug": "denise-jallais"
+    },
+    {
+        "name": "е-Библиотека gabriell-e-lit",
+        "slug": "e-biblioteka-gabriell-e-lit"
+    },
+    {
+        "name": "е-книги на издателство gabriell-e-lit",
+        "slug": "e-knigi-na-izdatelstvo-gabriell-e-lit"
+    },
+    {
+        "name": "е-Книжарница gabriell-e-lit",
+        "slug": "e-knijarnica-gabriell-e-lit"
+    },
+    {
+        "name": "Евгения Кънева",
+        "slug": "evgenia-kaneva"
+    },
+    {
+        "name": "Евелина Стоицева",
+        "slug": "evelina-stoitseva"
+    },
+    {
+        "name": "Евелина Тодорова",
+        "slug": "evelina-todorova"
+    },
+    {
+        "name": "Евтим Евтимов",
+        "slug": "evtim-evtimov"
+    },
+    {
+        "name": "Едвин Сугарев",
+        "slug": "edvin-sugarev"
+    },
+    {
+        "name": "Едгар Дега",
+        "slug": "edgar-degas"
+    },
+    {
+        "name": "Един Сарачевич",
+        "slug": "edin-sarachevich"
+    },
+    {
+        "name": "Едит Сьодергран",
+        "slug": "edith-sodergran"
+    },
+    {
+        "name": "Едуар Мане",
+        "slug": "edouard-manet"
+    },
+    {
+        "name": "Ежиту Гонсалвеш",
+        "slug": "egito-goncalvesh"
+    },
+    {
+        "name": "език и литература",
+        "slug": "ezik-i-literatura"
+    },
+    {
+        "name": "Елена Богданова-Влайкова",
+        "slug": "elena-bogdanova-vlaikova"
+    },
+    {
+        "name": "Елена Диварова",
+        "slug": "elena-divarova"
+    },
+    {
+        "name": "Елена Темелкова",
+        "slug": "elena-temelkova"
+    },
+    {
+        "name": "Елиас Канети",
+        "slug": "elias-canetti"
+    },
+    {
+        "name": "Елиза Ковачева-Цокова",
+        "slug": "eliza-kovacheva-tsokova"
+    },
+    {
+        "name": "Елин Пелин",
+        "slug": "elin-pelin"
+    },
+    {
+        "name": "Елио Филипо Акрока",
+        "slug": "elio-filippo-accrocca"
+    },
+    {
+        "name": "Елисавета Багряна",
+        "slug": "elisaveta-bagriana"
+    },
+    {
+        "name": "Елисавета Великова",
+        "slug": "elisaveta-velikova"
+    },
+    {
+        "name": "Елисавета Йовович",
+        "slug": "elisaveta-yovovich"
+    },
+    {
+        "name": "Елисавета Кочева",
+        "slug": "elisaveta-kocheva"
+    },
+    {
+        "name": "Елисавета Мелинте",
+        "slug": "elisaveta-melinte"
+    },
+    {
+        "name": "Елисавета Трендафилова-Радева",
+        "slug": "elisaveta-trendafilova-radeva"
+    },
+    {
+        "name": "Елисавета Цветкова",
+        "slug": "elisaveta-tsvetkova"
+    },
+    {
+        "name": "Елисавета Шапкарева",
+        "slug": "elisaveta-shapkareva"
+    },
+    {
+        "name": "Елица Баръмова - Барамо",
+        "slug": "elitsa-baramova-baramo"
+    },
+    {
+        "name": "Елица Калоянова",
+        "slug": "elitsa-kaloyanova"
+    },
+    {
+        "name": "Емануил Попдимитров",
+        "slug": "emanuil-popdimitrov"
+    },
+    {
+        "name": "Емил Кръстев",
+        "slug": "emil-krastev"
+    },
+    {
+        "name": "Емил Мишел Чоран",
+        "slug": "emile-michel-cioran"
+    },
+    {
+        "name": "Емил Петров",
+        "slug": "emil-petrov"
+    },
+    {
+        "name": "Емилия Василева",
+        "slug": "emilia-vasileva"
+    },
+    {
+        "name": "Емилия Юкер",
+        "slug": "emilia-uker"
+    },
+    {
+        "name": "Еномото Сейфу",
+        "slug": "enomoto-seifu"
+    },
+    {
+        "name": "Енчо Димитров",
+        "slug": "encho-dimitrov"
+    },
+    {
+        "name": "Епиграми",
+        "slug": "epigrami"
+    },
+    {
+        "name": "Ерика Лазарова",
+        "slug": "erika-lazarova"
+    },
+    {
+        "name": "Ертан Алев",
+        "slug": "ertan-alev"
+    },
+    {
+        "name": "Есе",
+        "slug": "ese"
+    },
+    {
+        "name": "Еудженио Монтале",
+        "slug": "eugenio-montale"
+    },
+    {
+        "name": "Жак Превер",
+        "slug": "jacques-prevert"
+    },
+    {
+        "name": "Жан Батист Барониан",
+        "slug": "jean-baptiste-baronian"
+    },
+    {
+        "name": "Жан Кокто",
+        "slug": "jean-cocteau"
+    },
+    {
+        "name": "Жан Пол Сартр",
+        "slug": "jean-paul-sartre"
+    },
+    {
+        "name": "Жан Портант",
+        "slug": "jean-portante"
+    },
+    {
+        "name": "Жеко Тодоров",
+        "slug": "jeko-todorov"
+    },
+    {
+        "name": "Желю Желев",
+        "slug": "zhelyu-zhelev"
+    },
+    {
+        "name": "Женя Сертева",
+        "slug": "jenia-serteva"
+    },
+    {
+        "name": "Живка Танчева",
+        "slug": "jivka-tancheva"
+    },
+    {
+        "name": "Живодар Душков",
+        "slug": "jivodar-dushkov"
+    },
+    {
+        "name": "Живопис",
+        "slug": "jivopis"
+    },
+    {
+        "name": "Жузе Жорж Летрия",
+        "slug": "jose-george-letria"
+    },
+    {
+        "name": "Жузе Мануел Мендеш",
+        "slug": "jose-manuel-mendes"
+    },
+    {
+        "name": "Жулиен Райнов",
+        "slug": "julien-rainov"
+    },
+    {
+        "name": "За арт платформа gabriell-e-lit",
+        "slug": "za-art-platforma-gabriell-e-lit"
+    },
+    {
+        "name": "За издателството",
+        "slug": "za-izdatelstvoto"
+    },
+    {
+        "name": "За личността и творчеството",
+        "slug": "za-lichnostta-i-tvorchestvoto"
+    },
+    {
+        "name": "за научните издания gabriell-e-lit",
+        "slug": "za-nauchnite-izdania-gabriell-e-lit"
+    },
+    {
+        "name": "за първи път на български език",
+        "slug": "za-pyrvi-pyt-na-bulgarski-ezik"
+    },
+    {
+        "name": "За списанието",
+        "slug": "za-spisanieto"
+    },
+    {
+        "name": "Захари Иванов",
+        "slug": "zahari-ivanov"
+    },
+    {
+        "name": "Захарий Стоянов",
+        "slug": "zaharii-stoyanov"
+    },
+    {
+        "name": "Звезделина Гечева",
+        "slug": "zvezdelina-gecheva"
+    },
+    {
+        "name": "Здравка Христова",
+        "slug": "zdravka-hristova"
+    },
+    {
+        "name": "Зиятин Нуриев",
+        "slug": "ziyatin-nuriev"
+    },
+    {
+        "name": "Златил Йотов",
+        "slug": "zlatil-iotov"
+    },
+    {
+        "name": "Златка Тименова",
+        "slug": "zlatka-timenova"
+    },
+    {
+        "name": "Златю Бояджиев",
+        "slug": "zlatyu-boyadzhiev"
+    },
+    {
+        "name": "Змей Горянин",
+        "slug": "zmei-gorianin"
+    },
+    {
+        "name": "Золтан Яноши",
+        "slug": "zoltan-janosi"
+    },
+    {
+        "name": "Зорница Харизанова",
+        "slug": "zornitza-harizanova"
+    },
+    {
+        "name": "Зоя Раднева",
+        "slug": "zoya-radneva"
+    },
+    {
+        "name": "Иан Менс",
+        "slug": "yann-mens"
+    },
+    {
+        "name": "Ива Радоева",
+        "slug": "iva-radoeva"
+    },
+    {
+        "name": "Ива Харизанова",
+        "slug": "iva-harizanova"
+    },
+    {
+        "name": "Ивайло Каменов",
+        "slug": "ivailo-kamenov"
+    },
+    {
+        "name": "Иван Антонов",
+        "slug": "ivan-antonov"
+    },
+    {
+        "name": "Иван Белев",
+        "slug": "ivan-belev"
+    },
+    {
+        "name": "Иван Бобев",
+        "slug": "ivan-bobev"
+    },
+    {
+        "name": "Иван Бонев",
+        "slug": "ivan-bonev"
+    },
+    {
+        "name": "Иван Бориславов",
+        "slug": "ivan-borislavov"
+    },
+    {
+        "name": "Иван Бързаков",
+        "slug": "ivan-barzakov"
+    },
+    {
+        "name": "Иван Вазов",
+        "slug": "ivan-vazov"
+    },
+    {
+        "name": "Иван Влаев",
+        "slug": "ivan-vlaev"
+    },
+    {
+        "name": "Иван Гранитски",
+        "slug": "ivan-granitski"
+    },
+    {
+        "name": "Иван Динков",
+        "slug": "ivan-dinkov"
+    },
+    {
+        "name": "Иван Додов",
+        "slug": "ivan-dodov"
+    },
+    {
+        "name": "Иван Драч",
+        "slug": "ivan-drach"
+    },
+    {
+        "name": "Иван Иванов",
+        "slug": "ivan-ivanov"
+    },
+    {
+        "name": "Иван Иванов-Йоаний",
+        "slug": "ivan-ivanov-ioanii"
+    },
+    {
+        "name": "Иван Йотов",
+        "slug": "ivan-jotov"
+    },
+    {
+        "name": "Иван Коларов",
+        "slug": "ivan-kolarov"
+    },
+    {
+        "name": "Иван Кръстев",
+        "slug": "ivan-krastev"
+    },
+    {
+        "name": "Иван Методиев",
+        "slug": "ivan-metodiev"
+    },
+    {
+        "name": "Иван Пачников",
+        "slug": "ivan-pachnikov"
+    },
+    {
+        "name": "Иван Радоев",
+        "slug": "ivan-radoev"
+    },
+    {
+        "name": "Иван Северняшки",
+        "slug": "ivan-severniashki"
+    },
+    {
+        "name": "Иван Селановски",
+        "slug": "ivan-selanovski"
+    },
+    {
+        "name": "Иван Хаджийски",
+        "slug": "ivan-hadjiiski"
+    },
+    {
+        "name": "Иван Шаламанов",
+        "slug": "ivan-shalamanov"
+    },
+    {
+        "name": "Иванка Павлова",
+        "slug": "ivanka-pavlova"
+    },
+    {
+        "name": "Иванка Попова-Велева",
+        "slug": "ivanka-popova-veleva"
+    },
+    {
+        "name": "Иванка Янкова",
+        "slug": "ivanka-yankova"
+    },
+    {
+        "name": "Ивелина Радионова",
+        "slug": "ivelina-radionova"
+    },
+    {
+        "name": "Ивелина Цветкова",
+        "slug": "ivelina-tsvetkova"
+    },
+    {
+        "name": "Иво Братанов",
+        "slug": "ivo-bratanov"
+    },
+    {
+        "name": "Иглика Пеева",
+        "slug": "iglika-peeva"
+    },
+    {
+        "name": "Игор Стравински",
+        "slug": "igor-stravinski"
+    },
+    {
+        "name": "Издателство gabriell-e-lit",
+        "slug": "izdatelstvo-gabriell-e-lit"
+    },
+    {
+        "name": "изкуствознание",
+        "slug": "izkustvoznanie"
+    },
+    {
+        "name": "Изкуството на превода",
+        "slug": "izkustvoto-na-prevoda"
+    },
+    {
+        "name": "изложба",
+        "slug": "izlojba"
+    },
+    {
+        "name": "икебана",
+        "slug": "ikebana"
+    },
+    {
+        "name": "Икуйо Йошимура",
+        "slug": "ikuyo-yoshimura"
+    },
+    {
+        "name": "Илиан Любенов",
+        "slug": "ilian-lubenov"
+    },
+    {
+        "name": "Илиана Илиева",
+        "slug": "iliana-ilieva"
+    },
+    {
+        "name": "Илия Бешков",
+        "slug": "iliya-beshkov"
+    },
+    {
+        "name": "Илия Василев",
+        "slug": "iliya-vasilev"
+    },
+    {
+        "name": "Илия Янков",
+        "slug": "iliya-yankov"
+    },
+    {
+        "name": "Илиян Петров",
+        "slug": "iliyan-petrov"
+    },
+    {
+        "name": "Илиян Сабадошев",
+        "slug": "iliyan-sabadoshev"
+    },
+    {
+        "name": "Илияна Кръстева",
+        "slug": "iliyana-krasteva"
+    },
+    {
+        "name": "Илияна Стоянова",
+        "slug": "iliyana-stoyanova"
+    },
+    {
+        "name": "Илко Савчев",
+        "slug": "ilko-savchev"
+    },
+    {
+        "name": "Импресия",
+        "slug": "impresia"
+    },
+    {
+        "name": "Ина Стана Ребиган",
+        "slug": "ina-stana-rebigan"
+    },
+    {
+        "name": "Ина Тин",
+        "slug": "ina-tin"
+    },
+    {
+        "name": "Ина Христова",
+        "slug": "ina-hristova"
+    },
+    {
+        "name": "интервю",
+        "slug": "interviu"
+    },
+    {
+        "name": "Ирена Арсова",
+        "slug": "irena-arsova"
+    },
+    {
+        "name": "Ирина Александрова",
+        "slug": "irina-alexandrova"
+    },
+    {
+        "name": "Ирина Пожарицка",
+        "slug": "irina-pojaritska"
+    },
+    {
+        "name": "Искър Шуманов",
+        "slug": "iskar-shumanov"
+    },
+    {
+        "name": "Исмет Чавушоглу",
+        "slug": "ismet-chavushoglu"
+    },
+    {
+        "name": "история и документи",
+        "slug": "istoria-i-dokumenti"
+    },
+    {
+        "name": "Италианска литература",
+        "slug": "letteratura-italiana"
+    },
+    {
+        "name": "Ишикава Такубоку",
+        "slug": "ishikava-takuboku"
+    },
+    {
+        "name": "Ия Кива",
+        "slug": "ia-kiva"
+    },
+    {
+        "name": "Йин Сиаоюан",
+        "slug": "yin-xiaoyuan"
+    },
+    {
+        "name": "Йоан Александру",
+        "slug": "joan-alexandru"
+    },
+    {
+        "name": "Йоана Димитрова",
+        "slug": "joana-dimitrova"
+    },
+    {
+        "name": "Йоана Николова",
+        "slug": "joana-nikolova"
+    },
+    {
+        "name": "Йожен Йонеско",
+        "slug": "eugene-ionesco"
+    },
+    {
+        "name": "Йон Байешу",
+        "slug": "ion-baiesu"
+    },
+    {
+        "name": "Йон Брад",
+        "slug": "ion-brad"
+    },
+    {
+        "name": "Йон Дезидериу Сърбу",
+        "slug": "ion-dezideriu-surbiu"
+    },
+    {
+        "name": "Йон Драганою",
+        "slug": "ion-draganou"
+    },
+    {
+        "name": "Йон Минулеску",
+        "slug": "ion-minulescu"
+    },
+    {
+        "name": "Йон Мирча",
+        "slug": "ion-mircha"
+    },
+    {
+        "name": "Йон Юга",
+        "slug": "ion-yuga"
+    },
+    {
+        "name": "Йонко Бонов",
+        "slug": "ionko-bonov"
+    },
+    {
+        "name": "Йордан Атанасов",
+        "slug": "jordan-atanasov"
+    },
+    {
+        "name": "Йордан Борисов",
+        "slug": "jordan-borisov"
+    },
+    {
+        "name": "Йордан Василев",
+        "slug": "jordan-vasilev"
+    },
+    {
+        "name": "Йордан Даменски",
+        "slug": "jordan-damenski"
+    },
+    {
+        "name": "Йордан Йовков",
+        "slug": "jordan-jovkov"
+    },
+    {
+        "name": "Йордан Йорданов",
+        "slug": "jordan-jordanov"
+    },
+    {
+        "name": "Йордан Кожухаров",
+        "slug": "jordan-kojuharov"
+    },
+    {
+        "name": "Йордан Митев",
+        "slug": "jordan-mitev"
+    },
+    {
+        "name": "Йордан Палежев",
+        "slug": "jordan-palejev"
+    },
+    {
+        "name": "Йорданка Илиева",
+        "slug": "jordanka-ilieva"
+    },
+    {
+        "name": "Йорданка Радева",
+        "slug": "jordanka-radeva"
+    },
+    {
+        "name": "Йорданка Шиякова",
+        "slug": "jordanka-shiyakova"
+    },
+    {
+        "name": "Йоса Бусон",
+        "slug": "yosa-buson"
+    },
+    {
+        "name": "Йосано Теккан",
+        "slug": "yossano-tekkan"
+    },
+    {
+        "name": "Йосиф Петров",
+        "slug": "josif-petrov"
+    },
+    {
+        "name": "Йохан Щраус-син",
+        "slug": "johann-straus-sohn"
+    },
+    {
+        "name": "Йоханес Вермеер",
+        "slug": "johannes-vermeer"
+    },
+    {
+        "name": "Казимиру де Бриту",
+        "slug": "casimiro-de-brito"
+    },
+    {
+        "name": "калиграфия",
+        "slug": "kaligrafia"
+    },
+    {
+        "name": "Калин Николов",
+        "slug": "kalin-nikolov"
+    },
+    {
+        "name": "Калин Раймундов",
+        "slug": "kalin-raimundov"
+    },
+    {
+        "name": "Калин Симеонов",
+        "slug": "kalin-simeonov"
+    },
+    {
+        "name": "Калин Терзийски",
+        "slug": "kalin-terziiski"
+    },
+    {
+        "name": "Калина Николова",
+        "slug": "kalina-nikolova"
+    },
+    {
+        "name": "Калия Калъчева",
+        "slug": "kalia-kalacheva"
+    },
+    {
+        "name": "Калоян Странски",
+        "slug": "kaloyan-stranski"
+    },
+    {
+        "name": "Камбер Камбер",
+        "slug": "kamber-kamber"
+    },
+    {
+        "name": "Камен Цветков",
+        "slug": "kamen-tsvetkov"
+    },
+    {
+        "name": "Караваджо",
+        "slug": "caravaggio"
+    },
+    {
+        "name": "Карло Бетоки",
+        "slug": "carlo-betocchi"
+    },
+    {
+        "name": "Карло Чипола",
+        "slug": "carlo-chipolla"
+    },
+    {
+        "name": "Каролайн Джайлс Банкс",
+        "slug": "carolin-jiles-banks"
+    },
+    {
+        "name": "картина-илюстрация",
+        "slug": "kartina-ilustratsia"
+    },
+    {
+        "name": "Картини",
+        "slug": "kartini"
+    },
+    {
+        "name": "Кас",
+        "slug": "kas"
+    },
+    {
+        "name": "Катя Йорданова",
+        "slug": "katia-jordanova"
+    },
+    {
+        "name": "Катя Николова",
+        "slug": "katia-nikolova"
+    },
+    {
+        "name": "Катя Тончева",
+        "slug": "katia-toncheva"
+    },
+    {
+        "name": "керамика",
+        "slug": "keramika"
+    },
+    {
+        "name": "Кети Бозукова",
+        "slug": "keti-bozukova"
+    },
+    {
+        "name": "Ким Алберт Думанон",
+        "slug": "kim-albert-dumanon"
+    },
+    {
+        "name": "Кирил Божинов",
+        "slug": "kiril-bojinov"
+    },
+    {
+        "name": "Кирил Димитров",
+        "slug": "kiril-dimitrov"
+    },
+    {
+        "name": "Кирил Желязков",
+        "slug": "kiril-jeliazkov"
+    },
+    {
+        "name": "Кирил Кадийски",
+        "slug": "kiril-kadiiski"
+    },
+    {
+        "name": "Кирил Назъров",
+        "slug": "kiril-nazarov"
+    },
+    {
+        "name": "Кирил Недялков",
+        "slug": "kiril-nedialkov"
+    },
+    {
+        "name": "Кирил Христов",
+        "slug": "kiril-hristov"
+    },
+    {
+        "name": "Клаудио Магрис",
+        "slug": "claudio-magris"
+    },
+    {
+        "name": "Клементина Щерева",
+        "slug": "klementina-shtereva"
+    },
+    {
+        "name": "клуб Лучафарул-Гюргево",
+        "slug": "club-lucafarul-gurgiu"
+    },
+    {
+        "name": "Кобаяши Иса",
+        "slug": "kobayashi-issa"
+    },
+    {
+        "name": "колекция 1 юни",
+        "slug": "kolektsia-1-juni"
+    },
+    {
+        "name": "Кольо Колев",
+        "slug": "kolio-kolev"
+    },
+    {
+        "name": "Колю Фичето",
+        "slug": "koliu-ficheto"
+    },
+    {
+        "name": "Коментар",
+        "slug": "komentar"
+    },
+    {
+        "name": "конкурси",
+        "slug": "konkursi"
+    },
+    {
+        "name": "Константин Константинов",
+        "slug": "konstantin-konstantinov"
+    },
+    {
+        "name": "Константин Костов",
+        "slug": "konstantin-kostov"
+    },
+    {
+        "name": "Константин Павлов",
+        "slug": "konstantin-pavlov"
+    },
+    {
+        "name": "Контадин Кременски",
+        "slug": "kontadin-kremenski"
+    },
+    {
+        "name": "Красимир Григоров",
+        "slug": "krasimir-grigorov"
+    },
+    {
+        "name": "Красимир Иванов",
+        "slug": "krasimir-ivanov"
+    },
+    {
+        "name": "Красимир Манев",
+        "slug": "krasimir-manev"
+    },
+    {
+        "name": "Красимира Казанджиева",
+        "slug": "krasimira-kazandjieva"
+    },
+    {
+        "name": "Красимира Кирилова",
+        "slug": "krasimira-kirilova"
+    },
+    {
+        "name": "Красимира Трифонова",
+        "slug": "krasimira-trifonova"
+    },
+    {
+        "name": "Криси Прахова",
+        "slug": "krisi-prahova"
+    },
+    {
+        "name": "Кристин Димитрова",
+        "slug": "kristin-dimitrova"
+    },
+    {
+        "name": "Кристина Тодорова",
+        "slug": "kristina-todorova"
+    },
+    {
+        "name": "Кристина Тотева",
+        "slug": "kristina-toteva"
+    },
+    {
+        "name": "Кристияна Стойнева",
+        "slug": "kristiyana-stoineva"
+    },
+    {
+        "name": "Кристияна Хаджиева",
+        "slug": "kristiyana-hadjieva"
+    },
+    {
+        "name": "Критически анализ",
+        "slug": "kriticheski-analiz"
+    },
+    {
+        "name": "Критически анализ онлайн",
+        "slug": "kriticheski-analiz-online"
+    },
+    {
+        "name": "Крум Гергицов",
+        "slug": "krum-gergitsov"
+    },
+    {
+        "name": "Крум Попов",
+        "slug": "krum-popov"
+    },
+    {
+        "name": "Кръстан Дянков",
+        "slug": "krastan-dyankov"
+    },
+    {
+        "name": "Кръстьо Рибаров",
+        "slug": "krastio-ribarov"
+    },
+    {
+        "name": "Кръстьо Хаджииванов",
+        "slug": "krastio-hadjiivanov"
+    },
+    {
+        "name": "Кънчо Великов",
+        "slug": "kancho-velikov"
+    },
+    {
+        "name": "Кънчо Кожухаров",
+        "slug": "kanchio-kojuharov"
+    },
+    {
+        "name": "Кънчо Кънев",
+        "slug": "kancho-kanev"
+    },
+    {
+        "name": "Лайош В. Мохаи",
+        "slug": "lajos-v-mohai"
+    },
+    {
+        "name": "Лариса Ангелова",
+        "slug": "larisa-angelova"
+    },
+    {
+        "name": "Лео Бутнару",
+        "slug": "leo-butnaru"
+    },
+    {
+        "name": "Леся Украинка",
+        "slug": "lesia-ukrainka"
+    },
+    {
+        "name": "Лиана Денезаки",
+        "slug": "liana-denezaki"
+    },
+    {
+        "name": "Лили Трендова",
+        "slug": "lili-terndova"
+    },
+    {
+        "name": "Лили Чолакова",
+        "slug": "lili-cholakova"
+    },
+    {
+        "name": "Лиляна Алексиева",
+        "slug": "lilyana-alexieva"
+    },
+    {
+        "name": "Лиляна Петкова",
+        "slug": "lilyana-petkova"
+    },
+    {
+        "name": "Лиляна Райчева",
+        "slug": "lilyana-raicheva"
+    },
+    {
+        "name": "литература за деца",
+        "slug": "literatura-za-detsa"
+    },
+    {
+        "name": "Литературен клуб \"Зора\"",
+        "slug": "literaturen-klub-zora"
+    },
+    {
+        "name": "Литературна критика",
+        "slug": "literaturna-kritika"
+    },
+    {
+        "name": "Литературно земеделско знаме",
+        "slug": "literaturno-zemedelsko-zname"
+    },
+    {
+        "name": "Лияна Фероли",
+        "slug": "lilyana-feroli"
+    },
+    {
+        "name": "Лора Цветанова",
+        "slug": "lora-tsvetanova"
+    },
+    {
+        "name": "Лучиан Блага",
+        "slug": "lucian-blaga"
+    },
+    {
+        "name": "Лучо Пиколо",
+        "slug": "lucio-piccolo"
+    },
+    {
+        "name": "Лъчезар Селяшки",
+        "slug": "lachezar-seliashki"
+    },
+    {
+        "name": "Льоринц Сабо",
+        "slug": "lorinc-szabo"
+    },
+    {
+        "name": "Любен Лалов",
+        "slug": "luben-lalov"
+    },
+    {
+        "name": "Любен Томов",
+        "slug": "luben-tomov"
+    },
+    {
+        "name": "Любомир Левчев",
+        "slug": "lubomir-levchev"
+    },
+    {
+        "name": "Любомир Раев",
+        "slug": "liubomir-raev"
+    },
+    {
+        "name": "Любомир Тончев",
+        "slug": "lubomir-tonchev"
+    },
+    {
+        "name": "Любчо Иванов",
+        "slug": "lubcho-ivanov"
+    },
+    {
+        "name": "Людмил Симеонов",
+        "slug": "ludmil-simeonov"
+    },
+    {
+        "name": "Людмил Стоянов",
+        "slug": "ludmil-stoyanov"
+    },
+    {
+        "name": "Людмила Данова",
+        "slug": "ludmila-danova"
+    },
+    {
+        "name": "Людмила Христова",
+        "slug": "ludmila-hristova"
+    },
+    {
+        "name": "Магда Борисова",
+        "slug": "magda-borisova"
+    },
+    {
+        "name": "май 2022",
+        "slug": "mai-2022"
+    },
+    {
+        "name": "Манга",
+        "slug": "manga"
+    },
+    {
+        "name": "Ману Кант",
+        "slug": "manu-kant"
+    },
+    {
+        "name": "Манчо Йончев",
+        "slug": "mancho-ionchev"
+    },
+    {
+        "name": "Мара Белчева",
+        "slug": "mara-belcheva"
+    },
+    {
+        "name": "Мара Михайлова",
+        "slug": "mara-mihailova"
+    },
+    {
+        "name": "Мара Шейх",
+        "slug": "mara-sheih"
+    },
+    {
+        "name": "Маргарит Жеков",
+        "slug": "margarit-jekov"
+    },
+    {
+        "name": "Маргарита Нешкова",
+        "slug": "margarita-neshkova"
+    },
+    {
+        "name": "Маргерита Гуидачи",
+        "slug": "margherita-guidacci"
+    },
+    {
+        "name": "Мари-Ноел Опитал",
+        "slug": "marie-noel-opital"
+    },
+    {
+        "name": "Мариана Маринова",
+        "slug": "mariana-marinova"
+    },
+    {
+        "name": "Марианжела Анастасова",
+        "slug": "marianjela-atanasova"
+    },
+    {
+        "name": "Мариела Русанова",
+        "slug": "mariela-rusanova"
+    },
+    {
+        "name": "Марийка Жекова",
+        "slug": "mariika-jekova"
+    },
+    {
+        "name": "Марико Китакубо",
+        "slug": "mariko-kitakubo"
+    },
+    {
+        "name": "Марин Георгиев",
+        "slug": "marin-georgiev"
+    },
+    {
+        "name": "Марин Георгиев Маринов",
+        "slug": "marin-georgiev-marinov"
+    },
+    {
+        "name": "Марин Колев",
+        "slug": "marin-kolev"
+    },
+    {
+        "name": "Марин Маринов",
+        "slug": "marin-marinov"
+    },
+    {
+        "name": "Марин Минку",
+        "slug": "marin-minku"
+    },
+    {
+        "name": "Марин Сореску",
+        "slug": "marin-soresku"
+    },
+    {
+        "name": "Марин-Константин Палатов",
+        "slug": "marin-konstantin-palatov"
+    },
+    {
+        "name": "Марина Йорданова",
+        "slug": "marina-jordanova"
+    },
+    {
+        "name": "Марио Итало Фучиле",
+        "slug": "mario-italo-fucile"
+    },
+    {
+        "name": "Марио Луци",
+        "slug": "mario-luzi"
+    },
+    {
+        "name": "Марио Митев",
+        "slug": "mario-mitev"
+    },
+    {
+        "name": "Мария Беатриче ди Кастри",
+        "slug": "maria-beatrice-di-castri"
+    },
+    {
+        "name": "Мария Димитрова",
+        "slug": "maria-dimitrova"
+    },
+    {
+        "name": "Мария Илиева",
+        "slug": "maria-ilieva"
+    },
+    {
+        "name": "Мария Примаченко",
+        "slug": "maria-primachenko"
+    },
+    {
+        "name": "Мария Славова",
+        "slug": "maria-slavova"
+    },
+    {
+        "name": "Мария-Марчела Колева",
+        "slug": "maria-marchela-koleva"
+    },
+    {
+        "name": "Марко Монев",
+        "slug": "marko-monev"
+    },
+    {
+        "name": "Марко Семов",
+        "slug": "marko-semov"
+    },
+    {
+        "name": "Мартин Димитров",
+        "slug": "martin-dimitrov"
+    },
+    {
+        "name": "Мартина Стоева",
+        "slug": "martina-stoeva"
+    },
+    {
+        "name": "Маруся Любчева",
+        "slug": "marusia-lubcheva"
+    },
+    {
+        "name": "Маруся Николова",
+        "slug": "marusia-nikolova"
+    },
+    {
+        "name": "Марчела Беня",
+        "slug": "marchela-benia"
+    },
+    {
+        "name": "Матей Вишниек",
+        "slug": "matei-visniec"
+    },
+    {
+        "name": "Мацуо Башо",
+        "slug": "matsuo-basho"
+    },
+    {
+        "name": "Мая Бисеркова",
+        "slug": "maia-biserkova"
+    },
+    {
+        "name": "Мая Данева",
+        "slug": "maia-daneva"
+    },
+    {
+        "name": "Мая Дългъчева",
+        "slug": "maia-dalgacheva"
+    },
+    {
+        "name": "Мая Кисьова",
+        "slug": "maia-kisiova"
+    },
+    {
+        "name": "Мая Мечева",
+        "slug": "maia-mecheva"
+    },
+    {
+        "name": "Мая Цекова",
+        "slug": "maia-tsekova"
+    },
+    {
+        "name": "Международен обмен",
+        "slug": "mejdunaroden-obmen"
+    },
+    {
+        "name": "Международен фестивал на портретния филм",
+        "slug": "international-portrait-film-festival"
+    },
+    {
+        "name": "Мемоар",
+        "slug": "memoire"
+    },
+    {
+        "name": "Месрур Сабит",
+        "slug": "mesrur-sabit"
+    },
+    {
+        "name": "Методи Джонев",
+        "slug": "metodi-djonev"
+    },
+    {
+        "name": "Миглена Кръстева",
+        "slug": "miglena-krasteva"
+    },
+    {
+        "name": "Микеланджело Буонароти",
+        "slug": "michelangelo-buonarroti"
+    },
+    {
+        "name": "Микола Пимоненко",
+        "slug": "mikola-pimonenko"
+    },
+    {
+        "name": "Мила Долапчиева",
+        "slug": "mila-dolapchieva"
+    },
+    {
+        "name": "Милена Азманова",
+        "slug": "milena-azmanova"
+    },
+    {
+        "name": "Милена Велева",
+        "slug": "milena-veleva"
+    },
+    {
+        "name": "Милена Стоянова",
+        "slug": "milena-stoyanova"
+    },
+    {
+        "name": "Милена Филипова",
+        "slug": "milena-filipova"
+    },
+    {
+        "name": "Милена Френкева",
+        "slug": "milena-frenkeva"
+    },
+    {
+        "name": "Милка Миланова",
+        "slug": "milka-milanova"
+    },
+    {
+        "name": "Милка Пешева",
+        "slug": "milka-pesheva"
+    },
+    {
+        "name": "Мимо Морина",
+        "slug": "mimo-morina"
+    },
+    {
+        "name": "Миниатюра",
+        "slug": "miniatyura"
+    },
+    {
+        "name": "Минко Танев",
+        "slug": "minko-tanev"
+    },
+    {
+        "name": "Минчо Тодоров",
+        "slug": "mincho-todorov"
+    },
+    {
+        "name": "Минчо Чинаров",
+        "slug": "mincho-chinarov"
+    },
+    {
+        "name": "Мира Дойчинова",
+        "slug": "mira-doichinova"
+    },
+    {
+        "name": "Мира Дулевска",
+        "slug": "mira-dulevska"
+    },
+    {
+        "name": "Мира Душкова",
+        "slug": "mira-dushkova"
+    },
+    {
+        "name": "Мирослава Дачева",
+        "slug": "miroslava-dacheva"
+    },
+    {
+        "name": "Мирослава Симеонова",
+        "slug": "miroslava-simeonova"
+    },
+    {
+        "name": "Мирча Динеску",
+        "slug": "mirchea-dinescu"
+    },
+    {
+        "name": "Митко Новков",
+        "slug": "mitko-novkov"
+    },
+    {
+        "name": "Михаела Грамен",
+        "slug": "mihaela-gramen"
+    },
+    {
+        "name": "Михаил Белчев",
+        "slug": "mihail-belchev"
+    },
+    {
+        "name": "Михаил Деянов",
+        "slug": "mihail-deyanov"
+    },
+    {
+        "name": "Михаил Нонински",
+        "slug": "mihail-noninski"
+    },
+    {
+        "name": "Михай Бенюк",
+        "slug": "mihai-beniuc"
+    },
+    {
+        "name": "Михай Еминеску",
+        "slug": "mihai-eminescu"
+    },
+    {
+        "name": "Михай Кантуниари",
+        "slug": "mihay-kantuniari"
+    },
+    {
+        "name": "Михай Катруна",
+        "slug": "mihai-katruna"
+    },
+    {
+        "name": "Михалаки Георгиев",
+        "slug": "mihalaki-georgiev"
+    },
+    {
+        "name": "Мозайка",
+        "slug": "mozaika"
+    },
+    {
+        "name": "Мойсе Буланча",
+        "slug": "moise-bulancha"
+    },
+    {
+        "name": "Момера Здравкова",
+        "slug": "momera-zdravkova"
+    },
+    {
+        "name": "Момчил Гечев",
+        "slug": "momchil-gechev"
+    },
+    {
+        "name": "Музика",
+        "slug": "muzika"
+    },
+    {
+        "name": "Надежда Александрова",
+        "slug": "nadejda-alexandrova"
+    },
+    {
+        "name": "Надежда Александрова Цанева",
+        "slug": "nadejda-alexandrova-tsaneva"
+    },
+    {
+        "name": "Надежда Бонева",
+        "slug": "nadejda-boneva"
+    },
+    {
+        "name": "Надежда Костадинова",
+        "slug": "nadejda-kostadinova"
+    },
+    {
+        "name": "Надежда Любенова",
+        "slug": "nadejda-lubenova"
+    },
+    {
+        "name": "Надежда Радева",
+        "slug": "nadejda-radeva"
+    },
+    {
+        "name": "Надежда Станилова",
+        "slug": "nadejda-stanilova"
+    },
+    {
+        "name": "Надежда Тодорова",
+        "slug": "nadejda-todorova"
+    },
+    {
+        "name": "Надежда Тошкова",
+        "slug": "nadejda-toshkova"
+    },
+    {
+        "name": "Надежда Цанева",
+        "slug": "nadejda-tsaneva"
+    },
+    {
+        "name": "Наделина Цветкова",
+        "slug": "nadelina-tsvetkova"
+    },
+    {
+        "name": "Надя Борисова",
+        "slug": "nadia-borisova"
+    },
+    {
+        "name": "Надя Тодорова",
+        "slug": "nadia-todorova"
+    },
+    {
+        "name": "Найден Вълчев",
+        "slug": "naiden-valchev"
+    },
+    {
+        "name": "Нанси Хемптън",
+        "slug": "nancy-hampton"
+    },
+    {
+        "name": "Направление визуални изкуства",
+        "slug": "napravlenie-vizualni-izkustva"
+    },
+    {
+        "name": "Направление литература",
+        "slug": "napravlenie-literatura"
+    },
+    {
+        "name": "Наталия Артемин",
+        "slug": "natalia-artemin"
+    },
+    {
+        "name": "Наталия Георгиева",
+        "slug": "natalia-georgieva"
+    },
+    {
+        "name": "Наталия Ерхова",
+        "slug": "natalia-erhova"
+    },
+    {
+        "name": "научни конференции",
+        "slug": "nauchi-konferentsii"
+    },
+    {
+        "name": "Национален дарителски фонд \"13 века България\"",
+        "slug": "natsionalen-daritelski-fond-13-veka-bulgaria"
+    },
+    {
+        "name": "Национален конкурс за хайку \"Интеркултура\"",
+        "slug": "natsionalen-konkurs-za-haiku-interkultura"
+    },
+    {
+        "name": "нашият избор",
+        "slug": "nashiyat-izbor"
+    },
+    {
+        "name": "Невена Лилова",
+        "slug": "nevena-lilova"
+    },
+    {
+        "name": "Незаглъхващи гласове",
+        "slug": "nezaglyhvashti-glasove"
+    },
+    {
+        "name": "Нели Дечева",
+        "slug": "neli-decheva"
+    },
+    {
+        "name": "Нели Закс",
+        "slug": "nelly-sachs"
+    },
+    {
+        "name": "Нели Пигулева",
+        "slug": "neli-piguleva"
+    },
+    {
+        "name": "Немска литература",
+        "slug": "deutsche-literatur"
+    },
+    {
+        "name": "Никита Станеску",
+        "slug": "nichita-stanescu"
+    },
+    {
+        "name": "Никол Андреева",
+        "slug": "nikol-andreeva"
+    },
+    {
+        "name": "Никола Бенин",
+        "slug": "nikola-benin"
+    },
+    {
+        "name": "Никола Вапцаров",
+        "slug": "nikola-vaptsarov"
+    },
+    {
+        "name": "Никола Иванов",
+        "slug": "nikola-ivanov"
+    },
+    {
+        "name": "Никола Петков",
+        "slug": "nikola-petkov"
+    },
+    {
+        "name": "Никола Руков",
+        "slug": "nikola-rukov"
+    },
+    {
+        "name": "Никола Фичев",
+        "slug": "nikola-fichev"
+    },
+    {
+        "name": "Николае Дабижа",
+        "slug": "nicolae-dabija"
+    },
+    {
+        "name": "Николай Владимиров",
+        "slug": "nikolai-vladimirov"
+    },
+    {
+        "name": "Николай Гочев",
+        "slug": "nikolai-gochev"
+    },
+    {
+        "name": "Николай Гюлев",
+        "slug": "nikolai-giulev"
+    },
+    {
+        "name": "Николай Здравков",
+        "slug": "nikolai-zdravkov"
+    },
+    {
+        "name": "Николай Йорданов Николов",
+        "slug": "nikolai-jordanov-nikolov"
+    },
+    {
+        "name": "Николай Караджов",
+        "slug": "nikolai-karadjov"
+    },
+    {
+        "name": "Николай Кънчев",
+        "slug": "nikolai-kanchev"
+    },
+    {
+        "name": "Николай Лилиев",
+        "slug": "nikolai-liliev"
+    },
+    {
+        "name": "Николай Николов",
+        "slug": "nikolai-nikolov"
+    },
+    {
+        "name": "Николай Пенчев",
+        "slug": "nikolai-penchev"
+    },
+    {
+        "name": "Николай Петров",
+        "slug": "nikolai-petrov"
+    },
+    {
+        "name": "Николай Райнов",
+        "slug": "nikolai-rainov"
+    },
+    {
+        "name": "Николай Хайтов",
+        "slug": "nikolai-haitov"
+    },
+    {
+        "name": "Николина Барбутева",
+        "slug": "nikolina-barbuteva"
+    },
+    {
+        "name": "Николина Пенева",
+        "slug": "nikolina-peneva"
+    },
+    {
+        "name": "Николина Стоянова",
+        "slug": "nikolina-stoyanova"
+    },
+    {
+        "name": "Николина Тодорова /Нина Росна/",
+        "slug": "nikolina-todorova-nina-rosna"
+    },
+    {
+        "name": "Николинка Димитрова",
+        "slug": "nikolinka-dimitrova"
+    },
+    {
+        "name": "Нина Жосу",
+        "slug": "nina-josu"
+    },
+    {
+        "name": "Нина Тончева",
+        "slug": "nina-toncheva"
+    },
+    {
+        "name": "Новела",
+        "slug": "novela"
+    },
+    {
+        "name": "Нови книги",
+        "slug": "novi-knigi"
+    },
+    {
+        "name": "НЧ \"Ахинора-2006\" - с. Яворово",
+        "slug": "nch-ahinora-2006-s-yavorovo"
+    },
+    {
+        "name": "НЧ \"Бачо Киро-1869\" - Бяла черква",
+        "slug": "nch-bacho-kiro-1869-byala-cherkva"
+    },
+    {
+        "name": "НЧ \"Братство-1869” - Кюстендил",
+        "slug": "nch-bratstvo-1869-kustendil"
+    },
+    {
+        "name": "НЧ \"Захари Стоянов-1937\" - Русе",
+        "slug": "nch-zahari-stoyanov-1937-ruse"
+    },
+    {
+        "name": "НЧ \"Интеркултура 21 век-2006\" - София",
+        "slug": "nch-interkultura-21-vek-2006-sofia"
+    },
+    {
+        "name": "НЧ \"Искра-1898\" - Борово",
+        "slug": "nch-iskra-1898-borovo"
+    },
+    {
+        "name": "НЧ \"Канев-Пробуда-1924\" - с. Горно Абланово",
+        "slug": "nch-kanev-probuda-s-gorno-ablanovo"
+    },
+    {
+        "name": "НЧ \"Христо Ботев-1928\" - с. Обретеник",
+        "slug": "nch-hristo-botev-1928-s-obretenik"
+    },
+    {
+        "name": "Общество",
+        "slug": "obshtestvo"
+    },
+    {
+        "name": "Огнян Балканджиев",
+        "slug": "ognian-balkandjiev"
+    },
+    {
+        "name": "Огнян Стамболиев",
+        "slug": "ognian-stamboliev"
+    },
+    {
+        "name": "Октавиан Палер",
+        "slug": "oktavian-paler"
+    },
+    {
+        "name": "Олга Шурбанова",
+        "slug": "olga-shurbanova"
+    },
+    {
+        "name": "Олена Матижева",
+        "slug": "olena-matijeva"
+    },
+    {
+        "name": "Олена Пшенична",
+        "slug": "olena-pshenychna"
+    },
+    {
+        "name": "Омила - Цвета Джагарова",
+        "slug": "omila-tsveta-djagarova"
+    },
+    {
+        "name": "Онлайн списание \"Картини с думи и багри\"",
+        "slug": "online-spisanie-kartini-s-dumi-i-bagri"
+    },
+    {
+        "name": "Опера",
+        "slug": "opera"
+    },
+    {
+        "name": "Опити/essais",
+        "slug": "opiti-essais"
+    },
+    {
+        "name": "Остап Вишня",
+        "slug": "ostap-vishnia"
+    },
+    {
+        "name": "Очаквани заглавия",
+        "slug": "ochakvani-zaglavia"
+    },
+    {
+        "name": "П. К. Яворов",
+        "slug": "p-k-yavorov"
+    },
+    {
+        "name": "Пабло Пикасо",
+        "slug": "pablo-picasso"
+    },
+    {
+        "name": "Павел Величков",
+        "slug": "pavel-velichkov"
+    },
+    {
+        "name": "Павел Койчев",
+        "slug": "pavel-koichev"
+    },
+    {
+        "name": "Павел Матев",
+        "slug": "pavel-matev"
+    },
+    {
+        "name": "Павел Павлов",
+        "slug": "pavel-pavlov"
+    },
+    {
+        "name": "Павлина Кирилова",
+        "slug": "pavlina-kirilova"
+    },
+    {
+        "name": "Павлина Петкова",
+        "slug": "pavlina-petkova"
+    },
+    {
+        "name": "Паисий Хилендарски",
+        "slug": "paisii-hilendarski"
+    },
+    {
+        "name": "Памет",
+        "slug": "pamet"
+    },
+    {
+        "name": "Паметта на изкуството",
+        "slug": "pametta-na-izkustvoto"
+    },
+    {
+        "name": "Панаит Истрати",
+        "slug": "panait-istrati"
+    },
+    {
+        "name": "Паоло Веронезе",
+        "slug": "paolo-veronese"
+    },
+    {
+        "name": "Пейо Яворов",
+        "slug": "peio-yavorov"
+    },
+    {
+        "name": "Пенка Иванова",
+        "slug": "penka-ivanova"
+    },
+    {
+        "name": "Пенка Самоковлиева",
+        "slug": "penka-samokovlieva"
+    },
+    {
+        "name": "Пенко Керемидчиев",
+        "slug": "penko-keremidchiev"
+    },
+    {
+        "name": "Пенчо Славейков",
+        "slug": "pencho-slaveikov"
+    },
+    {
+        "name": "Пепа Оджакова",
+        "slug": "pepa-odjakova"
+    },
+    {
+        "name": "Пер Лагерквист",
+        "slug": "par-lagerkvist"
+    },
+    {
+        "name": "песен",
+        "slug": "pesen"
+    },
+    {
+        "name": "Петер Юхас",
+        "slug": "peter-juhasz"
+    },
+    {
+        "name": "Петко Огойски",
+        "slug": "petko-ogoiski"
+    },
+    {
+        "name": "Петко Павлов",
+        "slug": "petko-pavlov"
+    },
+    {
+        "name": "Петко Пашкунов",
+        "slug": "petko-pashkunov"
+    },
+    {
+        "name": "Петко Рачoв Славейков",
+        "slug": "petko-rachov-slaveikov"
+    },
+    {
+        "name": "Петър Алипиев",
+        "slug": "petar-alipiev"
+    },
+    {
+        "name": "Петър Главеев",
+        "slug": "petar-glaveev"
+    },
+    {
+        "name": "Петър Дарковски",
+        "slug": "petar-darkovski"
+    },
+    {
+        "name": "Петър Дертлиев",
+        "slug": "petar-dertliev"
+    },
+    {
+        "name": "Петър Динчев",
+        "slug": "petar-dinchev"
+    },
+    {
+        "name": "Петър Нешев",
+        "slug": "petar-neshev"
+    },
+    {
+        "name": "Петър Павлов",
+        "slug": "petar-pavlov"
+    },
+    {
+        "name": "Петър Пацев",
+        "slug": "petar-patsev"
+    },
+    {
+        "name": "Петър Петров",
+        "slug": "petar-petrov"
+    },
+    {
+        "name": "Петър Пламенов",
+        "slug": "petar-plamenov"
+    },
+    {
+        "name": "Петър Чухов",
+        "slug": "petar-chuhov"
+    },
+    {
+        "name": "Петър Щърбанов",
+        "slug": "petar-shtarbanov"
+    },
+    {
+        "name": "Петя Александрова",
+        "slug": "petia-alexandrova"
+    },
+    {
+        "name": "Петя Дубарова",
+        "slug": "petia-dubarova"
+    },
+    {
+        "name": "Петя Ставрева",
+        "slug": "petia-stavreva"
+    },
+    {
+        "name": "Пламен Василев",
+        "slug": "plamen-vasilev"
+    },
+    {
+        "name": "Пламен Георгиев",
+        "slug": "plamen-georgiev"
+    },
+    {
+        "name": "Пламен Легкоступ",
+        "slug": "plamen-legkostup"
+    },
+    {
+        "name": "Пламяна Георгиева",
+        "slug": "plamiana-georgieva"
+    },
+    {
+        "name": "Планимир Петров",
+        "slug": "planimir-petrov"
+    },
+    {
+        "name": "Поезия",
+        "slug": "poezia"
+    },
+    {
+        "name": "Поезия за деца",
+        "slug": "poezia-za-detsa"
+    },
+    {
+        "name": "Поезия онлайн",
+        "slug": "poezia-online"
+    },
+    {
+        "name": "Поема",
+        "slug": "poema"
+    },
+    {
+        "name": "Позиция",
+        "slug": "pozitsia"
+    },
+    {
+        "name": "Позиция - онлайн",
+        "slug": "pozitsia-online"
+    },
+    {
+        "name": "Пол Верлен",
+        "slug": "paul-verlaine"
+    },
+    {
+        "name": "Пол Елюар",
+        "slug": "paul-eluard"
+    },
+    {
+        "name": "Поло Оконе",
+        "slug": "polo-okone"
+    },
+    {
+        "name": "Португалска литература",
+        "slug": "literatura-portuguesa"
+    },
+    {
+        "name": "поща gabriell-e-lit",
+        "slug": "post-gabriell-e-lit"
+    },
+    {
+        "name": "Превод",
+        "slug": "prevod"
+    },
+    {
+        "name": "Преводачът представя",
+        "slug": "prevodachat-predstavia"
+    },
+    {
+        "name": "Представяне на книга",
+        "slug": "predstaviane-na-kniga"
+    },
+    {
+        "name": "През погледа ни",
+        "slug": "prez-pogleda-ni"
+    },
+    {
+        "name": "Преслав Чернев",
+        "slug": "preslav-chernev"
+    },
+    {
+        "name": "Притча",
+        "slug": "pritcha"
+    },
+    {
+        "name": "Проза",
+        "slug": "proza"
+    },
+    {
+        "name": "Проза онлайн",
+        "slug": "proza-online"
+    },
+    {
+        "name": "проф. Георги Георгиев",
+        "slug": "prof-georgi-georgiev"
+    },
+    {
+        "name": "проф. д-р Людмила Григорова",
+        "slug": "prof-d-r-ludmila-grigorova"
+    },
+    {
+        "name": "проф. д. н. Венелин Терзиев",
+        "slug": "prof-d-n-venelin-terziev"
+    },
+    {
+        "name": "проф. Джоузеф Спенс",
+        "slug": "prof-joseph-spens"
+    },
+    {
+        "name": "проф. дн Николай Димитров",
+        "slug": "prof-d-n-nikolai-dimitrov"
+    },
+    {
+        "name": "проф. Иван Бързаков",
+        "slug": "prof-ivan-barzakov"
+    },
+    {
+        "name": "проф. Илия Илиев",
+        "slug": "prof-ilia-iliev"
+    },
+    {
+        "name": "проф. Цонка Великова",
+        "slug": "prof-tsonka-velikova"
+    },
+    {
+        "name": "Публицистика",
+        "slug": "publicistika"
+    },
+    {
+        "name": "Публична покана",
+        "slug": "publichna-pokana"
+    },
+    {
+        "name": "Публична покана - отговор",
+        "slug": "publichna-pokana-otgovor"
+    },
+    {
+        "name": "Първолета Маджарска",
+        "slug": "parvoleta-madjarska"
+    },
+    {
+        "name": "Пътепис",
+        "slug": "patepis"
+    },
+    {
+        "name": "р-книги на издателство gabriell-e-lit",
+        "slug": "p-knigi-na-izdatelstvo-gabriell-e-lit"
+    },
+    {
+        "name": "р-книги-книжарница",
+        "slug": "p-knigi-knijarnitsa"
+    },
+    {
+        "name": "Рада Въртунинска",
+        "slug": "rada-vartuninska"
+    },
+    {
+        "name": "Рада Цанкова",
+        "slug": "rada-tsankova"
+    },
+    {
+        "name": "Ради Стефанов",
+        "slug": "radi-stefanov"
+    },
+    {
+        "name": "Радка Гочева",
+        "slug": "radka-gocheva"
+    },
+    {
+        "name": "Радка Миндова",
+        "slug": "radka-mindova"
+    },
+    {
+        "name": "Радко Мурзов",
+        "slug": "radko-murzov"
+    },
+    {
+        "name": "Радоил Серафимов",
+        "slug": "radoil-serafimov"
+    },
+    {
+        "name": "Радой Попиванов",
+        "slug": "radoi-popivanov"
+    },
+    {
+        "name": "Радой Ралин",
+        "slug": "radoi-ralin"
+    },
+    {
+        "name": "Радослава Манова-Раде",
+        "slug": "radoslava-manova-rade"
+    },
+    {
+        "name": "Радостина Драгостинова",
+        "slug": "radostina-dragostinova"
+    },
+    {
+        "name": "Разказ",
+        "slug": "razkaz"
+    },
+    {
+        "name": "Райко Алексиев",
+        "slug": "raiko-alexiev"
+    },
+    {
+        "name": "Райко Даскалов",
+        "slug": "raiko-daskalov"
+    },
+    {
+        "name": "Райна Минкова",
+        "slug": "raina-minkova"
+    },
+    {
+        "name": "Райна Преславска",
+        "slug": "raina-preslavska"
+    },
+    {
+        "name": "Райнер Мария Рилке",
+        "slug": "rainer-maria-rilke"
+    },
+    {
+        "name": "Ралица Мирчева",
+        "slug": "ralitsa-mircheva"
+    },
+    {
+        "name": "Рамела Бохосян",
+        "slug": "ramela-bohosian"
+    },
+    {
+        "name": "Рафаел Алберти",
+        "slug": "rafael-alberti"
+    },
+    {
+        "name": "Рафаел д'Абдон",
+        "slug": "raphael-d-abdon"
+    },
+    {
+        "name": "Рафаеле Кариери",
+        "slug": "raffaelle-carrieri"
+    },
+    {
+        "name": "Рафаело Санцио",
+        "slug": "raffaello-sanzio"
+    },
+    {
+        "name": "РБ \"Любен Каравелов\"",
+        "slug": "rb-luben-karavelov"
+    },
+    {
+        "name": "ревю на книги",
+        "slug": "reviu-na-knigi"
+    },
+    {
+        "name": "ревю-рецензия",
+        "slug": "reviu-recenzia"
+    },
+    {
+        "name": "Редакционна статия",
+        "slug": "redaktsionna-statia"
+    },
+    {
+        "name": "Рембранд",
+        "slug": "rembrandt"
+    },
+    {
+        "name": "Рени Арсова",
+        "slug": "reni-arsova"
+    },
+    {
+        "name": "Рени Васева",
+        "slug": "reni-vaseva"
+    },
+    {
+        "name": "Ренку",
+        "slug": "renku"
+    },
+    {
+        "name": "Ренсаку",
+        "slug": "rensaku"
+    },
+    {
+        "name": "Репортаж",
+        "slug": "reportaj"
+    },
+    {
+        "name": "Репортажи онлайн",
+        "slug": "reportaji-online"
+    },
+    {
+        "name": "Рецензия",
+        "slug": "recenzia"
+    },
+    {
+        "name": "Рикардо Дуранти",
+        "slug": "riccardo-duranti"
+    },
+    {
+        "name": "Роберто Андреев",
+        "slug": "roberto-andreev"
+    },
+    {
+        "name": "Розалия Владимирова",
+        "slug": "rozalia-vladimirova"
+    },
+    {
+        "name": "Розалия Радева",
+        "slug": "rozalia-radeva"
+    },
+    {
+        "name": "роман-откъс",
+        "slug": "roman-otkas"
+    },
+    {
+        "name": "Росен Марков",
+        "slug": "rosen-markov"
+    },
+    {
+        "name": "Росен Русев",
+        "slug": "rosen-rusev"
+    },
+    {
+        "name": "Роси Жекова",
+        "slug": "rosi-jekova"
+    },
+    {
+        "name": "Роси Савова",
+        "slug": "rosi-savova"
+    },
+    {
+        "name": "Росица Копукова",
+        "slug": "rositsa-kopukova"
+    },
+    {
+        "name": "рубайят",
+        "slug": "rubayyat"
+    },
+    {
+        "name": "Румен Василев",
+        "slug": "rumen-vasilev"
+    },
+    {
+        "name": "Румен Сейреков",
+        "slug": "rumen-seirekov"
+    },
+    {
+        "name": "Румънска литература",
+        "slug": "literatura-romana"
+    },
+    {
+        "name": "Румяна Пелова",
+        "slug": "rumiana-pelova"
+    },
+    {
+        "name": "Руслина Александрова",
+        "slug": "ruslina-alexandrova"
+    },
+    {
+        "name": "Ръдиард Киплинг",
+        "slug": "rudyard-kipling"
+    },
+    {
+        "name": "Салвадор Дали",
+        "slug": "salvador-dali"
+    },
+    {
+        "name": "Салваторе Котрупи",
+        "slug": "salvatore-cotrupi"
+    },
+    {
+        "name": "Салваторе Куазимодо",
+        "slug": "salvatore-quasimodo"
+    },
+    {
+        "name": "Самюел Бекет",
+        "slug": "samuel-beckett"
+    },
+    {
+        "name": "Сандро Ботичели",
+        "slug": "sandro-botticelli"
+    },
+    {
+        "name": "сатира",
+        "slug": "satira"
+    },
+    {
+        "name": "сатирична поезия",
+        "slug": "satirichna-poezia"
+    },
+    {
+        "name": "Сатирична проза",
+        "slug": "satirichna-proza"
+    },
+    {
+        "name": "Сашка Душкова",
+        "slug": "sashka-dushkova"
+    },
+    {
+        "name": "Свежа Дачева",
+        "slug": "sveja-dacheva"
+    },
+    {
+        "name": "Светла Дамяновска",
+        "slug": "svetla-damianovska"
+    },
+    {
+        "name": "Светла Йорданова",
+        "slug": "svetla-jordanova"
+    },
+    {
+        "name": "Светлана Стойчева",
+        "slug": "svetlana-stoicheva"
+    },
+    {
+        "name": "Светлин Трендафилов",
+        "slug": "svetlin-trendafilov"
+    },
+    {
+        "name": "Светозар Арнаудов",
+        "slug": "svetozar-arnaudov"
+    },
+    {
+        "name": "Светослав Нахум",
+        "slug": "svetoslav-nahum"
+    },
+    {
+        "name": "Свитлана Самарская",
+        "slug": "svitlana-samarskaya"
+    },
+    {
+        "name": "Сдружение \"Професор Бързаков\"",
+        "slug": "sdrujenie-profesor-barzakov"
+    },
+    {
+        "name": "Севдалина Тодорова",
+        "slug": "sevdalina-todorova"
+    },
+    {
+        "name": "Северина Филипова",
+        "slug": "severina-filipova"
+    },
+    {
+        "name": "сентенции",
+        "slug": "sententsii"
+    },
+    {
+        "name": "Сергей Городецки",
+        "slug": "sergei-gorodezki"
+    },
+    {
+        "name": "Сергей Ивойлов",
+        "slug": "sergei-ivoilov"
+    },
+    {
+        "name": "Сергей Румянцев",
+        "slug": "sergei-rumiantsev"
+    },
+    {
+        "name": "Сидония Пожарлиева",
+        "slug": "sidonia-pojarlieva"
+    },
+    {
+        "name": "Силва Василева",
+        "slug": "silva-vasileva"
+    },
+    {
+        "name": "Силвия Веселинова",
+        "slug": "silvia-veselinova"
+    },
+    {
+        "name": "Силвия Павлова",
+        "slug": "silvia-pavlova"
+    },
+    {
+        "name": "символизъм",
+        "slug": "simvolizam"
+    },
+    {
+        "name": "Симеон Аспарухов",
+        "slug": "simeon-asparuhov"
+    },
+    {
+        "name": "Симеон Симеонов",
+        "slug": "simeon-simeonov"
+    },
+    {
+        "name": "Симеон Янев",
+        "slug": "simeon-yanev"
+    },
+    {
+        "name": "Симон дьо Бовоар",
+        "slug": "simone-de-beauvoir"
+    },
+    {
+        "name": "Симоне Пансолин",
+        "slug": "simone-pansolin"
+    },
+    {
+        "name": "Скулптура",
+        "slug": "skulptura"
+    },
+    {
+        "name": "Славена Николова",
+        "slug": "slavena-nikolova"
+    },
+    {
+        "name": "Славка Ставрева",
+        "slug": "slavka-stavreva"
+    },
+    {
+        "name": "Снежана Галчева",
+        "slug": "snezhana-galcheva"
+    },
+    {
+        "name": "Снежана Изворска",
+        "slug": "snejana-izvorska"
+    },
+    {
+        "name": "Снежана Стамова",
+        "slug": "snejana-stamova"
+    },
+    {
+        "name": "Снежинка Христова",
+        "slug": "snejinka-hristova"
+    },
+    {
+        "name": "Сонет",
+        "slug": "sonet"
+    },
+    {
+        "name": "Соня Гупта",
+        "slug": "sonya-gupta"
+    },
+    {
+        "name": "Соня Русков",
+        "slug": "sonia-ruskov"
+    },
+    {
+        "name": "Соня Чурова",
+        "slug": "sonya-churova"
+    },
+    {
+        "name": "София Филипова",
+        "slug": "sofia-filipova"
+    },
+    {
+        "name": "Софроний Врачански",
+        "slug": "sofronii-vrachanski"
+    },
+    {
+        "name": "списание paradigma",
+        "slug": "spisanie-paradigma"
+    },
+    {
+        "name": "Стамен Григоров",
+        "slug": "stamen-grigorov"
+    },
+    {
+        "name": "Станимира Георгиева",
+        "slug": "stanimira-georgieva"
+    },
+    {
+        "name": "Станислав Марашки",
+        "slug": "stanislav-marashki"
+    },
+    {
+        "name": "Станислава Ганчева",
+        "slug": "stanislava-gancheva"
+    },
+    {
+        "name": "Станислава Пирчева-Ава",
+        "slug": "stanislava-pircheva-ava"
+    },
+    {
+        "name": "Станка Бонева",
+        "slug": "stanka-boneva"
+    },
+    {
+        "name": "Станка Парушева",
+        "slug": "stanka-parusheva"
+    },
+    {
+        "name": "Станка Пенчева",
+        "slug": "stanka-pencheva"
+    },
+    {
+        "name": "Статия",
+        "slug": "statia"
+    },
+    {
+        "name": "Стели Грънчаров",
+        "slug": "steli-grancharov"
+    },
+    {
+        "name": "Стефан Богориди",
+        "slug": "stefan-bogoridi"
+    },
+    {
+        "name": "Стефан Гечев",
+        "slug": "stefan-gechev"
+    },
+    {
+        "name": "Стефан Кацаров",
+        "slug": "stefan-katsarov"
+    },
+    {
+        "name": "Стефан Маларме",
+        "slug": "strphane-mallarme"
+    },
+    {
+        "name": "Стефан Митев",
+        "slug": "stefan-mitev"
+    },
+    {
+        "name": "Стефан Патрик Моасе - Zaïzaï",
+        "slug": "stephane-patric-moise-zaizai"
+    },
+    {
+        "name": "Стефан Попстефанов",
+        "slug": "stefan-popstefanov"
+    },
+    {
+        "name": "Стефан Стамболов",
+        "slug": "stefan-stambolov"
+    },
+    {
+        "name": "Стефан Стамов",
+        "slug": "stefan-stamov"
+    },
+    {
+        "name": "Стефан Цанев",
+        "slug": "stefan-tsanev"
+    },
+    {
+        "name": "Стефка Ангелова",
+        "slug": "stefka-angelova"
+    },
+    {
+        "name": "Стефка Георгиева",
+        "slug": "stefka-georgieva"
+    },
+    {
+        "name": "Стефка Евстатиева",
+        "slug": "stefka-evstatieva"
+    },
+    {
+        "name": "Стефчо Василев",
+        "slug": "stefcho-vasilev"
+    },
+    {
+        "name": "Стилиан Янев",
+        "slug": "stilian-yanev"
+    },
+    {
+        "name": "Стилиян Ангелов",
+        "slug": "stiliyan-angelov"
+    },
+    {
+        "name": "Стоимир Иванов",
+        "slug": "stoimir-ivanov"
+    },
+    {
+        "name": "Стойчо Зерлиев",
+        "slug": "stoicho-zerliev"
+    },
+    {
+        "name": "Стоян Илиев",
+        "slug": "stoyan-iliev"
+    },
+    {
+        "name": "Стоян Колдов",
+        "slug": "stoyan-koldov"
+    },
+    {
+        "name": "Стоян Михайлов",
+        "slug": "stoyan-mihailov"
+    },
+    {
+        "name": "Стоянка Боянова",
+        "slug": "stoyanka-boyanova"
+    },
+    {
+        "name": "Страхил Планинец",
+        "slug": "strahil-planinets"
+    },
+    {
+        "name": "Сугита Хисаджо",
+        "slug": "sugita-hisajo"
+    },
+    {
+        "name": "суми-е",
+        "slug": "sumi-e"
+    },
+    {
+        "name": "събития",
+        "slug": "sabitia"
+    },
+    {
+        "name": "Съвременна поезия",
+        "slug": "savremenna-poezia"
+    },
+    {
+        "name": "Съвременна проза",
+        "slug": "savremenna-proza"
+    },
+    {
+        "name": "Сълзица Борисова",
+        "slug": "salzitsa-borisova"
+    },
+    {
+        "name": "Съюз на свободните писатели-филиал Русе",
+        "slug": "sauz-na-svobodnite-pisateli-ruse"
+    },
+    {
+        "name": "Тагами Кикуша",
+        "slug": "tagami-kikusha"
+    },
+    {
+        "name": "Тамара Турлюн",
+        "slug": "tamara-turlun"
+    },
+    {
+        "name": "Тан-Ку",
+        "slug": "tan-ku"
+    },
+    {
+        "name": "Танка",
+        "slug": "tanka"
+    },
+    {
+        "name": "Танка проза",
+        "slug": "tanka-proza"
+    },
+    {
+        "name": "Таня Иванова Цанова",
+        "slug": "tania-ivanova-tsanova"
+    },
+    {
+        "name": "Таня Танасова",
+        "slug": "tania-tanasova"
+    },
+    {
+        "name": "Тарас Шевченко",
+        "slug": "taras-shevchenko"
+    },
+    {
+        "name": "Татяна Живкова",
+        "slug": "tatiana-jivkova"
+    },
+    {
+        "name": "Татяна Николова",
+        "slug": "tatiana-nikolova"
+    },
+    {
+        "name": "Творческа изява - визуални изкуства",
+        "slug": "tvorcheska-iziava-vizualni-izkustva"
+    },
+    {
+        "name": "Творческа изява - изкуства, теория",
+        "slug": "tvorcheska-iziava-izkustva-teoria"
+    },
+    {
+        "name": "Творческа изява - литература",
+        "slug": "tvorcheska-iziava-literatura"
+    },
+    {
+        "name": "Творчески автопортрет",
+        "slug": "tvorcheski-avtoportret"
+    },
+    {
+        "name": "Творчески портрет",
+        "slug": "tvorcheski-portret"
+    },
+    {
+        "name": "Творчески портрет - визуални изкуства",
+        "slug": "tvorcheski-portret-vizualni-izkustva"
+    },
+    {
+        "name": "Творчески портрет - литература",
+        "slug": "tvorcheski-portret-literatura"
+    },
+    {
+        "name": "Творчески портрети",
+        "slug": "tvorcheski-portreti"
+    },
+    {
+        "name": "Творчество",
+        "slug": "tvorchestvo"
+    },
+    {
+        "name": "Теменужка Вачева",
+        "slug": "temenujka-vacheva"
+    },
+    {
+        "name": "Теменужка Цонева",
+        "slug": "temenujka-tsoneva"
+    },
+    {
+        "name": "Теню Янчев",
+        "slug": "teniu-yanchev"
+    },
+    {
+        "name": "Теодор Траянов",
+        "slug": "teodor-trayanov"
+    },
+    {
+        "name": "Теодора Бакърджиева",
+        "slug": "teodora-bakardjieva"
+    },
+    {
+        "name": "Теодора Копчева",
+        "slug": "teodora-kopcheva"
+    },
+    {
+        "name": "Теодора Мачева",
+        "slug": "teodora-macheva"
+    },
+    {
+        "name": "Тибериу Утан",
+        "slug": "tiberiu-utan"
+    },
+    {
+        "name": "Тодор Балтаджиев",
+        "slug": "todor-baltadjiev"
+    },
+    {
+        "name": "Тодор Билчев",
+        "slug": "todor-bilchev"
+    },
+    {
+        "name": "Тодор Горанов",
+        "slug": "todor-goranov"
+    },
+    {
+        "name": "Тодор Димитров",
+        "slug": "todor-dimitrov"
+    },
+    {
+        "name": "Тодор Цанев",
+        "slug": "todor-tsanev"
+    },
+    {
+        "name": "Токи Дзенмаро",
+        "slug": "toki-dzenmaro"
+    },
+    {
+        "name": "Тони Теллалов",
+        "slug": "toni-tellalov"
+    },
+    {
+        "name": "Тоня Борисова",
+        "slug": "tonia-borisova"
+    },
+    {
+        "name": "Тота Канеко",
+        "slug": "tota-kaneko"
+    },
+    {
+        "name": "Траяна Славова",
+        "slug": "trayana-slavova"
+    },
+    {
+        "name": "Трифон Кунев",
+        "slug": "trifon-kunev"
+    },
+    {
+        "name": "Тудор Аргези",
+        "slug": "tudor-arghezi"
+    },
+    {
+        "name": "Туко Рамирез",
+        "slug": "tuko-ramirez"
+    },
+    {
+        "name": "Умберто Еко",
+        "slug": "umberto-eco"
+    },
+    {
+        "name": "Умберто Саба",
+        "slug": "umberto-saba"
+    },
+    {
+        "name": "Унгарска литература",
+        "slug": "magyar-irodalom"
+    },
+    {
+        "name": "Фабио Генджович",
+        "slug": "fabio-gendjovich"
+    },
+    {
+        "name": "Фабрицио Дал'Алио",
+        "slug": "fabrizio-dall-aglio"
+    },
+    {
+        "name": "Фани Попова-Мутафова",
+        "slug": "fani-popova-mutafova"
+    },
+    {
+        "name": "Федерико Гарсия Лорка",
+        "slug": "federico-garcia-lorca"
+    },
+    {
+        "name": "Федерико Джелузи",
+        "slug": "federico-jelusi"
+    },
+    {
+        "name": "фейсбук група \"Приятели на списание \"Картини с думи и багри\"",
+        "slug": "facebook-group-priateli-na-spisanie-kartini-s-dumi-i-bagri"
+    },
+    {
+        "name": "Фернанду Намора",
+        "slug": "fernando-namora"
+    },
+    {
+        "name": "Филип Ларкин",
+        "slug": "philip-larkin"
+    },
+    {
+        "name": "Философия и общество",
+        "slug": "filosofia-i-obshtestvo"
+    },
+    {
+        "name": "философия и общество - онлайн",
+        "slug": "filosofia-i-obshtestvo-online"
+    },
+    {
+        "name": "Философия на изкуството",
+        "slug": "filosofia-na-izkustvoto"
+    },
+    {
+        "name": "фондация \"Иванка и Георги Янкови\"",
+        "slug": "fondazia-ivanka-i-georgi-yankovi"
+    },
+    {
+        "name": "Фондация JAL",
+        "slug": "fondazia-jal"
+    },
+    {
+        "name": "Фотография",
+        "slug": "fotografia"
+    },
+    {
+        "name": "фотохайга",
+        "slug": "fotohaiga"
+    },
+    {
+        "name": "Франк Уилямс",
+        "slug": "frank-williams"
+    },
+    {
+        "name": "Франческо Пармиджанино",
+        "slug": "francesco-parmigianino"
+    },
+    {
+        "name": "Фредерик Рус",
+        "slug": "frederic-russ"
+    },
+    {
+        "name": "Френскоезична литература",
+        "slug": "litterature-francaise"
+    },
+    {
+        "name": "Хайбун",
+        "slug": "haibun"
+    },
+    {
+        "name": "Хайга",
+        "slug": "haiga"
+    },
+    {
+        "name": "Хайко Х. Каими",
+        "slug": "haiko-h-kaimi"
+    },
+    {
+        "name": "хайку",
+        "slug": "haiku"
+    },
+    {
+        "name": "хан Омуртаг",
+        "slug": "khan-omurtag"
+    },
+    {
+        "name": "Харалан Недев",
+        "slug": "haralan-nedev"
+    },
+    {
+        "name": "Хари Мартинсон",
+        "slug": "hari-martinson"
+    },
+    {
+        "name": "Хари Спасов",
+        "slug": "hari-spasov"
+    },
+    {
+        "name": "Хачик Лебикян",
+        "slug": "hachik-lebikian"
+    },
+    {
+        "name": "Хошинага Фумио",
+        "slug": "hoshinaga-fumio"
+    },
+    {
+        "name": "Христилия Кулева",
+        "slug": "hristilia-kuleva"
+    },
+    {
+        "name": "Христина Въчева",
+        "slug": "hristina-vacheva"
+    },
+    {
+        "name": "Христина Гложенска",
+        "slug": "hristina-glojenska"
+    },
+    {
+        "name": "Христина Златева",
+        "slug": "hristina-zlateva"
+    },
+    {
+        "name": "Христина Панджаридис",
+        "slug": "hristilia-pandjaridis"
+    },
+    {
+        "name": "Христо Ангелов",
+        "slug": "hristo-angelov"
+    },
+    {
+        "name": "Христо Ботев",
+        "slug": "hristo-botev"
+    },
+    {
+        "name": "Христо Бояджиев",
+        "slug": "hristo-boiadjiev"
+    },
+    {
+        "name": "Христо Иванов",
+        "slug": "hristo-ivanov"
+    },
+    {
+        "name": "Христо Йонков",
+        "slug": "hristo-ionkov"
+    },
+    {
+        "name": "Христо Ке Пела",
+        "slug": "hristo-ke-pela"
+    },
+    {
+        "name": "Христо Кърджилов",
+        "slug": "hristo-kardjilov"
+    },
+    {
+        "name": "Христо Медникаров",
+        "slug": "hristo-mednikarov"
+    },
+    {
+        "name": "Христо Смирненски",
+        "slug": "hristo-smirnenski"
+    },
+    {
+        "name": "Христо Фотев",
+        "slug": "hristo-fotev"
+    },
+    {
+        "name": "Христо Черняев",
+        "slug": "hristo-cherniaev"
+    },
+    {
+        "name": "Цанка Шишкова",
+        "slug": "tsanka-shishkova"
+    },
+    {
+        "name": "Цанко Церковски",
+        "slug": "tsanko-tserkovski"
+    },
+    {
+        "name": "Цветан Ангелов",
+        "slug": "tsvetan-angelov"
+    },
+    {
+        "name": "Цветан Лалов",
+        "slug": "tsvetan-lalov"
+    },
+    {
+        "name": "Цветана Качерилска",
+        "slug": "tsvetana-kacherilska"
+    },
+    {
+        "name": "Цветана Попкоева",
+        "slug": "tzvetana-popkoeva"
+    },
+    {
+        "name": "Цветанка Ангелова",
+        "slug": "tsvetanka-angelova"
+    },
+    {
+        "name": "Цветелина Деловска",
+        "slug": "tsvetelina-delovska"
+    },
+    {
+        "name": "Цветелина Манова",
+        "slug": "tsvetelina-manova"
+    },
+    {
+        "name": "Цветомира Димитрова",
+        "slug": "tsvetomira-dimitrova"
+    },
+    {
+        "name": "Цеца Стоянова",
+        "slug": "tsetsa-stoyanova"
+    },
+    {
+        "name": "Цецка Илиева",
+        "slug": "tsetska-ilieva"
+    },
+    {
+        "name": "Цонка Великова",
+        "slug": "tsonka-velikova"
+    },
+    {
+        "name": "Цоньо Неделкин",
+        "slug": "tsonio-nedelkin"
+    },
+    {
+        "name": "Чавдар Гюзелев",
+        "slug": "chavdar-guzelev"
+    },
+    {
+        "name": "Чигецу-ин",
+        "slug": "chigetsu-in"
+    },
+    {
+        "name": "Шандор Петьофи",
+        "slug": "sandor-petofi"
+    },
+    {
+        "name": "Шандор Чори",
+        "slug": "shandor-chori"
+    },
+    {
+        "name": "Шарж",
+        "slug": "sharj"
+    },
+    {
+        "name": "Шодо",
+        "slug": "shodo"
+    },
+    {
+        "name": "Юзеф Баран",
+        "slug": "jozef-baran"
+    },
+    {
+        "name": "Юзеф Тишнер",
+        "slug": "jozef-tischner"
+    },
+    {
+        "name": "Юлиан Филип",
+        "slug": "julian-philip"
+    },
+    {
+        "name": "Юлий Таков",
+        "slug": "julii-takov"
+    },
+    {
+        "name": "Юлия Рашева",
+        "slug": "julia-rasheva"
+    },
+    {
+        "name": "Юлия Станкова",
+        "slug": "julia-stankova"
+    },
+    {
+        "name": "Явор Боянов",
+        "slug": "yavor-boyanov"
+    },
+    {
+        "name": "Явор Костадинов",
+        "slug": "yavor-kostadinov"
+    },
+    {
+        "name": "Явор Перфанов",
+        "slug": "yavor-perfanov"
+    },
+    {
+        "name": "Явора Петрова",
+        "slug": "yavora-petrova"
+    },
+    {
+        "name": "Ян Кот",
+        "slug": "jan-kott"
+    },
+    {
+        "name": "Ян Полковски",
+        "slug": "jan-polkowski"
+    },
+    {
+        "name": "Ян Твардовски",
+        "slug": "jan-twardowski"
+    },
+    {
+        "name": "Яна Василева",
+        "slug": "yana-vasileva"
+    },
+    {
+        "name": "Янис Якимов",
+        "slug": "yanis-yakimov"
+    },
+    {
+        "name": "Японска литература",
+        "slug": "nihon-bungaku"
+    }
+]

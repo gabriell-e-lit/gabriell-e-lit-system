@@ -1,0 +1,7574 @@
+[
+    {
+        "name": "\"Алманах Литературно земеделско знаме\"",
+        "slug": "almanah-literaturno-zemedelsko-zname",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Ало 112 ли е?\" - Лили Чолакова",
+        "slug": "alo-112-li-e-lili-cholakova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Ангелът Рафаил\" - Рени Васева",
+        "slug": "angelyt-rafail-reni-vaseva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Балкан. 41 танки\" - Димитър Анакиев",
+        "slug": "balkan-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Боричкане в сърцето\" - Тодор Билчев",
+        "slug": "borichkane-v-sartseto-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Бурята сплита ръце\" - Габриела Цанева",
+        "slug": "buryata-splita-race-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Български хайку речник\" - Димитър Анакиев",
+        "slug": "bulgarski-haiku-rechnik",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Високосният ден\" - Габриела Цанева",
+        "slug": "visokosniyat-den-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Водопой за кръвопийци\" - Тодор Билчев",
+        "slug": "vodopoi-za-kravopiitsi-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Врабче върху антената\" - Габриела Цанева",
+        "slug": "vrabche-varhu-antenata-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Възможности за усъвършенстване на здравноосигурителната система\"-Симеон Симеонов",
+        "slug": "vazmojnosti-za-usavarshenstvane-na-zdravnoosiguritelnata-sistema",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Върхове сред ледове\" - Тодор Билчев",
+        "slug": "varhove-sred-ledove-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Гласът на сърцето\" - Христина Въчева",
+        "slug": "glasyt-na-sartseto-hristina-vacheva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Годината на дъждовника\" - Ана Стоянова",
+        "slug": "godinata-na-dajdovnika-ana-stoyanova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Гологанов и Сие\" - Гатя Симеонова",
+        "slug": "gologanov-i-sie-gatia-simeonova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Денонощия\" - Рени Васева",
+        "slug": "denonoshtiya-reni-vaseva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Дискордия и конкордия\" - Илияна Кръстева",
+        "slug": "diskordia-i-konkordia-iliyana-krasteva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Дневник с обратна дата\" - Надежда Александрова Цанева",
+        "slug": "dnevnik-s-obratna-data-nadejda-alexandrova-tsaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Дневникът на госпожица Радка\" - Маруся Николова",
+        "slug": "dnevnikyt-na-gospojitsa-radka-marusia-nikolova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Догонвам бягащия ден\" - Габриела Цанева",
+        "slug": "dogonvam-biagashtiya-den-dabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Душа като снежинка\" - Тодор Билчев",
+        "slug": "dusha-kato-snejinka-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Един малък възел\" - Димитър Анакиев и Икуйо Йошимура",
+        "slug": "one-small-knot-dimitar-anakiev-ikuyo-yoshimura",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Есенни послания\" - съставител Маргарита Нешкова",
+        "slug": "esenni-poslania-margarita-neshkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Живея със седем котки\" - Габриела Цанева и Димитър Анакиев",
+        "slug": "jiveia-sys-sedem-kotki-rensaku-100-gabriela-zaneva-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Живота в стих събрах\" - Габриела Цанева",
+        "slug": "jivota-v-stih-sabrah-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Зад гърба\" - автор Габриела Цанева",
+        "slug": "zad-garba-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"И в края е началото\" - Мартин Димитров",
+        "slug": "i-v-kraya-e-nachaloto-martin-dimitrov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"И небето тежи\" - Кас",
+        "slug": "i-nebeto-teji-kas",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Изпращане на април\" - Надежда Радева",
+        "slug": "izprashtane-na-april-nadejda-radeva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Инсомния\" - Стилиян Ангелов",
+        "slug": "%d0%b8%d0%bd%d1%81%d0%be%d0%bc%d0%bd%d0%b8%d1%8f-%d1%81%d1%82%d0%b8%d0%bb%d0%b8%d1%8f%d0%bd-%d0%b0%d0%bd%d0%b3%d0%b5%d0%bb%d0%be%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "\"Искам себе си\" - Габриела Цанева",
+        "slug": "iskam-sebe-si-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Историите на Вартоломей\" - Рени Васева",
+        "slug": "istoriite-na-vartolomei-reni-vaseva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Календар за вечността\" - Тодор Билчев",
+        "slug": "kalendar-za-vechnostta-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - изкуство",
+        "slug": "kartini-s-dumi-i-bagri-izkustvo",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - наука",
+        "slug": "kartini-s-dumi-i-bagri-nauka",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - наука за изкуството",
+        "slug": "kartini-s-dumi-i-bagri-nauka-za-izkustvoto",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "\"Картини с думи и багри\" - онлайн",
+        "slug": "kartini-s-dumi-i-bagri-online",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "\"Картините на моите книги\" - Габриела Цанева",
+        "slug": "kartinite-na-moite-knigi-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Книга за Добрич\" - съставители Тодор Билчев и Цветомира Димитрова",
+        "slug": "kniga-za-dobrich",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Книга за мечтите\" - Венелин Терзиев",
+        "slug": "kniga-za-mechtite",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Красен или раждането на духа\" - Тодор Билчев",
+        "slug": "krasen-ili-rajdaneto-na-duha-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Кръстена вода\" - Димитър Анакиев",
+        "slug": "krystena-voda-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Кръстопът на сънища\" - Габриела Цанева",
+        "slug": "krystopyt-na-synishta-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Култура на лъжите\" - Димитър Анакиев",
+        "slug": "kultura-na-lajite-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Късната любов на самотата\" - Йордан Йорданов",
+        "slug": "kysnata-lubov-na-samotata-jordan-jordanov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Луна в огледалото\" - Габриела Цанева",
+        "slug": "luna-v-ogledaloto-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Любов и свобода\" - Веселина Башова",
+        "slug": "lubov-i-svoboda-veselina-bashova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Медитации за България. 12 ренсаку\" - Димитър Анакиев",
+        "slug": "meditatsii-za-bulgaria-dimitar-anakiev",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Миналото в мен\" - Габриела Цанева",
+        "slug": "minaloto-v-men-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Мурзилки\" - Димитър Анакиев",
+        "slug": "murzilki-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"На незабравата зовът\" - Тодор Билчев",
+        "slug": "na-nezabravata-zovat-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"На попрището жизнено в средата\" - Надежда Александрова Цанева",
+        "slug": "na-poprishteto-jizneno-v-sredata-nadejda-alexandrova-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Наниз от пендари\" - Христо Иванов",
+        "slug": "naniz-ot-pendari-hristo-ivanov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Народе\" - Тодор Билчев",
+        "slug": "narode-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Не жена\" - Надежда Радева",
+        "slug": "ne-jena-nadejda-radeva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Небеса\" - Гатя Симеонова",
+        "slug": "nebesa-gatia-simeonova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Необикновените приключения на робота Ари\" - Лиляна Петкова",
+        "slug": "neobiknovenite-prikluchenia-na-robota-ari-lilyana-petkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Новото бъдеще\" - Лиляна Петкова",
+        "slug": "novoto-bydeshte-liliana-petkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Нощта на щурците\" - Габриела Цанева",
+        "slug": "noshtta-na-shturzite-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Облачна поезия. Ренсаку с Microsoft Copilot\" - Габриела Цанева",
+        "slug": "oblachna-poezia-rensaku-s-microsoft-copilot-gabriela-zaneva",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Окото на разума\" - Лиляна Петкова",
+        "slug": "okoto-na-razuma-lilyana-petkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Оскъдни дни\" - Габриела Цанева",
+        "slug": "oskadni-dni-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"От слънце и вода. Международна антология на хайку и речник на ключови думи\" - съставител Димитър Анакиев",
+        "slug": "out-of-sun-and-water-international-haiku-anthology-dimitar-anakiev",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Отвъд болката и красотата\" - Тодор Билчев",
+        "slug": "otvyd-bolkata-i-krasotata-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Отвътре навън\" - Снежана Стамова",
+        "slug": "otvytre-navyn-snejana-stamova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Отмъщението на цивилизацията\" - Лиляна Петкова",
+        "slug": "otmashtenieto-na-tsivilizatsiyata-lilyana-petkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Очите на града\" - Рени Васева",
+        "slug": "ochite-na-grada-reni-vaseva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Парче от дъга\"- антология на българската танка - съставител Димитър Анакиев",
+        "slug": "parche-ot-daga-antologia-na-bulgarskata-tanka-dimitar-anakiev",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Пепел от дъга\" - Тодор Билчев",
+        "slug": "pepel-ot-daga-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Песни за залез в сапунен балон\" - Тодор Билчев",
+        "slug": "pesni-za-zalez-v-sapunen-balon-todor-cilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Пиеса за ягодови полета\" - Лариса Ангелова",
+        "slug": "piesa-za-yagodovi-poleta-larisa-angelova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Писма върху лист от сърце\" - Тодор Билчев",
+        "slug": "pisma-varhu-list-ot-sartse-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Планина със звезден дъх\" - Христина Въчева",
+        "slug": "planina-sys-zvezden-dyh-hristina-vacheva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Под небето в мене\" - Тодор Билчев",
+        "slug": "pod-nebeto-v-mene-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Поезия. Избрано 1994-2024\" - автор Габриела Цанева",
+        "slug": "poezia-izbrano-1994-2024-gabriela-zaneva",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Поп Дошо\" - автор Тодор Билчев",
+        "slug": "pop-dosho-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"През погледа ми\" - Габриела Цанева",
+        "slug": "prez-pogleda-mi-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Приказният град гора\" - Кирил Назъров",
+        "slug": "prikazniyat-grad-gora-kiril-nazarov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Ренсаку с хан Омуртаг\" - антология",
+        "slug": "rensaku-s-han-omurtag-antologia",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Реши се и ще си свободен\" - Габриела Цанева",
+        "slug": "reshi-se-i-shte-si-svoboden-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Родена през 70-те\" - Марина Йорданова",
+        "slug": "rodena-prez-70-te-marina-jordanova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"С аромат на лотос\" - Весислава Савова",
+        "slug": "s-aromat-na-lotos-vesislava-savova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Светата троица човек\" - Тодор Билчев",
+        "slug": "svetata-troitsa-chovek-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"След девети след десети\" - Христо Ангелов",
+        "slug": "sled-deveti-sled-deseti-hristo-angelov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Слънце и море\" - Маргарита Нешкова",
+        "slug": "slyntse-i-more-margarita-neshkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Слънчеви багри\" - Кирил Желязков",
+        "slug": "slynchevi-bagri-kiril-jeliazkov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Спонтанно съзнание\" - Димитър Анакиев",
+        "slug": "spontanno-saznanie-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Спри да те прегърна\" - Тодор Билчев",
+        "slug": "spri-da-te-pregyrna-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Стъпала обрасли с мъх - събрани съчинения\" - Димитър Анакиев",
+        "slug": "stypala-obrasli-s-myh-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Стъпки по пламъци\" - Габриела Цанева",
+        "slug": "stypki-po-plamatsi-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Събудено небе\" - Лили Трендова",
+        "slug": "sabudeno-nebe-lili-trendova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Съединението\" - Димитър Анакиев",
+        "slug": "saedinenieto-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Състояния. Хайга\" - Габриела Цанева",
+        "slug": "sastoyania-haiga-gabriela-zaneva",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Тан-Ку за Украйна. Световна хайку и танка антология - съставител Димитър Анакиев",
+        "slug": "tan-ku-for-ukraine-world-haiku-and-tanka-anthology-dimitar-anakiev",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Толкова е рано\" - Габриела Цанева",
+        "slug": "tolkova-e-rano-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Треви под снега\" - Габриела Цанева",
+        "slug": "trevi-pod-snega-gabriela-zaneva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Тясна пътека през душата и света\" - Димитър Анакиев",
+        "slug": "tiasna-pateka-prez-dushata-i-sveta-dimitar-anakiev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Хайку. Избрано 1994-2024\" - Габриела Цанева",
+        "slug": "haiku-izbrano-1994-2024-gabriela-zaneva",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Цветето на любовта\" - Елисавета Цветкова",
+        "slug": "tsveteto-na-lubovta-elisaveta-tsvetkova",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Цвилят гривести коне\" - Живка Танчева",
+        "slug": "tsviliat-grivesti-kone-jivka-tancheva",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Целувката на небесата\" - Тодор Билчев",
+        "slug": "tseluvkata-na-nebesata-todor-bilchev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Черешовите води на българската танка\" - национален конкурс за танка поезия",
+        "slug": "chereshovite-vodi-na-bulgarskata-tanka-natsionalen-konkurs-za-tanka-poezia",
+        "type_key": "event",
+        "type": "Конкурс / събитие"
+    },
+    {
+        "name": "\"Човек - антология на българското хайку\" - Димитър Анакиев и Габриела Цанева",
+        "slug": "chovek-antologia-na-bulgarskoto-haiku",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "\"Щастие - спомени за бъдеще\" - Венелин Терзиев",
+        "slug": "shtastie-spomeni-za-bydeshte-venelin-terziev",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "\"Ято спомени\" - Кирил Желязков",
+        "slug": "yato-spomeni-kiril-jeliazkov",
+        "type_key": "book",
+        "type": "Книга"
+    },
+    {
+        "name": "AI-Suno",
+        "slug": "ai-suno",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "ChatGPT",
+        "slug": "chatgpt",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Emiko Miyashita",
+        "slug": "emiko-miyashita",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Haiku International Association",
+        "slug": "haiku-international-association",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "in memoriam",
+        "slug": "in-memoriam",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Karin Wada",
+        "slug": "karin-wada",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Le bananier - Centre International de Documentation et de Recherche sur le Haïku",
+        "slug": "le-bananier-centre-international-de-documentation-et-de-recherche-sur-le-haiku",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Microsoft Copilot",
+        "slug": "microsoft-copilot",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Takano Mitsuo",
+        "slug": "takano-mitsuo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Yuzo Ono",
+        "slug": "yuzo-ono",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Аарне Пуу",
+        "slug": "aarne-puu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Абдул Карим Ал-Ахмад",
+        "slug": "abdul-karim-al-ahmad",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Аделина Кошова – Lynn",
+        "slug": "%d0%b0%d0%b4%d0%b5%d0%bb%d0%b8%d0%bd%d0%b0-%d0%ba%d0%be%d1%88%d0%be%d0%b2%d0%b0-lynn",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Адриан Василев",
+        "slug": "adrian-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Адриан Попеску",
+        "slug": "adrian-popescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Айнур Каплан",
+        "slug": "ainur-kaplan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Акценти",
+        "slug": "akcenti",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Албена Иванова",
+        "slug": "albena-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Албена Тодорова",
+        "slug": "albena-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Албер Камю",
+        "slug": "albert-camus",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Алберто Моравия",
+        "slug": "alberto-moravia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Алберто Савинио",
+        "slug": "alberto-savinio",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Алеко Константинов",
+        "slug": "aleko-konstantinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александра Ивойлова",
+        "slug": "alexandra-ivoilova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александра Кирева",
+        "slug": "alexandra-kireva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александрина Шаханова",
+        "slug": "alexandrina-shahanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Алекс Дъбнишки",
+        "slug": "alexander-alex-dabnishki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Байтошев",
+        "slug": "alexander-baitoshev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Богориди",
+        "slug": "alexander-bogoridi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Йорганджиев",
+        "slug": "alexander-jorgandjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Недков",
+        "slug": "alexander-nedkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Петров",
+        "slug": "alexander-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Секулов",
+        "slug": "alexander-sekulov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Стамболийски",
+        "slug": "alexander-stamboliiski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Теллалим",
+        "slug": "alexander-tallalim",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Александър Шурбанов",
+        "slug": "alexander-shurbanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Али Юсейн",
+        "slug": "ali-jusein",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Алфонсо Марино",
+        "slug": "alfonso-marino",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ана Бландиана",
+        "slug": "ana-blandiana",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ана Стоянова",
+        "slug": "ana-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анастасия Георгиева",
+        "slug": "anastasia-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анатол Гужел",
+        "slug": "anatol-gujel",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анатол Чокану",
+        "slug": "anatol-chokanu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анатолий Кузнецов",
+        "slug": "anatolii-kuznetsov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ангел Дюлгеров",
+        "slug": "angel-dulgerov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ангел Каралийчев",
+        "slug": "angel-karaliichev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ангелина Михайлова",
+        "slug": "angelina-mihailova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Англоезична литература",
+        "slug": "english-literature",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Андон Тацев",
+        "slug": "andon-tatsev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Андреа Чекон",
+        "slug": "andrea-chekone",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Андрей Германов",
+        "slug": "andrei-germanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Андрей Рангелов",
+        "slug": "andrei-rangelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анелия Атанасова",
+        "slug": "anelia-atanasova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анжела Димчева",
+        "slug": "angela-dimcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анжела Терзиева",
+        "slug": "angela-terzieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ани Пачалова",
+        "slug": "ani-pachalova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Аниз Колц",
+        "slug": "anise-koltz",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анита Коларова",
+        "slug": "anita-kolarova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анна Гуманская",
+        "slug": "anna-gumanska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анна Димитрова",
+        "slug": "anna-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анна дьо Ноай",
+        "slug": "anna-de-noailles",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анна Петрова-Дюлгерова",
+        "slug": "anna-petrova-dulgerova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анна Фериеро",
+        "slug": "anna-ferriero",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анонси",
+        "slug": "anonsi",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Анонси - онлайн",
+        "slug": "anonsi-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Анри Матис",
+        "slug": "henri-matisse",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антоанета Добрева",
+        "slug": "antoaneta-dobreva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антоанета Николова",
+        "slug": "antoaneta-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антонен Арто",
+        "slug": "antonin-artaud",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антонина Василева",
+        "slug": "antonina-vasileva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антонио Копола",
+        "slug": "antonio-coppola",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антонио Риналди",
+        "slug": "antonio-rinaldi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антониу Рамуш Роза",
+        "slug": "antonio-ramos-rosa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Антония Атанасова",
+        "slug": "antonia-atanasova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "апева",
+        "slug": "apeva",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Арво Валтон",
+        "slug": "arvo-valton",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Арина Димова",
+        "slug": "arina-dimova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Арт платформа gabriell-e-lit",
+        "slug": "art-platforma-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Арт център Бяла",
+        "slug": "art-center-biala",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Артюр Рембо",
+        "slug": "arthur-rimbaod",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Артюр Юло",
+        "slug": "arthur-haulot",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Асен Селимски",
+        "slug": "asen-selimski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ася Трицова",
+        "slug": "asia-tritsova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Далчев",
+        "slug": "atanas-dalchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Дудулов",
+        "slug": "atanas-dudulov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Колев",
+        "slug": "atanas-kolev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Москов",
+        "slug": "atanas-moskov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Парушев - Шока",
+        "slug": "atanas-parushev-shoka",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Петров",
+        "slug": "atanas-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Райков",
+        "slug": "atanas-raikov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанас Хранов",
+        "slug": "atanas-hranov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Атанаска Иванова",
+        "slug": "atanaska-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Аукцион",
+        "slug": "auction",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "афоризми",
+        "slug": "aforizmi",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Баня Нацуиши",
+        "slug": "banya-natsuishi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Барбара Анна Гаярдони",
+        "slug": "barbara-anna-gaiardoni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бартоло Катафи",
+        "slug": "bartolo-cattafi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Без давност",
+        "slug": "bez-davnost",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бела Барток",
+        "slug": "bela-bartok",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Белетристика",
+        "slug": "beletristika",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Белин Моллов",
+        "slug": "belin-mollov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Белла Бенова",
+        "slug": "bella-benova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бернар Кирини",
+        "slug": "bernard-quiriny",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бети Алвер",
+        "slug": "betti-alver",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Биенале",
+        "slug": "bienale",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Билал Лайпанов",
+        "slug": "bilal-laipanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Биографични бележки",
+        "slug": "biografichni-belejki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Блага Димитрова",
+        "slug": "blaga-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Благовеста Касабова",
+        "slug": "blagovesta-kasabova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Богдан Богдев",
+        "slug": "bogdan-bogdev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Богдана Нейкова",
+        "slug": "bogdana-neikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Богинка Матеева",
+        "slug": "boginka-mateeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Божана Петкова-Харизанова",
+        "slug": "bojana-petkova-harizanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Божидар Бончев",
+        "slug": "bojidar-bonchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Божидар Пангелов",
+        "slug": "bojidar-pangelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Божидара Цекова",
+        "slug": "bojidara-tsekova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Божидарка Божинова",
+        "slug": "bojidarka-bojinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бойко Митков",
+        "slug": "boiko-mitkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Борис Рахнев",
+        "slug": "boris-rahnev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Борис Цветанов",
+        "slug": "boris-tsvetanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Борислав Любомиров",
+        "slug": "borislav-lubomirov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Борислава Узунова",
+        "slug": "borislava-uzunova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Боряна Ботева",
+        "slug": "boriana-boteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Боян Балкански",
+        "slug": "boyan-balkanski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бранимир Георгиев",
+        "slug": "branimir-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Бранимира Кунчева",
+        "slug": "branimira-kuncheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Братислав Иванов",
+        "slug": "bratislav-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Българска литература",
+        "slug": "bulgarska-literatura",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Български танка клуб",
+        "slug": "bulgarian-tanka-club",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Български хайку съюз",
+        "slug": "bulgarian-haiku-union",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Българско съвременно хайку и танка",
+        "slug": "bulgarsko-savremenno-haiku-i-tanka",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "В памет на",
+        "slug": "v-pamet-na",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "В паметта ни",
+        "slug": "v-pametta-ni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Ангелов",
+        "slug": "valentin-angelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Асенов-Хакъла",
+        "slug": "valentin-asenov-hakala",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Бакърджиев",
+        "slug": "valentin-bakardjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Баров",
+        "slug": "valentin-barov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Дончевски",
+        "slug": "valentin-donchevski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентин Павлов-Вай Воф",
+        "slug": "valentin-pavlov-vai-vof",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Герова",
+        "slug": "valentina-gerova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Григорова",
+        "slug": "valentina-grigorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Йорданова",
+        "slug": "valentina-jordanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Йотова-Тодорова",
+        "slug": "valentina-iotova-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Летяк",
+        "slug": "valentina-letiak",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Мелони",
+        "slug": "valentina-meloni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Стоянова - ЛидаВали",
+        "slug": "valentina-stoyanova-lidavali",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валентина Щайн",
+        "slug": "valentina-shtain",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валерий Йотов",
+        "slug": "valerii-iotov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Валерия Тодорова",
+        "slug": "valeria-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ваня / Иванка Лапавичева",
+        "slug": "vania-lapavicheva",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ваня Йорданова",
+        "slug": "vania-jordanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ваня Колева",
+        "slug": "vania-koleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ваня Статева",
+        "slug": "vania-stateva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Васил Бараков",
+        "slug": "vasil-barakov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Васил Кондов",
+        "slug": "vasil-kondov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Васил Левски",
+        "slug": "vasil-levski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Васил Стоилов",
+        "slug": "%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d1%81%d1%82%d0%be%d0%b8%d0%bb%d0%be%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Василе Никулеску",
+        "slug": "vasile-niculescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Василе Романчук",
+        "slug": "vasile-romanchuk",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Василен Васевски",
+        "slug": "vasilen-vasevski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Васка Монева",
+        "slug": "%d0%b2%d0%b0%d1%81%d0%ba%d0%b0-%d0%bc%d0%be%d0%bd%d0%b5%d0%b2%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Ваяна Панкова",
+        "slug": "vaiana-pankova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Велиана Симеонова",
+        "slug": "veliana-simeonova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Велико Маринчевски",
+        "slug": "%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%be-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d1%87%d0%b5%d0%b2%d1%81%d0%ba%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Велислава Иванова",
+        "slug": "velislava-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Величка Вълчева",
+        "slug": "velichka-valcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Велка Стамова",
+        "slug": "velka-stamova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Велла Неделчева",
+        "slug": "vella-nedelcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Венелин Терзиев",
+        "slug": "venelin-terziev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Венелина Петкова",
+        "slug": "venelina-petkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Венцеслав Константинов",
+        "slug": "ventseslav-kostadinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Венци Любомиров",
+        "slug": "ventsi-lubomirov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Венцислав Иванов",
+        "slug": "ventsislav-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вера Ганчева",
+        "slug": "vera-gancheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вера Костадинова",
+        "slug": "vera-kostadinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вероника Иванова",
+        "slug": "veronika-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Весела Люцканова",
+        "slug": "vesela-lutzkanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселин Веселинов",
+        "slug": "veselin-veselinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселин Господинов",
+        "slug": "%d0%b2%d0%b5%d1%81%d0%b5%d0%bb%d0%b8%d0%bd-%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8%d0%bd%d0%be%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Веселин Касчиев",
+        "slug": "veselin-kaschiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселина Башова",
+        "slug": "veselina-bashova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселина Камбурова",
+        "slug": "veselina-kamburova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселина Кожухарова",
+        "slug": "veselina-kojuharova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веселка Кюкова",
+        "slug": "veselka-kukova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Весислава Савова",
+        "slug": "vesislava-savova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Веско Велев",
+        "slug": "vesko-velev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "вестник \"Хайку новини\" - Ниш",
+        "slug": "vestnik-haiku-novini-nish",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Визуални изкуства",
+        "slug": "vizualni-izkustva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "визуални изкуства - онлайн",
+        "slug": "vizualni-izkustva-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виктор Желев-Викей",
+        "slug": "viktor-jelev-vikei",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виктор Марешов",
+        "slug": "viktor-mareshov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виктор Сегален",
+        "slug": "victor-segalen",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виктория Динкъ",
+        "slug": "viktoria-dinka",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виктория Маринова",
+        "slug": "viktoria-marinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Винсент ван Гог",
+        "slug": "vincent-van-gogh",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виолета Радева",
+        "slug": "%d0%b2%d0%b8%d0%be%d0%bb%d0%b5%d1%82%d0%b0-%d1%80%d0%b0%d0%b4%d0%b5%d0%b2%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Виолета Солникова",
+        "slug": "violeta-solnikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Виолета Цолова",
+        "slug": "violeta-tsolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вихрен Бънков",
+        "slug": "vihren-bankov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владан Лалович",
+        "slug": "vladan-lalovich",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Бараков",
+        "slug": "vladimir-barakov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Башев",
+        "slug": "vladimir-bashev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Димитров - Майстора",
+        "slug": "vladimir-dimitrov-maistora",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Карамазов",
+        "slug": "vladimir-karamazov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Климук",
+        "slug": "vladimir-klimuk",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Луков",
+        "slug": "vladimir-lukov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владимир Цоневски",
+        "slug": "vladimir-tsonevski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Владислав Христов",
+        "slug": "vladislav-hristov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Войчех Кас",
+        "slug": "voicheh-kas",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Волфганг Амадеус Моцарт",
+        "slug": "wolfgang-amadeus-mozart",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "ВОНЧ \"Зора-1866\" Русе",
+        "slug": "vonch-zora-1866-ruse",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Във фокуса ни",
+        "slug": "vyv-fokusa-ni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вяра Дамянова",
+        "slug": "viara-damianova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Вяра Попова",
+        "slug": "viara-popova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Габриела Жекова",
+        "slug": "gabriela-jekova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Габриела Негряну",
+        "slug": "%d0%b3%d0%b0%d0%b1%d1%80%d0%b8%d0%b5%d0%bb%d0%b0-%d0%bd%d0%b5%d0%b3%d1%80%d1%8f%d0%bd%d1%83",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Габриела Стефанова",
+        "slug": "gabriela-stefanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Габриела Цанева",
+        "slug": "gabriela-zaneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия - ХГ-Перник",
+        "slug": "%d0%b3%d0%b0%d0%bb%d0%b5%d1%80%d0%b8%d1%8f-%d1%85%d0%b3-%d0%bf%d0%b5%d1%80%d0%bd%d0%b8%d0%ba",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Галерия \"Борис Георгиев\"-Варна",
+        "slug": "galeria-boris-georgiev-varna",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия \"Графит\"",
+        "slug": "galeria-grafit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия \"Кракра\" - Перник",
+        "slug": "galeria-krakra-pernik",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Галерия \"Любен Гайдаров\" - Перник",
+        "slug": "galeria-luben-gaidarov-pernik",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Галерия \"Марин Гогев\" - Перник",
+        "slug": "galeria-marin-gogev-pernik",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Галерия \"Париж\"",
+        "slug": "%d0%b3%d0%b0%d0%bb%d0%b5%d1%80%d0%b8%d1%8f-%d0%bf%d0%b0%d1%80%d0%b8%d0%b6",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Галерия \"Ракурси\"",
+        "slug": "galeria-rakursi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия \"Сердика\"",
+        "slug": "galeria-serdika",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия \"Станка Димитрова\" - Кърджали",
+        "slug": "galeria-stanka-dimitrova-kardjali",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Галерия \"Форум\" - Хасково",
+        "slug": "galeria-forum-haskovo",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Галерия \"ХГ-Русе\"",
+        "slug": "hudojestvena-galeria-ruse",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия \"Шипка-6\"-СБХ",
+        "slug": "galeria-shipka-6-sbh",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия gabriell-e-lit",
+        "slug": "galeria-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия L’union",
+        "slug": "galeria-lunion",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галерия-книжарница София Прес",
+        "slug": "galeria-knijarnitsa-sofia-pres",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Галина Розора",
+        "slug": "galina-rozora",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ганка Найденова",
+        "slug": "%d0%b3%d0%b0%d0%bd%d0%ba%d0%b0-%d0%bd%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%be%d0%b2%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Гастрол",
+        "slug": "gastrol",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Гатя Симеонова",
+        "slug": "gatia-simeonova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Генко Генков",
+        "slug": "genko-genkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гео Милев",
+        "slug": "geo-milev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георг Фридрих Хендел",
+        "slug": "%d0%b3%d0%b5%d0%be%d1%80%d0%b3-%d1%84%d1%80%d0%b8%d0%b4%d1%80%d0%b8%d1%85-%d1%85%d0%b5%d0%bd%d0%b4%d0%b5%d0%bb",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Георге Фъркашу",
+        "slug": "george-farcashu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Атанасов",
+        "slug": "georgi-atanasov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Божилов-Слона",
+        "slug": "georgi-bojilov-slona",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Делев",
+        "slug": "georgi-delev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Жулев",
+        "slug": "georgi-julev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Иронов",
+        "slug": "georgi-ironov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Константинов",
+        "slug": "georgi-konstantinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Лефтеров-Майстора",
+        "slug": "%d0%b3%d0%b5%d0%be%d1%80%d0%b3%d0%b8-%d0%bb%d0%b5%d1%84%d1%82%d0%b5%d1%80%d0%be%d0%b2-%d0%bc%d0%b0%d0%b9%d1%81%d1%82%d0%be%d1%80%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Георги Марков",
+        "slug": "georgi-markov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Пинчев",
+        "slug": "georgi-pinchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Радулов",
+        "slug": "georgi-radulov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Раковски",
+        "slug": "georgi-rakovski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Режев",
+        "slug": "georgi-rejev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Стаматов",
+        "slug": "georgi-stamatov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Търпанов",
+        "slug": "georgi-tarpanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Цанков",
+        "slug": "georgi-tsankov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Георги Чендов",
+        "slug": "georgi-chendov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гергана Христова",
+        "slug": "gergana-hristova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гинка Билярска",
+        "slug": "ginka-biliarska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Глория Костадинова-Петрова",
+        "slug": "gloria-kostadinova-petrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гостува ни",
+        "slug": "gostuva-ni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гоце Делчев",
+        "slug": "gotse-delchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "гранични изкуства",
+        "slug": "granichni-izkustva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Греди Асса",
+        "slug": "gredy-assa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Григоре Виеру",
+        "slug": "grigore-vieru",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Густав Климт",
+        "slug": "gustav-klimt",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Гьоте Институт",
+        "slug": "%d0%b3%d1%8c%d0%be%d1%82%d0%b5-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%82",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "д-р Васил Харизанов",
+        "slug": "d-r-vasil-harizanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "д-р Веселина Узунова",
+        "slug": "d-r-veselina-uzunova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "д-р Габриела Цанева",
+        "slug": "d-r-gabriela-zaneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "д-р Красимира Узунова",
+        "slug": "d-r-krasimira-uzunova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Далай Лама",
+        "slug": "dalai-lama",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дамски литературен салон \"Евгения Марс\"",
+        "slug": "damski-literaturen-salon-evgenia-mars",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Дан Верона",
+        "slug": "%d0%b4%d0%b0%d0%bd-%d0%b2%d0%b5%d1%80%d0%be%d0%bd%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Дан Муташку",
+        "slug": "%d0%b4%d0%b0%d0%bd-%d0%bc%d1%83%d1%82%d0%b0%d1%88%d0%ba%d1%83",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Дан Скордели",
+        "slug": "%d0%b4%d0%b0%d0%bd-%d1%81%d0%ba%d0%be%d1%80%d0%b4%d0%b5%d0%bb%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Данаил Антонов - Danny Diester",
+        "slug": "danail-antonov-danny-diester",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниел Генчев",
+        "slug": "daniel-genchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниел Дянков",
+        "slug": "daniel-diankov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниел Йорданов - Алберчи",
+        "slug": "daniel-jordanov-alberchi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниел Петров",
+        "slug": "daniel-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниел Турча",
+        "slug": "%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5%d0%bb-%d1%82%d1%83%d1%80%d1%87%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Даниела Ангелова",
+        "slug": "daniela-angelova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниела Горчева",
+        "slug": "daniela-gorcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниела Николова",
+        "slug": "daniela-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниела Симеоновска",
+        "slug": "daniela-simeonovska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даниела Трачева",
+        "slug": "daniela-tracheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дарина Дикова",
+        "slug": "darina-dikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дарина Душкова",
+        "slug": "darina-dushkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дарина Цветкова",
+        "slug": "darina-tsvetkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дария Георгиева",
+        "slug": "daria-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дафина Кузманова",
+        "slug": "dafina-kuzmanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Даша Добрева",
+        "slug": "dasha-dobreva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Деби Стрейндж",
+        "slug": "debbie-strange",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дебора П. Колоджи",
+        "slug": "deborah-p-kolodji",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дейвид Георгиев",
+        "slug": "deivid-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дейвид Ланю",
+        "slug": "david-lanoue",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Денис Миланов",
+        "slug": "denis-milanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Денис Олегов",
+        "slug": "denis-olegov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Деси Цветкова",
+        "slug": "dessy-tsvetkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Десислава Стоянова",
+        "slug": "desislava-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Детелина Стефанова",
+        "slug": "detelina-stefanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Детелина Тихолова",
+        "slug": "detelina-tiholnova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Деян Богоевич",
+        "slug": "deyan-bogoevich",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Деян Павлинович",
+        "slug": "dejan-pavlinovich",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джанг Хюей",
+        "slug": "zhang-hui",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джани Родари",
+        "slug": "gianni-rodari",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джанино Даскалов",
+        "slug": "djanino-daskalov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джеймс Къркъп",
+        "slug": "james-kirkup",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джим Кейшън",
+        "slug": "jim-kacian",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джовани Джудичи",
+        "slug": "giovanni-giudici",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джовани Папини",
+        "slug": "%d0%b4%d0%b6%d0%be%d0%b2%d0%b0%d0%bd%d0%b8-%d0%bf%d0%b0%d0%bf%d0%b8%d0%bd%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Джованино Гуарески",
+        "slug": "giovannino-guareschi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джордже Албою",
+        "slug": "%d0%b4%d0%b6%d0%be%d1%80%d0%b4%d0%b6%d0%b5-%d0%b0%d0%bb%d0%b1%d0%be%d1%8e",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Джордже Баковиа",
+        "slug": "george-bacovia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джорджо Капрони",
+        "slug": "giorgio-caproni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джошкун Сами",
+        "slug": "%d0%b4%d0%b6%d0%be%d1%88%d0%ba%d1%83%d0%bd-%d1%81%d0%b0%d0%bc%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Джузепе Унгарети",
+        "slug": "giuseppe-ungaretti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джун Джордан",
+        "slug": "june-jordan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Джуна Харизанова",
+        "slug": "juna-harizanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диана Георгиева - Di-Light",
+        "slug": "diana-georgieva-di-light",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диана Стефанова",
+        "slug": "diana-stefanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диана Тенева",
+        "slug": "diana-teneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диана Фъртунова",
+        "slug": "diana-fartunova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диего Веласкес",
+        "slug": "diego-velazquez",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диляна Георгиева",
+        "slug": "diliana-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Диляна Тодорова",
+        "slug": "diliana-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дими Борисова",
+        "slug": "dimi-borisova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитрина Петрова",
+        "slug": "dimitrina-petrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитру Раду Попеску",
+        "slug": "%d0%b4%d0%b8%d0%bc%d0%b8%d1%82%d1%80%d1%83-%d1%80%d0%b0%d0%b4%d1%83-%d0%bf%d0%be%d0%bf%d0%b5%d1%81%d0%ba%d1%83",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Димитър Анакиев",
+        "slug": "dimitar-anakiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Бояджиев",
+        "slug": "dimitar-boyadjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Васин",
+        "slug": "dimitar-vasin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Владов",
+        "slug": "dimitar-vladov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Вълчев",
+        "slug": "dimitar-valchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Горсов",
+        "slug": "dimitar-gorsov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Драганов",
+        "slug": "dimitar-draganov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Казаков-Нерон",
+        "slug": "dimitar-kazakov-neron",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Лазаров",
+        "slug": "dimitar-lazarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Мантов",
+        "slug": "dimitar-mantov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Милушев",
+        "slug": "dimitar-milushev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Палазов",
+        "slug": "dimitar-palazov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Пенчев",
+        "slug": "dimitar-penchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Петков",
+        "slug": "dimitar-petkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Петров",
+        "slug": "dimitar-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Стефанов",
+        "slug": "dimitar-stefanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Талев",
+        "slug": "dimitat-talev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димитър Христов",
+        "slug": "dimitar-hristov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Димчо Дебелянов",
+        "slug": "dimcho-debelianov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дияна Иванова",
+        "slug": "diyana-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Добавена от автора публицакия",
+        "slug": "dobavena-ot-avtora-publikatsia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Добрина Симова",
+        "slug": "dobrina-simova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Добромир Георгиев",
+        "slug": "dobromir-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Добромир Тонев",
+        "slug": "dobromir-tonev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Доброцвета Илиева",
+        "slug": "dobrotsveta-ilieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "документална проза",
+        "slug": "dokumentalna-proza",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Доменико Чимароза",
+        "slug": "domenico-cimarosa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дончо Захариев",
+        "slug": "doncho-zahariev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Габе",
+        "slug": "dora-gabe",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Дякова",
+        "slug": "dora-diakova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Каменова",
+        "slug": "dora-kamenova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Конова",
+        "slug": "dora-konova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Нонинска",
+        "slug": "dora-noninska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дора Янева-Медникарова",
+        "slug": "dora-yaneva-mednikarova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дорин Тудоран",
+        "slug": "%d0%b4%d0%be%d1%80%d0%b8%d0%bd-%d1%82%d1%83%d0%b4%d0%be%d1%80%d0%b0%d0%bd",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "доц. д-р Марин Георгиев",
+        "slug": "doc-d-r-marin-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Драган Ристич",
+        "slug": "dragan-ristic",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Драма",
+        "slug": "drama",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Думитру М. Йон",
+        "slug": "dumitru-m-ion",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дуня Паланджеану",
+        "slug": "dunia-palangeanu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Дьониз Жале",
+        "slug": "denise-jallais",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "е-Библиотека gabriell-e-lit",
+        "slug": "e-biblioteka-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "е-книги на издателство gabriell-e-lit",
+        "slug": "%d0%b5-knigi-na-izdatelstvo-gabriell-e-lit",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "е-Книжарница gabriell-e-lit",
+        "slug": "e-knijarnica-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Евгения Кънева",
+        "slug": "evgenia-kaneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Евелина Стоицева",
+        "slug": "evelina-stoitseva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Евелина Тодорова",
+        "slug": "evelina-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Евтим Евтимов",
+        "slug": "evtim-evtimov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Едвин Сугарев",
+        "slug": "edvin-sugarev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Едгар Дега",
+        "slug": "edgar-degas",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Един Сарачевич",
+        "slug": "edin-sarachevich",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Едит Сьодергран",
+        "slug": "edith-sodergran",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Едуар Мане",
+        "slug": "edouard-manet",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ежиту Гонсалвеш",
+        "slug": "egito-goncalvesh",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "език и литература",
+        "slug": "ezik-i-literatura",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елена Богданова-Влайкова",
+        "slug": "elena-bogdanova-vlaikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елена Диварова",
+        "slug": "elena-divarova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елена Темелкова",
+        "slug": "elena-temelkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елиас Канети",
+        "slug": "elias-canetti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елиза Ковачева-Цокова",
+        "slug": "eliza-kovacheva-tsokova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елин Пелин",
+        "slug": "elin-pelin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елио Филипо Акрока",
+        "slug": "elio-filippo-accrocca",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Багряна",
+        "slug": "elisaveta-bagriana",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Великова",
+        "slug": "elisaveta-velikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Йовович",
+        "slug": "%d0%b5%d0%bb%d0%b8%d1%81%d0%b0%d0%b2%d0%b5%d1%82%d0%b0-%d0%b9%d0%be%d0%b2%d0%be%d0%b2%d0%b8%d1%87",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Елисавета Кочева",
+        "slug": "elisaveta-kocheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Мелинте",
+        "slug": "elisaveta-melinte",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Трендафилова-Радева",
+        "slug": "elisaveta-trendafilova-radeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Цветкова",
+        "slug": "elisaveta-tsvetkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елисавета Шапкарева",
+        "slug": "elisaveta-shapkareva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елица Баръмова - Барамо",
+        "slug": "elitsa-baramova-baramo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Елица Калоянова",
+        "slug": "elitsa-kaloyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емануил Попдимитров",
+        "slug": "emanuil-popdimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емил Кръстев",
+        "slug": "emil-krastev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емил Мишел Чоран",
+        "slug": "emile-michel-cioran",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емил Петров",
+        "slug": "emil-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емилия Василева",
+        "slug": "emilia-vasileva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Емилия Юкер",
+        "slug": "emilia-uker",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Еномото Сейфу",
+        "slug": "enomoto-seifu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Енчо Димитров",
+        "slug": "encho-dimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Епиграми",
+        "slug": "epigrami",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ерика Лазарова",
+        "slug": "erika-lazarova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ертан Алев",
+        "slug": "ertan-alev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Есе",
+        "slug": "ese",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Еудженио Монтале",
+        "slug": "eugenio-montale",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жак Превер",
+        "slug": "jacques-prevert",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жан Батист Барониан",
+        "slug": "jean-baptiste-baronian",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жан Кокто",
+        "slug": "jean-cocteau",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жан Пол Сартр",
+        "slug": "jean-paul-sartre",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жан Портант",
+        "slug": "jean-portante",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жеко Тодоров",
+        "slug": "jeko-todorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Желю Желев",
+        "slug": "%d0%b6%d0%b5%d0%bb%d1%8e-%d0%b6%d0%b5%d0%bb%d0%b5%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Женя Сертева",
+        "slug": "jenia-serteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Живка Танчева",
+        "slug": "jivka-tancheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Живодар Душков",
+        "slug": "jivodar-dushkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Живопис",
+        "slug": "jivopis",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Жузе Жорж Летрия",
+        "slug": "jose-george-letria",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жузе Мануел Мендеш",
+        "slug": "jose-manuel-mendes",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Жулиен Райнов",
+        "slug": "julien-rainov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "За арт платформа gabriell-e-lit",
+        "slug": "za-art-platforma-gabriell-e-lit",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "За издателството",
+        "slug": "za-izdatelstvoto",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "За личността и творчеството",
+        "slug": "za-lichnostta-i-tvorchestvoto",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "за научните издания gabriell-e-lit",
+        "slug": "za-nauchnite-izdania-gabriell-e-lit",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "за първи път на български език",
+        "slug": "za-pyrvi-pyt-na-bulgarski-ezik",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "За списанието",
+        "slug": "za-spisanieto",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Захари Иванов",
+        "slug": "zahari-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Захарий Стоянов",
+        "slug": "zaharii-stoyanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Звезделина Гечева",
+        "slug": "zvezdelina-gecheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Здравка Христова",
+        "slug": "zdravka-hristova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Зиятин Нуриев",
+        "slug": "%d0%b7%d0%b8%d1%8f%d1%82%d0%b8%d0%bd-%d0%bd%d1%83%d1%80%d0%b8%d0%b5%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Златил Йотов",
+        "slug": "zlatil-iotov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Златка Тименова",
+        "slug": "zlatka-timenova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Златю Бояджиев",
+        "slug": "%d0%b7%d0%bb%d0%b0%d1%82%d1%8e-%d0%b1%d0%be%d1%8f%d0%b4%d0%b6%d0%b8%d0%b5%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Змей Горянин",
+        "slug": "zmei-gorianin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Золтан Яноши",
+        "slug": "zoltan-janosi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Зорница Харизанова",
+        "slug": "zornitza-harizanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Зоя Раднева",
+        "slug": "zoya-radneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иан Менс",
+        "slug": "yann-mens",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ива Радоева",
+        "slug": "iva-radoeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ива Харизанова",
+        "slug": "iva-harizanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ивайло Каменов",
+        "slug": "ivailo-kamenov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Антонов",
+        "slug": "ivan-antonov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Белев",
+        "slug": "ivan-belev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Бобев",
+        "slug": "ivan-bobev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Бонев",
+        "slug": "ivan-bonev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Бориславов",
+        "slug": "ivan-borislavov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Бързаков",
+        "slug": "ivan-barzakov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Вазов",
+        "slug": "ivan-vazov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Влаев",
+        "slug": "ivan-vlaev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Гранитски",
+        "slug": "ivan-granitski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Динков",
+        "slug": "ivan-dinkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Додов",
+        "slug": "ivan-dodov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Драч",
+        "slug": "ivan-drach",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Иванов",
+        "slug": "ivan-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Иванов-Йоаний",
+        "slug": "ivan-ivanov-ioanii",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Йотов",
+        "slug": "ivan-jotov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Коларов",
+        "slug": "ivan-kolarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Кръстев",
+        "slug": "ivan-krastev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Методиев",
+        "slug": "ivan-metodiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Пачников",
+        "slug": "ivan-pachnikov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Радоев",
+        "slug": "ivan-radoev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Северняшки",
+        "slug": "ivan-severniashki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Селановски",
+        "slug": "ivan-selanovski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Хаджийски",
+        "slug": "ivan-hadjiiski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иван Шаламанов",
+        "slug": "ivan-shalamanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иванка Павлова",
+        "slug": "ivanka-pavlova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иванка Попова-Велева",
+        "slug": "ivanka-popova-veleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иванка Янкова",
+        "slug": "ivanka-yankova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ивелина Радионова",
+        "slug": "ivelina-radionova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ивелина Цветкова",
+        "slug": "ivelina-tsvetkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иво Братанов",
+        "slug": "ivo-bratanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Иглика Пеева",
+        "slug": "iglika-peeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Игор Стравински",
+        "slug": "igor-stravinski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Издателство gabriell-e-lit",
+        "slug": "izdatelstvo-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "изкуствознание",
+        "slug": "izkustvoznanie",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Изкуството на превода",
+        "slug": "izkustvoto-na-prevoda",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "изложба",
+        "slug": "izlojba",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "икебана",
+        "slug": "ikebana",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Икуйо Йошимура",
+        "slug": "ikuyo-yoshimura",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илиан Любенов",
+        "slug": "ilian-lubenov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илиана Илиева",
+        "slug": "iliana-ilieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илия Бешков",
+        "slug": "iliya-beshkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илия Василев",
+        "slug": "iliya-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илия Янков",
+        "slug": "iliya-yankov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илиян Петров",
+        "slug": "iliyan-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илиян Сабадошев",
+        "slug": "iliyan-sabadoshev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илияна Кръстева",
+        "slug": "iliyana-krasteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илияна Стоянова",
+        "slug": "iliyana-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Илко Савчев",
+        "slug": "ilko-savchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Импресия",
+        "slug": "impresia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ина Стана Ребиган",
+        "slug": "ina-stana-rebigan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ина Тин",
+        "slug": "ina-tin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ина Христова",
+        "slug": "ina-hristova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "интервю",
+        "slug": "interviu",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ирена Арсова",
+        "slug": "irena-arsova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ирина Александрова",
+        "slug": "irina-alexandrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ирина Пожарицка",
+        "slug": "irina-pojaritska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Искър Шуманов",
+        "slug": "iskar-shumanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Исмет Чавушоглу",
+        "slug": "ismet-chavushoglu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "история и документи",
+        "slug": "istoria-i-dokumenti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Италианска литература",
+        "slug": "letteratura-italiana",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ишикава Такубоку",
+        "slug": "ishikava-takuboku",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ия Кива",
+        "slug": "ia-kiva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йин Сиаоюан",
+        "slug": "yin-xiaoyuan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йоан Александру",
+        "slug": "joan-alexandru",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йоана Димитрова",
+        "slug": "joana-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йоана Николова",
+        "slug": "joana-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йожен Йонеско",
+        "slug": "eugene-ionesco",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Байешу",
+        "slug": "ion-baiesu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Брад",
+        "slug": "ion-brad",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Дезидериу Сърбу",
+        "slug": "ion-dezideriu-surbiu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Драганою",
+        "slug": "ion-draganou",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Минулеску",
+        "slug": "ion-minulescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Мирча",
+        "slug": "ion-mircha",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йон Юга",
+        "slug": "ion-yuga",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йонко Бонов",
+        "slug": "ionko-bonov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Атанасов",
+        "slug": "jordan-atanasov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Борисов",
+        "slug": "jordan-borisov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Василев",
+        "slug": "jordan-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Даменски",
+        "slug": "jordan-damenski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Йовков",
+        "slug": "jordan-jovkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Йорданов",
+        "slug": "jordan-jordanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Кожухаров",
+        "slug": "jordan-kojuharov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Митев",
+        "slug": "jordan-mitev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йордан Палежев",
+        "slug": "jordan-palejev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йорданка Илиева",
+        "slug": "jordanka-ilieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йорданка Радева",
+        "slug": "jordanka-radeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йорданка Шиякова",
+        "slug": "jordanka-shiyakova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йоса Бусон",
+        "slug": "yosa-buson",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йосано Теккан",
+        "slug": "yossano-tekkan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йосиф Петров",
+        "slug": "josif-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йохан Щраус-син",
+        "slug": "johann-straus-sohn",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Йоханес Вермеер",
+        "slug": "johannes-vermeer",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Казимиру де Бриту",
+        "slug": "casimiro-de-brito",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "калиграфия",
+        "slug": "kaligrafia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Калин Николов",
+        "slug": "kalin-nikolov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калин Раймундов",
+        "slug": "kalin-raimundov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калин Симеонов",
+        "slug": "kalin-simeonov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калин Терзийски",
+        "slug": "kalin-terziiski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калина Николова",
+        "slug": "kalina-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калия Калъчева",
+        "slug": "kalia-kalacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Калоян Странски",
+        "slug": "kaloyan-stranski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Камбер Камбер",
+        "slug": "kamber-kamber",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Камен Цветков",
+        "slug": "kamen-tsvetkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Караваджо",
+        "slug": "caravaggio",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Карло Бетоки",
+        "slug": "carlo-betocchi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Карло Чипола",
+        "slug": "carlo-chipolla",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Каролайн Джайлс Банкс",
+        "slug": "carolin-jiles-banks",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "картина-илюстрация",
+        "slug": "kartina-ilustratsia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Картини",
+        "slug": "kartini",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Кас",
+        "slug": "kas",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Катя Йорданова",
+        "slug": "katia-jordanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Катя Николова",
+        "slug": "katia-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Катя Тончева",
+        "slug": "katia-toncheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "керамика",
+        "slug": "keramika",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Кети Бозукова",
+        "slug": "keti-bozukova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ким Алберт Думанон",
+        "slug": "kim-albert-dumanon",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Божинов",
+        "slug": "kiril-bojinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Димитров",
+        "slug": "kiril-dimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Желязков",
+        "slug": "kiril-jeliazkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Кадийски",
+        "slug": "kiril-kadiiski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Назъров",
+        "slug": "kiril-nazarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Недялков",
+        "slug": "kiril-nedialkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кирил Христов",
+        "slug": "kiril-hristov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Клаудио Магрис",
+        "slug": "claudio-magris",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Клементина Щерева",
+        "slug": "klementina-shtereva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "клуб Лучафарул-Гюргево",
+        "slug": "club-lucafarul-gurgiu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кобаяши Иса",
+        "slug": "kobayashi-issa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "колекция 1 юни",
+        "slug": "kolektsia-1-juni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кольо Колев",
+        "slug": "kolio-kolev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Колю Фичето",
+        "slug": "koliu-ficheto",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Коментар",
+        "slug": "komentar",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "конкурси",
+        "slug": "konkursi",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Константин Константинов",
+        "slug": "konstantin-konstantinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Константин Костов",
+        "slug": "konstantin-kostov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Константин Павлов",
+        "slug": "konstantin-pavlov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Контадин Кременски",
+        "slug": "kontadin-kremenski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимир Григоров",
+        "slug": "krasimir-grigorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимир Иванов",
+        "slug": "krasimir-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимир Манев",
+        "slug": "krasimir-manev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимира Казанджиева",
+        "slug": "krasimira-kazandjieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимира Кирилова",
+        "slug": "krasimira-kirilova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Красимира Трифонова",
+        "slug": "krasimira-trifonova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Криси Прахова",
+        "slug": "krisi-prahova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кристин Димитрова",
+        "slug": "kristin-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кристина Тодорова",
+        "slug": "kristina-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кристина Тотева",
+        "slug": "kristina-toteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кристияна Стойнева",
+        "slug": "kristiyana-stoineva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кристияна Хаджиева",
+        "slug": "kristiyana-hadjieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Критически анализ",
+        "slug": "kriticheski-analiz",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Критически анализ онлайн",
+        "slug": "kriticheski-analiz-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Крум Гергицов",
+        "slug": "krum-gergitsov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Крум Попов",
+        "slug": "krum-popov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кръстан Дянков",
+        "slug": "krastan-dyankov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кръстьо Рибаров",
+        "slug": "krastio-ribarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кръстьо Хаджииванов",
+        "slug": "krastio-hadjiivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кънчо Великов",
+        "slug": "kancho-velikov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кънчо Кожухаров",
+        "slug": "kanchio-kojuharov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Кънчо Кънев",
+        "slug": "kancho-kanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лайош В. Мохаи",
+        "slug": "lajos-v-mohai",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лариса Ангелова",
+        "slug": "larisa-angelova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лео Бутнару",
+        "slug": "leo-butnaru",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Леся Украинка",
+        "slug": "lesia-ukrainka",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лиана Денезаки",
+        "slug": "liana-denezaki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лили Трендова",
+        "slug": "lili-terndova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лили Чолакова",
+        "slug": "lili-cholakova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лиляна Алексиева",
+        "slug": "lilyana-alexieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лиляна Петкова",
+        "slug": "lilyana-petkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лиляна Райчева",
+        "slug": "lilyana-raicheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "литература за деца",
+        "slug": "literatura-za-detsa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Литературен клуб \"Зора\"",
+        "slug": "literaturen-klub-zora",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Литературна критика",
+        "slug": "literaturna-kritika",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Литературно земеделско знаме",
+        "slug": "literaturno-zemedelsko-zname",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лияна Фероли",
+        "slug": "lilyana-feroli",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лора Цветанова",
+        "slug": "lora-tsvetanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лучиан Блага",
+        "slug": "lucian-blaga",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лучо Пиколо",
+        "slug": "lucio-piccolo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Лъчезар Селяшки",
+        "slug": "lachezar-seliashki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Льоринц Сабо",
+        "slug": "lorinc-szabo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любен Лалов",
+        "slug": "luben-lalov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любен Томов",
+        "slug": "luben-tomov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любомир Левчев",
+        "slug": "lubomir-levchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любомир Раев",
+        "slug": "liubomir-raev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любомир Тончев",
+        "slug": "lubomir-tonchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Любчо Иванов",
+        "slug": "lubcho-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Людмил Симеонов",
+        "slug": "ludmil-simeonov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Людмил Стоянов",
+        "slug": "ludmil-stoyanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Людмила Данова",
+        "slug": "ludmila-danova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Людмила Христова",
+        "slug": "ludmila-hristova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Магда Борисова",
+        "slug": "magda-borisova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "май 2022",
+        "slug": "mai-2022",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Манга",
+        "slug": "manga",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ману Кант",
+        "slug": "manu-kant",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Манчо Йончев",
+        "slug": "mancho-ionchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мара Белчева",
+        "slug": "mara-belcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мара Михайлова",
+        "slug": "mara-mihailova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мара Шейх",
+        "slug": "mara-sheih",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Маргарит Жеков",
+        "slug": "margarit-jekov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Маргарита Нешкова",
+        "slug": "margarita-neshkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Маргерита Гуидачи",
+        "slug": "margherita-guidacci",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мари-Ноел Опитал",
+        "slug": "marie-noel-opital",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мариана Маринова",
+        "slug": "mariana-marinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марианжела Анастасова",
+        "slug": "marianjela-atanasova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мариела Русанова",
+        "slug": "mariela-rusanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марийка Жекова",
+        "slug": "mariika-jekova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марико Китакубо",
+        "slug": "mariko-kitakubo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Георгиев",
+        "slug": "marin-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Георгиев Маринов",
+        "slug": "marin-georgiev-marinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Колев",
+        "slug": "marin-kolev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Маринов",
+        "slug": "marin-marinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Минку",
+        "slug": "marin-minku",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марин Сореску",
+        "slug": "%d0%bc%d0%b0%d1%80%d0%b8%d0%bd-%d1%81%d0%be%d1%80%d0%b5%d1%81%d0%ba%d1%83",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Марин-Константин Палатов",
+        "slug": "marin-konstantin-palatov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марина Йорданова",
+        "slug": "marina-jordanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марио Итало Фучиле",
+        "slug": "mario-italo-fucile",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марио Луци",
+        "slug": "mario-luzi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марио Митев",
+        "slug": "mario-mitev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мария Беатриче ди Кастри",
+        "slug": "maria-beatrice-di-castri",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Мария Димитрова",
+        "slug": "maria-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мария Илиева",
+        "slug": "maria-ilieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мария Примаченко",
+        "slug": "maria-primachenko",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мария Славова",
+        "slug": "maria-slavova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мария-Марчела Колева",
+        "slug": "maria-marchela-koleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марко Монев",
+        "slug": "marko-monev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марко Семов",
+        "slug": "marko-semov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мартин Димитров",
+        "slug": "martin-dimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мартина Стоева",
+        "slug": "martina-stoeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Маруся Любчева",
+        "slug": "marusia-lubcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Маруся Николова",
+        "slug": "marusia-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Марчела Беня",
+        "slug": "marchela-benia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Матей Вишниек",
+        "slug": "matei-visniec",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мацуо Башо",
+        "slug": "matsuo-basho",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Бисеркова",
+        "slug": "maia-biserkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Данева",
+        "slug": "maia-daneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Дългъчева",
+        "slug": "maia-dalgacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Кисьова",
+        "slug": "maia-kisiova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Мечева",
+        "slug": "maia-mecheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мая Цекова",
+        "slug": "maia-tsekova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Международен обмен",
+        "slug": "mejdunaroden-obmen",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Международен фестивал на портретния филм",
+        "slug": "international-portrait-film-festival",
+        "type_key": "event",
+        "type": "Конкурс / събитие"
+    },
+    {
+        "name": "Мемоар",
+        "slug": "memoire",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Месрур Сабит",
+        "slug": "mesrur-sabit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Методи Джонев",
+        "slug": "metodi-djonev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Миглена Кръстева",
+        "slug": "miglena-krasteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Микеланджело Буонароти",
+        "slug": "michelangelo-buonarroti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Микола Пимоненко",
+        "slug": "mikola-pimonenko",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мила Долапчиева",
+        "slug": "mila-dolapchieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милена Азманова",
+        "slug": "milena-azmanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милена Велева",
+        "slug": "milena-veleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милена Стоянова",
+        "slug": "milena-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милена Филипова",
+        "slug": "milena-filipova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милена Френкева",
+        "slug": "milena-frenkeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милка Миланова",
+        "slug": "milka-milanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Милка Пешева",
+        "slug": "milka-pesheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мимо Морина",
+        "slug": "mimo-morina",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Миниатюра",
+        "slug": "%d0%bc%d0%b8%d0%bd%d0%b8%d0%b0%d1%82%d1%8e%d1%80%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Минко Танев",
+        "slug": "minko-tanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Минчо Тодоров",
+        "slug": "mincho-todorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Минчо Чинаров",
+        "slug": "mincho-chinarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мира Дойчинова",
+        "slug": "mira-doichinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мира Дулевска",
+        "slug": "mira-dulevska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мира Душкова",
+        "slug": "mira-dushkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мирослава Дачева",
+        "slug": "miroslava-dacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мирослава Симеонова",
+        "slug": "miroslava-simeonova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мирча Динеску",
+        "slug": "mirchea-dinescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Митко Новков",
+        "slug": "mitko-novkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михаела Грамен",
+        "slug": "mihaela-gramen",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михаил Белчев",
+        "slug": "%d0%bc%d0%b8%d1%85%d0%b0%d0%b8%d0%bb-%d0%b1%d0%b5%d0%bb%d1%87%d0%b5%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Михаил Деянов",
+        "slug": "mihail-deyanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михаил Нонински",
+        "slug": "mihail-noninski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михай Бенюк",
+        "slug": "mihai-beniuc",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михай Еминеску",
+        "slug": "mihai-eminescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михай Кантуниари",
+        "slug": "%d0%bc%d0%b8%d1%85%d0%b0%d0%b9-%d0%ba%d0%b0%d0%bd%d1%82%d1%83%d0%bd%d0%b8%d0%b0%d1%80%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Михай Катруна",
+        "slug": "mihai-katruna",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Михалаки Георгиев",
+        "slug": "mihalaki-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Мозайка",
+        "slug": "mozaika",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Мойсе Буланча",
+        "slug": "moise-bulancha",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Момера Здравкова",
+        "slug": "momera-zdravkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Момчил Гечев",
+        "slug": "momchil-gechev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Музика",
+        "slug": "muzika",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Надежда Александрова",
+        "slug": "nadejda-alexandrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Александрова Цанева",
+        "slug": "nadejda-alexandrova-tsaneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Бонева",
+        "slug": "nadejda-boneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Костадинова",
+        "slug": "nadejda-kostadinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Любенова",
+        "slug": "nadejda-lubenova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Радева",
+        "slug": "nadejda-radeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Станилова",
+        "slug": "nadejda-stanilova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Тодорова",
+        "slug": "nadejda-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Тошкова",
+        "slug": "nadejda-toshkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надежда Цанева",
+        "slug": "nadejda-tsaneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Наделина Цветкова",
+        "slug": "nadelina-tsvetkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надя Борисова",
+        "slug": "nadia-borisova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Надя Тодорова",
+        "slug": "nadia-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Найден Вълчев",
+        "slug": "naiden-valchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нанси Хемптън",
+        "slug": "nancy-hampton",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Направление визуални изкуства",
+        "slug": "napravlenie-vizualni-izkustva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Направление литература",
+        "slug": "napravlenie-literatura",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Наталия Артемин",
+        "slug": "natalia-artemin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Наталия Георгиева",
+        "slug": "natalia-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Наталия Ерхова",
+        "slug": "natalia-erhova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "научни конференции",
+        "slug": "nauchi-konferentsii",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Национален дарителски фонд \"13 века България\"",
+        "slug": "natsionalen-daritelski-fond-13-veka-bulgaria",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Национален конкурс за хайку \"Интеркултура\"",
+        "slug": "natsionalen-konkurs-za-haiku-interkultura",
+        "type_key": "event",
+        "type": "Конкурс / събитие"
+    },
+    {
+        "name": "нашият избор",
+        "slug": "nashiyat-izbor",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Невена Лилова",
+        "slug": "nevena-lilova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Незаглъхващи гласове",
+        "slug": "nezaglyhvashti-glasove",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нели Дечева",
+        "slug": "neli-decheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нели Закс",
+        "slug": "nelly-sachs",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нели Пигулева",
+        "slug": "neli-piguleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Немска литература",
+        "slug": "deutsche-literatur",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никита Станеску",
+        "slug": "nichita-stanescu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никол Андреева",
+        "slug": "nikol-andreeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Бенин",
+        "slug": "nikola-benin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Вапцаров",
+        "slug": "nikola-vaptsarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Иванов",
+        "slug": "nikola-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Петков",
+        "slug": "nikola-petkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Руков",
+        "slug": "nikola-rukov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Никола Фичев",
+        "slug": "nikola-fichev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николае Дабижа",
+        "slug": "nicolae-dabija",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Владимиров",
+        "slug": "nikolai-vladimirov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Гочев",
+        "slug": "nikolai-gochev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Гюлев",
+        "slug": "nikolai-giulev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Здравков",
+        "slug": "nikolai-zdravkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Йорданов Николов",
+        "slug": "nikolai-jordanov-nikolov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Караджов",
+        "slug": "nikolai-karadjov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Кънчев",
+        "slug": "nikolai-kanchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Лилиев",
+        "slug": "nikolai-liliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Николов",
+        "slug": "nikolai-nikolov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Пенчев",
+        "slug": "nikolai-penchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Петров",
+        "slug": "nikolai-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Райнов",
+        "slug": "nikolai-rainov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николай Хайтов",
+        "slug": "nikolai-haitov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николина Барбутева",
+        "slug": "nikolina-barbuteva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николина Пенева",
+        "slug": "nikolina-peneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николина Стоянова",
+        "slug": "nikolina-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Николина Тодорова /Нина Росна/",
+        "slug": "nikolina-todorova-nina-rosna",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Николинка Димитрова",
+        "slug": "nikolinka-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нина Жосу",
+        "slug": "nina-josu",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Нина Тончева",
+        "slug": "nina-toncheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Новела",
+        "slug": "novela",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Нови книги",
+        "slug": "novi-knigi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "НЧ \"Ахинора-2006\" - с. Яворово",
+        "slug": "nch-ahinora-2006-s-yavorovo",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Бачо Киро-1869\" - Бяла черква",
+        "slug": "nch-bacho-kiro-1869-byala-cherkva",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Братство-1869” - Кюстендил",
+        "slug": "nch-bratstvo-1869-kustendil",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Захари Стоянов-1937\" - Русе",
+        "slug": "nch-zahari-stoyanov-1937-ruse",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Интеркултура 21 век-2006\" - София",
+        "slug": "nch-interkultura-21-vek-2006-sofia",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Искра-1898\" - Борово",
+        "slug": "nch-iskra-1898-borovo",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Канев-Пробуда-1924\" - с. Горно Абланово",
+        "slug": "nch-kanev-probuda-s-gorno-ablanovo",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "НЧ \"Христо Ботев-1928\" - с. Обретеник",
+        "slug": "nch-hristo-botev-1928-s-obretenik",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Общество",
+        "slug": "obshtestvo",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Огнян Балканджиев",
+        "slug": "ognian-balkandjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Огнян Стамболиев",
+        "slug": "ognian-stamboliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Октавиан Палер",
+        "slug": "oktavian-paler",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Олга Шурбанова",
+        "slug": "%d0%be%d0%bb%d0%b3%d0%b0-%d1%88%d1%83%d1%80%d0%b1%d0%b0%d0%bd%d0%be%d0%b2%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Олена Матижева",
+        "slug": "olena-matijeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Олена Пшенична",
+        "slug": "olena-pshenychna",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Омила - Цвета Джагарова",
+        "slug": "omila-tsveta-djagarova",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Онлайн списание \"Картини с думи и багри\"",
+        "slug": "online-spisanie-kartini-s-dumi-i-bagri",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Опера",
+        "slug": "opera",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Опити/essais",
+        "slug": "opiti-essais",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Остап Вишня",
+        "slug": "ostap-vishnia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Очаквани заглавия",
+        "slug": "ochakvani-zaglavia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "П. К. Яворов",
+        "slug": "p-k-yavorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пабло Пикасо",
+        "slug": "pablo-picasso",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павел Величков",
+        "slug": "pavel-velichkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павел Койчев",
+        "slug": "pavel-koichev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павел Матев",
+        "slug": "pavel-matev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павел Павлов",
+        "slug": "pavel-pavlov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павлина Кирилова",
+        "slug": "pavlina-kirilova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Павлина Петкова",
+        "slug": "pavlina-petkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Паисий Хилендарски",
+        "slug": "paisii-hilendarski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Памет",
+        "slug": "pamet",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Паметта на изкуството",
+        "slug": "pametta-na-izkustvoto",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Панаит Истрати",
+        "slug": "panait-istrati",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Паоло Веронезе",
+        "slug": "paolo-veronese",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пейо Яворов",
+        "slug": "peio-yavorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пенка Иванова",
+        "slug": "penka-ivanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пенка Самоковлиева",
+        "slug": "penka-samokovlieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пенко Керемидчиев",
+        "slug": "penko-keremidchiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пенчо Славейков",
+        "slug": "pencho-slaveikov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пепа Оджакова",
+        "slug": "pepa-odjakova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пер Лагерквист",
+        "slug": "par-lagerkvist",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "песен",
+        "slug": "pesen",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Петер Юхас",
+        "slug": "peter-juhasz",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петко Огойски",
+        "slug": "petko-ogoiski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петко Павлов",
+        "slug": "petko-pavlov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петко Пашкунов",
+        "slug": "petko-pashkunov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петко Рачoв Славейков",
+        "slug": "petko-rachov-slaveikov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Алипиев",
+        "slug": "petar-alipiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Главеев",
+        "slug": "petar-glaveev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Дарковски",
+        "slug": "petar-darkovski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Дертлиев",
+        "slug": "petar-dertliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Динчев",
+        "slug": "petar-dinchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Нешев",
+        "slug": "petar-neshev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Павлов",
+        "slug": "petar-pavlov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Пацев",
+        "slug": "petar-patsev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Петров",
+        "slug": "petar-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Пламенов",
+        "slug": "petar-plamenov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Чухов",
+        "slug": "petar-chuhov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петър Щърбанов",
+        "slug": "petar-shtarbanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петя Александрова",
+        "slug": "petia-alexandrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петя Дубарова",
+        "slug": "petia-dubarova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Петя Ставрева",
+        "slug": "petia-stavreva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пламен Василев",
+        "slug": "plamen-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пламен Георгиев",
+        "slug": "plamen-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пламен Легкоступ",
+        "slug": "plamen-legkostup",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пламяна Георгиева",
+        "slug": "plamiana-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Планимир Петров",
+        "slug": "planimir-petrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Поезия",
+        "slug": "poezia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Поезия за деца",
+        "slug": "poezia-za-detsa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Поезия онлайн",
+        "slug": "poezia-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Поема",
+        "slug": "poema",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Позиция",
+        "slug": "pozitsia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Позиция - онлайн",
+        "slug": "pozitsia-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пол Верлен",
+        "slug": "paul-verlaine",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пол Елюар",
+        "slug": "paul-eluard",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Поло Оконе",
+        "slug": "polo-okone",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Португалска литература",
+        "slug": "literatura-portuguesa",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "поща gabriell-e-lit",
+        "slug": "post-gabriell-e-lit",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Превод",
+        "slug": "prevod",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Преводачът представя",
+        "slug": "prevodachat-predstavia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Представяне на книга",
+        "slug": "predstaviane-na-kniga",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "През погледа ни",
+        "slug": "prez-pogleda-ni",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Преслав Чернев",
+        "slug": "preslav-chernev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Притча",
+        "slug": "%d0%bf%d1%80%d0%b8%d1%82%d1%87%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Проза",
+        "slug": "proza",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Проза онлайн",
+        "slug": "proza-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. Георги Георгиев",
+        "slug": "prof-georgi-georgiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. д-р Людмила Григорова",
+        "slug": "prof-d-r-ludmila-grigorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. д. н. Венелин Терзиев",
+        "slug": "prof-d-n-venelin-terziev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. Джоузеф Спенс",
+        "slug": "prof-joseph-spens",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. дн Николай Димитров",
+        "slug": "prof-d-n-nikolai-dimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. Иван Бързаков",
+        "slug": "prof-ivan-barzakov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. Илия Илиев",
+        "slug": "prof-ilia-iliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "проф. Цонка Великова",
+        "slug": "prof-tsonka-velikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Публицистика",
+        "slug": "publicistika",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Публична покана",
+        "slug": "publichna-pokana",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Публична покана - отговор",
+        "slug": "publichna-pokana-otgovor",
+        "type_key": "event",
+        "type": "Конкурс / събитие"
+    },
+    {
+        "name": "Първолета Маджарска",
+        "slug": "parvoleta-madjarska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Пътепис",
+        "slug": "patepis",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "р-книги на издателство gabriell-e-lit",
+        "slug": "p-knigi-na-izdatelstvo-gabriell-e-lit",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "р-книги-книжарница",
+        "slug": "p-knigi-knijarnitsa",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Рада Въртунинска",
+        "slug": "rada-vartuninska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рада Цанкова",
+        "slug": "rada-tsankova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ради Стефанов",
+        "slug": "radi-stefanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радка Гочева",
+        "slug": "radka-gocheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радка Миндова",
+        "slug": "radka-mindova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радко Мурзов",
+        "slug": "radko-murzov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радоил Серафимов",
+        "slug": "radoil-serafimov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радой Попиванов",
+        "slug": "radoi-popivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радой Ралин",
+        "slug": "radoi-ralin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радослава Манова-Раде",
+        "slug": "radoslava-manova-rade",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Радостина Драгостинова",
+        "slug": "radostina-dragostinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Разказ",
+        "slug": "razkaz",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Райко Алексиев",
+        "slug": "raiko-alexiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Райко Даскалов",
+        "slug": "raiko-daskalov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Райна Минкова",
+        "slug": "raina-minkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Райна Преславска",
+        "slug": "raina-preslavska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Райнер Мария Рилке",
+        "slug": "rainer-maria-rilke",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ралица Мирчева",
+        "slug": "ralitsa-mircheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рамела Бохосян",
+        "slug": "ramela-bohosian",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рафаел Алберти",
+        "slug": "rafael-alberti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рафаел д'Абдон",
+        "slug": "raphael-d-abdon",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рафаеле Кариери",
+        "slug": "raffaelle-carrieri",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рафаело Санцио",
+        "slug": "raffaello-sanzio",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "РБ \"Любен Каравелов\"",
+        "slug": "rb-luben-karavelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "ревю на книги",
+        "slug": "reviu-na-knigi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "ревю-рецензия",
+        "slug": "reviu-recenzia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Редакционна статия",
+        "slug": "redaktsionna-statia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рембранд",
+        "slug": "rembrandt",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Рени Арсова",
+        "slug": "reni-arsova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рени Васева",
+        "slug": "reni-vaseva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ренку",
+        "slug": "renku",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Ренсаку",
+        "slug": "rensaku",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Репортаж",
+        "slug": "reportaj",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Репортажи онлайн",
+        "slug": "reportaji-online",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Рецензия",
+        "slug": "recenzia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Рикардо Дуранти",
+        "slug": "riccardo-duranti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Роберто Андреев",
+        "slug": "roberto-andreev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Розалия Владимирова",
+        "slug": "rozalia-vladimirova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Розалия Радева",
+        "slug": "rozalia-radeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "роман-откъс",
+        "slug": "roman-otkas",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Росен Марков",
+        "slug": "rosen-markov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Росен Русев",
+        "slug": "rosen-rusev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Роси Жекова",
+        "slug": "rosi-jekova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Роси Савова",
+        "slug": "rosi-savova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Росица Копукова",
+        "slug": "rositsa-kopukova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "рубайят",
+        "slug": "rubayyat",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Румен Василев",
+        "slug": "rumen-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Румен Сейреков",
+        "slug": "rumen-seirekov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Румънска литература",
+        "slug": "literatura-romana",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Румяна Пелова",
+        "slug": "rumiana-pelova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Руслина Александрова",
+        "slug": "ruslina-alexandrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ръдиард Киплинг",
+        "slug": "rudyard-kipling",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Салвадор Дали",
+        "slug": "salvador-dali",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Салваторе Котрупи",
+        "slug": "salvatore-cotrupi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Салваторе Куазимодо",
+        "slug": "salvatore-quasimodo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Самюел Бекет",
+        "slug": "samuel-beckett",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сандро Ботичели",
+        "slug": "sandro-botticelli",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "сатира",
+        "slug": "satira",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "сатирична поезия",
+        "slug": "satirichna-poezia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сатирична проза",
+        "slug": "satirichna-proza",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сашка Душкова",
+        "slug": "sashka-dushkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Свежа Дачева",
+        "slug": "sveja-dacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светла Дамяновска",
+        "slug": "svetla-damianovska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светла Йорданова",
+        "slug": "svetla-jordanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светлана Стойчева",
+        "slug": "svetlana-stoicheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светлин Трендафилов",
+        "slug": "svetlin-trendafilov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светозар Арнаудов",
+        "slug": "svetozar-arnaudov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Светослав Нахум",
+        "slug": "svetoslav-nahum",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Свитлана Самарская",
+        "slug": "svitlana-samarskaya",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сдружение \"Професор Бързаков\"",
+        "slug": "sdrujenie-profesor-barzakov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Севдалина Тодорова",
+        "slug": "sevdalina-todorova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Северина Филипова",
+        "slug": "severina-filipova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "сентенции",
+        "slug": "sententsii",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Сергей Городецки",
+        "slug": "sergei-gorodezki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сергей Ивойлов",
+        "slug": "sergei-ivoilov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сергей Румянцев",
+        "slug": "sergei-rumiantsev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сидония Пожарлиева",
+        "slug": "sidonia-pojarlieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Силва Василева",
+        "slug": "silva-vasileva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Силвия Веселинова",
+        "slug": "silvia-veselinova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Силвия Павлова",
+        "slug": "silvia-pavlova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "символизъм",
+        "slug": "%d1%81%d0%b8%d0%bc%d0%b2%d0%be%d0%bb%d0%b8%d0%b7%d1%8a%d0%bc",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Симеон Аспарухов",
+        "slug": "simeon-asparuhov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Симеон Симеонов",
+        "slug": "simeon-simeonov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Симеон Янев",
+        "slug": "simeon-yanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Симон дьо Бовоар",
+        "slug": "simone-de-beauvoir",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Симоне Пансолин",
+        "slug": "simone-pansolin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Скулптура",
+        "slug": "skulptura",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Славена Николова",
+        "slug": "slavena-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Славка Ставрева",
+        "slug": "slavka-stavreva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Снежана Галчева",
+        "slug": "%d1%81%d0%bd%d0%b5%d0%b6%d0%b0%d0%bd%d0%b0-%d0%b3%d0%b0%d0%bb%d1%87%d0%b5%d0%b2%d0%b0",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Снежана Изворска",
+        "slug": "snejana-izvorska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Снежана Стамова",
+        "slug": "snejana-stamova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Снежинка Христова",
+        "slug": "snejinka-hristova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сонет",
+        "slug": "sonet",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Соня Гупта",
+        "slug": "sonia-gupt%d0%b0",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Соня Русков",
+        "slug": "sonia-ruskov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Соня Чурова",
+        "slug": "sonia-churov%d0%b0",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "София Филипова",
+        "slug": "sofia-filipova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Софроний Врачански",
+        "slug": "sofronii-vrachanski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "списание paradigma",
+        "slug": "spisanie-paradigma",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стамен Григоров",
+        "slug": "stamen-grigorov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станимира Георгиева",
+        "slug": "stanimira-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станислав Марашки",
+        "slug": "stanislav-marashki",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станислава Ганчева",
+        "slug": "stanislava-gancheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станислава Пирчева-Ава",
+        "slug": "stanislava-pircheva-ava",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станка Бонева",
+        "slug": "stanka-boneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станка Парушева",
+        "slug": "stanka-parusheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Станка Пенчева",
+        "slug": "stanka-pencheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Статия",
+        "slug": "statia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Стели Грънчаров",
+        "slug": "steli-grancharov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Богориди",
+        "slug": "stefan-bogoridi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Гечев",
+        "slug": "stefan-gechev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Кацаров",
+        "slug": "stefan-katsarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Маларме",
+        "slug": "strphane-mallarme",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Митев",
+        "slug": "stefan-mitev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Патрик Моасе - Zaïzaï",
+        "slug": "stephane-patric-moise-zaizai",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Попстефанов",
+        "slug": "stefan-popstefanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Стамболов",
+        "slug": "stefan-stambolov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Стамов",
+        "slug": "stefan-stamov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефан Цанев",
+        "slug": "stefan-tsanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефка Ангелова",
+        "slug": "stefka-angelova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефка Георгиева",
+        "slug": "stefka-georgieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефка Евстатиева",
+        "slug": "stefka-evstatieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стефчо Василев",
+        "slug": "stefcho-vasilev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стилиан Янев",
+        "slug": "stilian-yanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стилиян Ангелов",
+        "slug": "%d1%81%d1%82%d0%b8%d0%bb%d0%b8%d1%8f%d0%bd-%d0%b0%d0%bd%d0%b3%d0%b5%d0%bb%d0%be%d0%b2",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Стоимир Иванов",
+        "slug": "stoimir-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стойчо Зерлиев",
+        "slug": "stoicho-zerliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стоян Илиев",
+        "slug": "stoyan-iliev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стоян Колдов",
+        "slug": "stoyan-koldov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стоян Михайлов",
+        "slug": "stoyan-mihailov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Стоянка Боянова",
+        "slug": "stoyanka-boyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Страхил Планинец",
+        "slug": "strahil-planinets",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сугита Хисаджо",
+        "slug": "sugita-hisajo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "суми-е",
+        "slug": "sumi-e",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "събития",
+        "slug": "sabitia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Съвременна поезия",
+        "slug": "savremenna-poezia",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Съвременна проза",
+        "slug": "savremenna-proza",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Сълзица Борисова",
+        "slug": "salzitsa-borisova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Съюз на свободните писатели-филиал Русе",
+        "slug": "sauz-na-svobodnite-pisateli-ruse",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Тагами Кикуша",
+        "slug": "tagami-kikusha",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тамара Турлюн",
+        "slug": "tamara-turlun",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тан-Ку",
+        "slug": "tan-ku",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Танка",
+        "slug": "tanka",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Танка проза",
+        "slug": "tanka-proza",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Таня Иванова Цанова",
+        "slug": "tania-ivanova-tsanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Таня Танасова",
+        "slug": "tania-tanasova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тарас Шевченко",
+        "slug": "taras-shevchenko",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Татяна Живкова",
+        "slug": "tatiana-jivkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Татяна Николова",
+        "slug": "tatiana-nikolova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Творческа изява - визуални изкуства",
+        "slug": "tvorcheska-iziava-vizualni-izkustva",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Творческа изява - изкуства, теория",
+        "slug": "tvorcheska-iziava-izkustva-teoria",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Творческа изява - литература",
+        "slug": "tvorcheska-iziava-literatura",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Творчески автопортрет",
+        "slug": "tvorcheski-avtoportret",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Творчески портрет",
+        "slug": "tvorcheski-portret",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Творчески портрет - визуални изкуства",
+        "slug": "tvorcheski-portret-vizualni-izkustva",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Творчески портрет - литература",
+        "slug": "tvorcheski-portret-literatura",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Творчески портрети",
+        "slug": "tvorcheski-portreti",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Творчество",
+        "slug": "tvorchestvo",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Теменужка Вачева",
+        "slug": "temenujka-vacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теменужка Цонева",
+        "slug": "temenujka-tsoneva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теню Янчев",
+        "slug": "teniu-yanchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теодор Траянов",
+        "slug": "teodor-trayanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теодора Бакърджиева",
+        "slug": "teodora-bakardjieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теодора Копчева",
+        "slug": "teodora-kopcheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Теодора Мачева",
+        "slug": "teodora-macheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тибериу Утан",
+        "slug": "tiberiu-utan",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тодор Балтаджиев",
+        "slug": "todor-baltadjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тодор Билчев",
+        "slug": "todor-bilchev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тодор Горанов",
+        "slug": "todor-goranov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тодор Димитров",
+        "slug": "todor-dimitrov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тодор Цанев",
+        "slug": "todor-tsanev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Токи Дзенмаро",
+        "slug": "toki-dzenmaro",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тони Теллалов",
+        "slug": "toni-tellalov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тоня Борисова",
+        "slug": "tonia-borisova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тота Канеко",
+        "slug": "tota-kaneko",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Траяна Славова",
+        "slug": "trayana-slavova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Трифон Кунев",
+        "slug": "trifon-kunev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Тудор Аргези",
+        "slug": "tudor-arghezi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Туко Рамирез",
+        "slug": "tuko-ramirez",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Умберто Еко",
+        "slug": "umberto-eco",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Умберто Саба",
+        "slug": "umberto-saba",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Унгарска литература",
+        "slug": "magyar-irodalom",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Фабио Генджович",
+        "slug": "fabio-gendjovich",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Фабрицио Дал'Алио",
+        "slug": "fabrizio-dall-aglio",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Фани Попова-Мутафова",
+        "slug": "fani-popova-mutafova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Федерико Гарсия Лорка",
+        "slug": "federico-garcia-lorca",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Федерико Джелузи",
+        "slug": "federico-jelusi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "фейсбук група \"Приятели на списание \"Картини с думи и багри\"",
+        "slug": "facebook-group-priateli-na-spisanie-kartini-s-dumi-i-bagri",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Фернанду Намора",
+        "slug": "fernando-namora",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Филип Ларкин",
+        "slug": "philip-larkin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Философия и общество",
+        "slug": "filosofia-i-obshtestvo",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "философия и общество - онлайн",
+        "slug": "filosofia-i-obshtestvo-online",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Философия на изкуството",
+        "slug": "filosofia-na-izkustvoto",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "фондация \"Иванка и Георги Янкови\"",
+        "slug": "fondazia-ivanka-i-georgi-yankovi",
+        "type_key": "organization",
+        "type": "Организация / институция"
+    },
+    {
+        "name": "Фондация JAL",
+        "slug": "fondazia-jal",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Фотография",
+        "slug": "fotografia",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "фотохайга",
+        "slug": "fotohaiga",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Франк Уилямс",
+        "slug": "frank-williams",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Франческо Пармиджанино",
+        "slug": "francesco-parmigianino",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Фредерик Рус",
+        "slug": "frederic-russ",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Френскоезична литература",
+        "slug": "litterature-francaise",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Хайбун",
+        "slug": "haibun",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Хайга",
+        "slug": "haiga",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "Хайко Х. Каими",
+        "slug": "haiko-h-kaimi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "хайку",
+        "slug": "haiku",
+        "type_key": "genre",
+        "type": "Жанр / форма"
+    },
+    {
+        "name": "хан Омуртаг",
+        "slug": "khan-omurtag",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Харалан Недев",
+        "slug": "haralan-nedev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Хари Мартинсон",
+        "slug": "hari-martinson",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Хари Спасов",
+        "slug": "hari-spasov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Хачик Лебикян",
+        "slug": "hachik-lebikian",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Хошинага Фумио",
+        "slug": "hoshinaga-fumio",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христилия Кулева",
+        "slug": "hristilia-kuleva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христина Въчева",
+        "slug": "hristina-vacheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христина Гложенска",
+        "slug": "hristina-glojenska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христина Златева",
+        "slug": "hristina-zlateva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христина Панджаридис",
+        "slug": "hristilia-pandjaridis",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Ангелов",
+        "slug": "hristo-angelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Ботев",
+        "slug": "hristo-botev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Бояджиев",
+        "slug": "hristo-boiadjiev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Иванов",
+        "slug": "hristo-ivanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Йонков",
+        "slug": "hristo-ionkov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Ке Пела",
+        "slug": "hristo-ke-pela",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Кърджилов",
+        "slug": "hristo-kardjilov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Медникаров",
+        "slug": "hristo-mednikarov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Смирненски",
+        "slug": "hristo-smirnenski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Фотев",
+        "slug": "hristo-fotev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Христо Черняев",
+        "slug": "hristo-cherniaev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цанка Шишкова",
+        "slug": "tsanka-shishkova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цанко Церковски",
+        "slug": "tsanko-tserkovski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветан Ангелов",
+        "slug": "tsvetan-angelov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветан Лалов",
+        "slug": "tsvetan-lalov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветана Качерилска",
+        "slug": "tsvetana-kacherilska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветана Попкоева",
+        "slug": "tzvetana-popkoeva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветанка Ангелова",
+        "slug": "tsvetanka-angelova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветелина Деловска",
+        "slug": "tsvetelina-delovska",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветелина Манова",
+        "slug": "tsvetelina-manova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цветомира Димитрова",
+        "slug": "tsvetomira-dimitrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цеца Стоянова",
+        "slug": "tsetsa-stoyanova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цецка Илиева",
+        "slug": "tsetska-ilieva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цонка Великова",
+        "slug": "tsonka-velikova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Цоньо Неделкин",
+        "slug": "tsonio-nedelkin",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Чавдар Гюзелев",
+        "slug": "chavdar-guzelev",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Чигецу-ин",
+        "slug": "chigetsu-in",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Шандор Петьофи",
+        "slug": "sandor-petofi",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Шандор Чори",
+        "slug": "%d1%88%d0%b0%d0%bd%d0%b4%d0%be%d1%80-%d1%87%d0%be%d1%80%d0%b8",
+        "type_key": "invalid",
+        "type": "Празен / автоматичен / грешен"
+    },
+    {
+        "name": "Шарж",
+        "slug": "sharj",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Шодо",
+        "slug": "shodo",
+        "type_key": "category",
+        "type": "Категория / направление"
+    },
+    {
+        "name": "Юзеф Баран",
+        "slug": "jozef-baran",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Юзеф Тишнер",
+        "slug": "jozef-tischner",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Юлиан Филип",
+        "slug": "julian-philip",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Юлий Таков",
+        "slug": "julii-takov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Юлия Рашева",
+        "slug": "julia-rasheva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Юлия Станкова",
+        "slug": "julia-stankova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Явор Боянов",
+        "slug": "yavor-boyanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Явор Костадинов",
+        "slug": "yavor-kostadinov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Явор Перфанов",
+        "slug": "yavor-perfanov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Явора Петрова",
+        "slug": "yavora-petrova",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ян Кот",
+        "slug": "jan-kott",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ян Полковски",
+        "slug": "jan-polkowski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Ян Твардовски",
+        "slug": "jan-twardowski",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Яна Василева",
+        "slug": "yana-vasileva",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Янис Якимов",
+        "slug": "yanis-yakimov",
+        "type_key": "author",
+        "type": "Автор"
+    },
+    {
+        "name": "Японска литература",
+        "slug": "nihon-bungaku",
+        "type_key": "author",
+        "type": "Автор"
+    }
+]
