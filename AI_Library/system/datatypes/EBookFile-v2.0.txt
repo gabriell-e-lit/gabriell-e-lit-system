@@ -1,0 +1,19 @@
+EBookFile {
+    id: string,                     // уникален идентификатор (slug)
+    book_id: string,                // Book.id, към която принадлежи файлът
+
+    format: string,                 // pdf | epub | mobi | fb2 | zip
+    mime_type: string,              // application/pdf, application/epub+zip, ...
+
+    file_url: string,               // директен URL към файла
+    file_size: number|null,         // размер в байтове (ако е наличен)
+    checksum: string|null,          // SHA256 или MD5 (ако е наличен)
+
+    role: string,                   // official | preview | sample | full | print_pdf | ebook_epub | ebook_mobi
+    version: string|null,           // версия на файла (ако има)
+    uploaded_at: string|null,       // ISO8601 дата на качване (ако е налична)
+
+    source_urls: [string],          // URL-и, от които е извлечена информация
+
+    linked_artwork: string|null     // Artwork.id (ако файлът има корица вътре)
+}

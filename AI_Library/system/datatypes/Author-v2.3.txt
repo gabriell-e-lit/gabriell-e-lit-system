@@ -1,0 +1,35 @@
+/// Author v2.3
+Author {
+    id: string,                         // "ivan-ivanov"
+    name: string,                       // пълно име
+    biography: string|null,             // основна биография (от най-висок приоритет)
+    roles: [string],                    // "poet", "writer", "translator", "editor", "illustrator", "artist", ...
+
+    portrait: string|null,              // Artwork.id (основен портрет)
+    gallery: [string],                  // Artwork.id[] (илюстрации, снимки, картини)
+    exhibitions: [string],              // Exhibition.id[] (индивидуални или общи изложби)
+
+    books: [string],                    // Book.id[] (книги на автора)
+    issues: [string],                   // Issue.id[] (в кои броеве участва)
+    posts: [string],                    // Post.id[] (WordPress публикации)
+
+    // Структурни WordPress страници
+    structural_pages_h2: [string],      // URL-и на страници "Автори в брой X", където авторът е H2
+    structural_pages_h3: [string],      // URL-и на други структурни страници, където авторът е H3
+
+    // Подкатегории на художници (от "Автори в е-галерия gabriell-e-lit")
+    gallery_subcategory: string|null,   // "exhibition_artist", "illustrator", "magazine_artist"
+
+    // Първа поява на автора
+    first_appearance: string|null,      // Issue.id или URL на WordPress страница
+
+    // Задължителни елементи според H2/H3 логиката
+    must_have_static_page: boolean,     // true, ако авторът е H3 в структурни страници
+    must_have_wp_tag: boolean,          // true, ако авторът е H2 в "Автори в брой X"
+
+    source_urls: [string],              // реални URL-и, от които е извлечена информация
+    wp_tag_url: string|null,            // WordPress таг на автора (с биография при H2)
+    static_author_url: [string]|null,   // статични страници (портрети, изложби, биографии)
+
+    order: number|null                  // позиция в списък/серия (ако има)
+}

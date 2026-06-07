@@ -1,0 +1,9 @@
+Section {
+    id: string,                 // slug на раздела (уникален идентификатор)
+    title: string,              // име на раздела
+    description: string|null,   // описание от WordPress категорията
+    parent: string|null,        // slug на родителската категория (ако има)
+    children: [string],         // под-раздели (slug-ове)
+    posts: [string],            // Post.id, които принадлежат към този раздел
+    source_url: string          // URL на страницата на категорията
+}

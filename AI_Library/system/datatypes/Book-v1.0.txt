@@ -1,0 +1,55 @@
+Book {
+    id: string,                   // уникален идентификатор (slug)
+    title: string,                // заглавие на книгата
+    title_latin: string,          // латинизирано заглавие
+    authors: [string],            // списък от Author.id
+    year: string|null,            // година на издаване
+    isbn: string|null,            // ISBN, ако е наличен
+    genre: string|null,           // жанр (един основен)
+    format: string|null,          // формат (поезия, проза, роман, сборник…)
+    description: string|null,     // кратко описание (ако съществува)
+    cover_url: string|null,       // URL към корицата
+    source_urls: [string],        // всички страници, от които е извлечена
+    static_page: string|null,     // URL към статичната страница в p-izdatelstvo
+    dynamic_page: string|null,    // URL към динамичната публикация (WP)
+    ebook_files: [string],        // списък от EBookFile.id (ако има електронни версии)
+    ebook_genre_page: string|null,// жанрова страница в e-books
+    ebook_alpha_page: string|null,// азбучна страница в e-books
+    static_genre_page: string|null,// жанрова страница в p-izdatelstvo
+    static_alpha_page: string|null,// азбучна страница в p-izdatelstvo
+    gallery_artworks: [string],   // изображения, свързани с книгата (илюстрации)
+    roles: [string]               // роли на книгата (например "илюстрирана")
+}
+
+
+{
+  "id": "stihove-za-moreto",
+  "title": "Стихове за морето",
+  "title_latin": "Stihove za moreto",
+  "authors": ["ivan-petrov"],
+  "year": "2024",
+  "isbn": "978-954-123-456-7",
+  "genre": "poezia",
+  "format": "poetry",
+  "description": "Поетична книга, издадена от издателство gabriell-e-lit...",
+  "cover_url": "/p-izdatelstvo/books/stihove-za-moreto/cover.jpg",
+  "source_urls": [
+      "/p-izdatelstvo/books/stihove-za-moreto.php",
+      "/izdatelstvo/stihove-za-moreto/"
+  ],
+  "static_page": "/p-izdatelstvo/books/stihove-za-moreto.php",
+  "dynamic_page": "/izdatelstvo/stihove-za-moreto/",
+  "ebook_files": ["stihove-za-moreto-epub", "stihove-za-moreto-pdf"],
+  "ebook_genre_page": "/ebooks/poezia/",
+  "ebook_alpha_page": "/ebooks/s/",
+  "static_genre_page": "/p-izdatelstvo/poezia.php",
+  "static_alpha_page": "/p-izdatelstvo/books/s.php",
+  "gallery_artworks": ["stihove-za-moreto-illustration-1"],
+  "roles": ["illustrated"]
+}
+
+
+front_cover_url: string|null,   // единична корица
+full_cover_url: string|null,    // двойна/разгъната корица
+is_print_edition: boolean|null, // има ли печатно издание
+is_ebook_edition: boolean|null  // има ли електронно издание

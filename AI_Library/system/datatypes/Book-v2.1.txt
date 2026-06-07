@@ -1,0 +1,30 @@
+Book {
+    id: string,                     // уникален идентификатор: "poezia-2026"
+    title: string,                  // заглавие на книгата
+    subtitle: string|null,          // подзаглавие (ако има)
+    description: string|null,       // кратко описание
+
+    authors: [string],              // Author.id[]
+    editors: [string],              // Author.id[] (редактори, ако има)
+    translators: [string],          // Author.id[] (преводачи, ако има)
+
+    front_cover: string|null,       // Artwork.id (предна корица)
+    full_cover: string|null,        // Artwork.id (двойна/разгъната корица)
+    gallery: [string],              // Artwork.id[] (илюстрации, вътрешни изображения)
+
+    ebook_files: [string],          // EBookFile.id[] (PDF, EPUB, MOBI, др.)
+
+    is_print_edition: boolean,      // true, ако има full_cover
+    is_ebook_edition: boolean,      // true, ако има ebook_files или front_cover
+
+    isbn: string|null,              // ISBN (ако има)
+    publisher: string|null,         // издател (ако има)
+    published_at: string|null,      // ISO8601 дата на издаване
+
+    source_urls: [string],          // реални URL-и, от които е извлечена информация
+    wp_tag_url: string|null,        // WordPress таг на книгата (не страница!)
+    static_book_url: [string]|null, // статични ресурси (PDF, корици, изложби)
+
+    order: number|null              // позиция в серия/списък (ако има)
+}
+

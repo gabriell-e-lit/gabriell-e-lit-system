@@ -1,0 +1,23 @@
+Exhibition {
+    id: string,                     // уникален идентификатор: "ivan-ivanov-exhibition-2024"
+    title: string,                  // заглавие на изложбата
+    subtitle: string|null,          // подзаглавие (ако има)
+    description: string|null,       // описание на изложбата
+
+    artists: [string],              // Author.id[] (един или много автори)
+    curators: [string],             // Author.id[] (куратори)
+    year: string|null,              // година на изложбата
+    location: string|null,          // място на провеждане
+
+    artworks: [string],             // Artwork.id[] (произведения в изложбата)
+    cover_artwork: string|null,     // Artwork.id (основно изображение)
+
+    issues: [string],               // Issue.id[] (в кои броеве е представена)
+    posts: [string],                // Post.id[] (WordPress публикации за изложбата)
+
+    source_urls: [string],          // реални URL-и, от които е извлечена информация
+    wp_post_url: string|null,       // WordPress публикация (ако има)
+    static_exhibition_url: [string]|null, // статични страници в e-gallery (индивидуални или общи)
+
+    order: number|null              // позиция в списък/серия (ако има)
+}

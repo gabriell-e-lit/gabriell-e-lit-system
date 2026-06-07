@@ -1,0 +1,78 @@
+Post {
+    id: string,                 // slug на публикацията (уникален идентификатор)
+    title: string,              // заглавие на публикацията
+
+    authors: [string],          // Author.id, извлечени от ТАГОВЕ (не от WP author)
+    section: string|null,       // Section.id, извлечен от категория или таг
+    issue: string|null,         // Issue.id, ако публикацията е част от брой
+
+    year: string|null,          // година на публикуване (от WP дата)
+    month: string|null,         // месец на публикуване
+
+    content_url: string,        // URL към динамичната публикация
+    static_url: string|null,    // URL към статичната версия (ако има)
+
+    tags: [string],             // всички WP тагове, включително автори и жанрове
+    excerpt: string|null,       // кратък откъс (ако има)
+
+    source_urls: [string]       // всички страници, от които е извлечена информация
+}
+
+
+Post {
+    id: string,
+    title: string,
+
+    authors: [string],
+    section: string|null,
+    issue: string|null,
+
+    year: string|null,
+    month: string|null,
+
+    content_url: string,
+    static_url: string|null,
+
+    tags: [string],
+    excerpt: string|null,
+
+    source_urls: [string]
+}
+
+
+✔ id
+Slug на публикацията.
+Пример: salon-sas-stil-bojidara-tsekova
+
+✔ title
+Заглавието, което виждаш в <h1>.
+
+✔ authors
+Тагове, които съдържат името на автора.
+Това е истинският автор, не WordPress author.
+
+✔ section
+Основният раздел на списанието.
+Пример: kartini-s-dumi-i-bagri-izkustvo
+
+✔ issue
+Броят на списанието, ако публикацията е част от брой.
+Пример: issue-1-2025
+
+✔ year, month
+От датата на публикацията.
+
+✔ content_url
+URL на динамичната публикация.
+
+✔ static_url
+Ако има статична версия в /p-izdatelstvo/.
+
+✔ tags
+Всички WP тагове — автори, жанрове, тематични.
+
+✔ excerpt
+Откъс, ако има.
+
+✔ source_urls
+Всички URL‑и, от които екстракторът е взел данни.

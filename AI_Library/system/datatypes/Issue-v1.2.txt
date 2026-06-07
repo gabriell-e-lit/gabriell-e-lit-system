@@ -1,0 +1,9 @@
+Issue {
+    id: string,            // уникален идентификатор (slug)
+    number: string,        // номер на броя
+    year: string,          // година на издаване
+    title: string|null,    // заглавие на броя (ако има)
+    description: string|null, // кратко описание или увод
+    posts: [string],       // списък от Post.id
+    source_urls: [string]  // URL-и, от които е извлечена информация
+}

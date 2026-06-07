@@ -1,0 +1,24 @@
+Issue {
+    id: string,             // issue-<number>-<year>
+    number: string,
+    year: string,
+    pdf_url: string,        // истинският PDF
+    cover_url: string|null, // корица от динамичния архив
+    posts: [string],        // публикации от категорията "Архив"
+    authors: [string],      // автори, извлечени от публикациите
+    archive_page: string,   // галерията с корици
+    source_urls: [string]   // PDF + корица + архив
+
+dynamic_cover_url: string|null,   // корица от /spisanie/covers/
+static_cover_url: string|null,    // корица от /p-izdatelstvo/spisanie/covers/
+
+dynamic_cover_url: string|null,   // предна корица от /spisanie/covers/
+static_cover_url: string|null,    // двойна/разгъната корица от /p-izdatelstvo/spisanie/covers/
+is_print_edition: boolean|null    // true, ако има статична (разгъната) корица
+is_print_edition = static_cover_url != null
+front_cover_url: string|null,   // единична корица (front only)
+full_cover_url: string|null,    // двойна/разгъната корица
+is_print_edition: boolean|null  // true, ако има full_cover_url
+is_print_edition = full_cover_url != null
+
+}
