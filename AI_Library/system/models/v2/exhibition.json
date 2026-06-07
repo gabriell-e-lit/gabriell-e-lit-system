@@ -1,0 +1,24 @@
+{
+  "exhibition_id": "",
+  "title": "",
+  "slug": "",
+  "url": null,
+
+  "location": null,
+  "start_date": null,
+  "end_date": null,
+
+  "description": null,
+  "keywords": [],
+
+  "paintings": [],
+  "authors": [],
+  "collections": [],
+
+  "poster_image_id": null,
+  "gallery_assets": [],
+
+  "color_palette": [],
+  "seo_title": null,
+  "seo_description": null
+}

@@ -1,0 +1,232 @@
+{
+  "site": "gabriell-e-lit",
+  "description": "Глобална архитектурна карта на системата gabriell-e-lit: статичен сайт, статично списание, статично издателство, динамично издателство, динамично списание, поддомейни и взаимовръзки.",
+
+  "nodes": [
+
+    {
+      "id": "root",
+      "type": "section",
+      "title": "gabriell-e-lit – корен на системата",
+      "description": "Централен логически корен на цялата система. Обединява статичния сайт, поддомейните и всички модули.",
+      "children": [
+        "static_site_root",
+        "magazine_static_root",
+        "publisher_static_root",
+        "magazine_wp_root",
+        "publisher_wp_root",
+        "ebooks_root",
+        "elibrary_root",
+        "egallery_root"
+      ]
+    },
+
+    {
+      "id": "static_site_root",
+      "type": "section",
+      "module": "static_site",
+      "url": "https://gabriell-e-lit.com/",
+      "title": "Статичен сайт – начало",
+      "description": "Основен публичен сайт. Съдържа навигация към статичното списание, статичното издателство, галерията, библиотеката и поддомейните.",
+      "children": [
+        "magazine_static_root",
+        "publisher_static_root",
+        "static_site_gallery_root",
+        "static_site_library_placeholder",
+        "ebooks_root",
+        "elibrary_root",
+        "egallery_root"
+      ]
+    },
+
+    {
+      "id": "magazine_static_root",
+      "type": "section",
+      "module": "magazine_static",
+      "title": "Статично списание – описателни страници",
+      "description": "Описателни и навигационни страници на списанието в статичния сайт.",
+      "children": [
+        "magazine_static_main",
+        "magazine_static_team",
+        "magazine_static_new",
+        "magazine_static_authors",
+        "magazine_static_archive"
+      ]
+    },
+
+    {
+      "id": "magazine_static_main",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie.php",
+      "title": "Списание – описателна страница"
+    },
+
+    {
+      "id": "magazine_static_team",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-ekip.php",
+      "title": "Екип на списанието"
+    },
+
+    {
+      "id": "magazine_static_new",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-new.php",
+      "title": "Новини за списанието"
+    },
+
+    {
+      "id": "magazine_static_authors",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-authors.php",
+      "title": "Автори в списанието (статична навигация)"
+    },
+
+    {
+      "id": "magazine_static_archive",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/spisanie-arhiv.php",
+      "title": "Архив на списанието (статична навигация)"
+    },
+
+    {
+      "id": "publisher_static_root",
+      "type": "section",
+      "module": "publisher_static",
+      "title": "Статично издателство – описателни страници",
+      "description": "Статичният модул на издателството в основния домейн.",
+      "children": [
+        "publisher_static_main",
+        "publisher_static_news",
+        "publisher_static_newbooks",
+        "publisher_static_books",
+        "publisher_static_authors"
+      ]
+    },
+
+    {
+      "id": "publisher_static_main",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/izdatelstvo.php",
+      "title": "Издателство – описателна страница"
+    },
+
+    {
+      "id": "publisher_static_news",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/aktualno.php",
+      "title": "Актуално"
+    },
+
+    {
+      "id": "publisher_static_newbooks",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/newbooks.php",
+      "title": "Нови книги"
+    },
+
+    {
+      "id": "publisher_static_books",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/knigi.php",
+      "title": "Каталог книги"
+    },
+
+    {
+      "id": "publisher_static_authors",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/authors.php",
+      "title": "Автори на издателството"
+    },
+
+    {
+      "id": "static_site_gallery_root",
+      "type": "section",
+      "module": "gallery_static",
+      "title": "Статична галерия – описателни страници",
+      "children": [
+        "gallery_static_main",
+        "gallery_static_paintings",
+        "gallery_static_catalogs",
+        "gallery_static_authors"
+      ]
+    },
+
+    {
+      "id": "gallery_static_main",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/gallery.php",
+      "title": "Галерия – описателна страница"
+    },
+
+    {
+      "id": "gallery_static_paintings",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/kartini.php",
+      "title": "Картини и изложби – реални събития"
+    },
+
+    {
+      "id": "gallery_static_catalogs",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/katalozi.php",
+      "title": "Каталози (без реална структура)"
+    },
+
+    {
+      "id": "gallery_static_authors",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/authors-painters.php",
+      "title": "Автори художници (връзка към e-gallery)"
+    },
+
+    {
+      "id": "static_site_library_placeholder",
+      "type": "placeholder",
+      "title": "Библиотека – бъдеща страница",
+      "description": "library.php предстои да бъде създадена."
+    },
+
+    {
+      "id": "publisher_wp_root",
+      "type": "section",
+      "module": "publisher_wp",
+      "url": "https://gabriell-e-lit.com/izdatelstvo/gabriell-e-lit/",
+      "title": "Динамично издателство (WordPress)",
+      "description": "Описателна страница на издателството в WordPress."
+    },
+
+    {
+      "id": "magazine_wp_root",
+      "type": "section",
+      "module": "magazine_wp",
+      "url": "https://gabriell-e-lit.com/izdatelstvo/",
+      "title": "Динамично списание (WordPress)",
+      "description": "Основна ISSN страница на списание „Картини с думи и багри“."
+    },
+
+    {
+      "id": "ebooks_root",
+      "type": "section",
+      "module": "ebooks",
+      "url": "https://e-books.gabriell-e-lit.com/",
+      "title": "e-books – корен на поддомейна"
+    },
+
+    {
+      "id": "elibrary_root",
+      "type": "section",
+      "module": "elibrary",
+      "url": "https://e-library.gabriell-e-lit.com/",
+      "title": "e-library – корен на поддомейна"
+    },
+
+    {
+      "id": "egallery_root",
+      "type": "section",
+      "module": "egallery",
+      "url": "https://e-gallery.gabriell-e-lit.com/",
+      "title": "e-gallery – корен на поддомейна"
+    }
+  ]
+}
