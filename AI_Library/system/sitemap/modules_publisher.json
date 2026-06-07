@@ -1,0 +1,213 @@
+{
+  "module": "publisher",
+  "description": "Модул за издателството gabriell-e-lit. Включва статичния сайт, WordPress витрината, основната WordPress категория и външния подмодул за електронни книги.",
+
+  "roots": {
+    "static_root": {
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo",
+      "description": "Статичен сайт на издателството – основна витрина, жанрове, автори, списъци по числа, таблици „идеална книга“."
+    },
+    "wp_showcase": {
+      "url": "https://gabriell-e-lit.com/izdatelstvo/gabriell-e-lit/",
+      "description": "WordPress витрина на издателството (вторично меню)."
+    },
+    "wp_main_category": {
+      "url": "https://gabriell-e-lit.com/izdatelstvo/publishing-house-gabriell-e-lit/",
+      "description": "Основна WordPress категория на издателството."
+    },
+    "ebooks_root": {
+      "url": "https://e-books.gabriell-e-lit.com",
+      "description": "Поддомейн за електронни книги на издателството gabriell-e-lit."
+    }
+  },
+
+  "nodes": [
+
+    {
+      "id": "publisher_static_home",
+      "type": "page",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo",
+      "title": "Издателство – статична витрина",
+      "patterns": [
+        "/p-izdatelstvo/{section}.php"
+      ],
+      "examples": [
+        "https://gabriell-e-lit.com/p-izdatelstvo/poezia.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/beletristika.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/authors/1.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/authors/gatiasimeonova.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/books/1.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/beletristika/angelytrafail.php"
+      ],
+      "children": [
+        "publisher_static_genres",
+        "publisher_static_authors",
+        "publisher_static_ideal_book",
+        "publisher_ebooks"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genres",
+      "type": "collection_group",
+      "title": "Жанрове (статичен сайт)",
+      "description": "Всеки жанр е отделен контейнер, съдържащ идеални книги и връзки към страниците на книгите.",
+      "children": [
+        "publisher_static_genre_poezia",
+        "publisher_static_genre_beletristika",
+        "publisher_static_genre_dokumentalnaproza",
+        "publisher_static_genre_publicistika",
+        "publisher_static_genre_sbornici",
+        "publisher_static_genre_nliteratura",
+        "publisher_static_genre_childrensbooks",
+        "publisher_static_genre_art"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_poezia",
+      "type": "collection",
+      "title": "Поезия",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/poezia.php",
+      "patterns": [
+        "/p-izdatelstvo/poezia/{slug}.php"
+      ],
+      "examples": [
+        "https://gabriell-e-lit.com/p-izdatelstvo/poezia/ime-na-kniga.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_beletristika",
+      "type": "collection",
+      "title": "Белетристика",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/beletristika.php",
+      "patterns": [
+        "/p-izdatelstvo/beletristika/{slug}.php"
+      ],
+      "examples": [
+        "https://gabriell-e-lit.com/p-izdatelstvo/beletristika/angelytrafail.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_dokumentalnaproza",
+      "type": "collection",
+      "title": "Документална проза",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/dokumentalnaproza.php",
+      "patterns": [
+        "/p-izdatelstvo/dokumentalnaproza/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_publicistika",
+      "type": "collection",
+      "title": "Публицистика",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/publicistika.php",
+      "patterns": [
+        "/p-izdatelstvo/publicistika/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_sbornici",
+      "type": "collection_group",
+      "title": "Сборници и антологии",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/sbornici.php",
+      "note": "Жанрът съдържа вътрешна структура от подкатегории.",
+      "patterns": [
+        "/p-izdatelstvo/sbornici/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_nliteratura",
+      "type": "collection",
+      "title": "Научна литература",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/nliteratura.php",
+      "patterns": [
+        "/p-izdatelstvo/nliteratura/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_childrensbooks",
+      "type": "collection",
+      "title": "Детски книги",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/childrensbooks.php",
+      "patterns": [
+        "/p-izdatelstvo/childrensbooks/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_genre_art",
+      "type": "collection",
+      "title": "Арт книги",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/art.php",
+      "patterns": [
+        "/p-izdatelstvo/art/{slug}.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_authors",
+      "type": "collection",
+      "title": "Автори (статичен сайт)",
+      "url": null,
+      "note": "Няма обща страница за всички автори. Списъците са по числа.",
+      "patterns": [
+        "/p-izdatelstvo/authors/{number}.php",
+        "/p-izdatelstvo/authors/{slug}.php"
+      ],
+      "examples": [
+        "https://gabriell-e-lit.com/p-izdatelstvo/authors/1.php",
+        "https://gabriell-e-lit.com/p-izdatelstvo/authors/gatiasimeonova.php"
+      ]
+    },
+
+    {
+      "id": "publisher_static_ideal_book",
+      "type": "page",
+      "title": "Идеална книга – таблици и контейнери",
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo/idealka.php"
+    },
+
+    {
+      "id": "publisher_wp_showcase",
+      "type": "wp_section",
+      "url": "https://gabriell-e-lit.com/izdatelstvo/gabriell-e-lit/",
+      "title": "WordPress витрина на издателството",
+      "description": "Вторично меню в WordPress, представящо издателството.",
+      "links_to": [
+        "publisher_wp_main_category"
+      ]
+    },
+
+    {
+      "id": "publisher_wp_main_category",
+      "type": "wp_category",
+      "url": "https://gabriell-e-lit.com/izdatelstvo/publishing-house-gabriell-e-lit/",
+      "title": "Основна WordPress категория на издателството",
+      "patterns": [
+        "/izdatelstvo/publishing-house-gabriell-e-lit/page/{number}/"
+      ],
+      "examples": [
+        "https://gabriell-e-lit.com/izdatelstvo/publishing-house-gabriell-e-lit/",
+        "https://gabriell-e-lit.com/izdatelstvo/publishing-house-gabriell-e-lit/page/2/"
+      ]
+    },
+
+    {
+      "id": "publisher_ebooks",
+      "type": "external_module",
+      "title": "Електронни книги",
+      "url": "https://e-books.gabriell-e-lit.com",
+      "description": "Поддомейн за електронни книги на издателството gabriell-e-lit.",
+      "links_to": [
+        "ebooks_root"
+      ]
+    }
+  ]
+}

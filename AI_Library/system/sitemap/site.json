@@ -1,0 +1,6 @@
+{
+  "site": {
+    "root": "https://gabriell-e-lit.com",
+    "description": "Главен корен на платформата gabriell-e-lit. Използва се като базов URL за всички модули и поддомейни."
+  }
+}
