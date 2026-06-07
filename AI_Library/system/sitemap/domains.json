@@ -1,0 +1,41 @@
+{
+  "domains": {
+    "main": {
+      "url": "https://gabriell-e-lit.com",
+      "description": "Главен статичен сайт / арт платформа."
+    },
+    "p_izdatelstvo": {
+      "url": "https://gabriell-e-lit.com/p-izdatelstvo",
+      "description": "Статичен сайт на издателството (книги и автори)."
+    },
+    "e_books": {
+      "url": "https://e-books.gabriell-e-lit.com",
+      "description": "Поддомейн за електронни книги."
+    },
+    "e_library": {
+      "url": "https://e-library.gabriell-e-lit.com",
+      "description": "Поддомейн за библиотека (електронни ресурси)."
+    },
+    "bookstore": {
+      "url": "https://bookstore.gabriell-e-lit.com",
+      "description": "Поддомейн за печатни книги на издателство gabriell-e-lit."
+    },
+    "e_gallery": {
+      "url": "https://e-gallery.gabriell-e-lit.com",
+      "description": "Поддомейн за галерия, изложби и колекции."
+    },
+    "magazine": {
+      "url": "https://gabriell-e-lit.com/izdatelstvo",
+      "description": "Секция на главния сайт, съдържаща списание „Картини с думи и багри“."
+    },
+	"publisher_wp": {
+  "url": "https://gabriell-e-lit.com/izdatelstvo/gabriell-e-lit/",
+  "description": "Витрина на издателството в WordPress (вторично меню)."
+},
+"publisher_main_category": {
+  "url": "https://gabriell-e-lit.com/izdatelstvo/publishing-house-gabriell-e-lit/",
+  "description": "Основна категория на издателството в WordPress."
+}
+
+  }
+}
