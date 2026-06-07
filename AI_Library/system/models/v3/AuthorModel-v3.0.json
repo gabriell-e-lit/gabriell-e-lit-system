@@ -1,0 +1,111 @@
+{
+  "model": "AuthorModel",
+  "version": "3.0",
+  "description": "Unified author data model for gabriell-e-lit v12 architecture",
+  "sections": {
+    "seo": {
+      "title": "string",
+      "description": "string",
+      "canonical_url": "string"
+    },
+
+    "identity": {
+      "author_id": "string",
+      "slug": "string",
+      "name_original": "string",
+      "name_display": "string"
+    },
+
+    "biography": {
+      "short": "string",
+      "long": "string",
+      "quote": "string"
+    },
+
+    "photo": {
+      "url": "string",
+      "alt": "string"
+    },
+
+    "origin": {
+      "country": "string",
+      "city": "string",
+      "birth_year": "string",
+      "death_year": "string"
+    },
+
+    "links": {
+      "tag_url": "string",
+      "gallery_subcategory": "string",
+      "gallery_url": "string",
+      "library_url": "string"
+    },
+
+    "structure": {
+      "structural_pages_h2": "list",
+      "structural_pages_h3": "list",
+      "first_appearance": "string"
+    },
+
+    "books": {
+      "type": "list",
+      "item_structure": {
+        "book_id": "string",
+        "title": "string",
+        "url": "string",
+        "year": "string"
+      }
+    },
+
+    "publications": {
+      "type": "list",
+      "item_structure": {
+        "publication_id": "string",
+        "title": "string",
+        "url": "string",
+        "year": "string"
+      }
+    },
+
+    "magazine_issues": {
+      "type": "list",
+      "item_structure": {
+        "issue_id": "string",
+        "title": "string",
+        "url": "string",
+        "year": "string"
+      }
+    },
+
+    "exhibitions": {
+      "type": "list",
+      "item_structure": {
+        "exhibition_id": "string",
+        "title": "string",
+        "url": "string",
+        "year": "string"
+      }
+    },
+
+    "collections": {
+      "type": "list",
+      "item_structure": {
+        "collection_id": "string",
+        "title": "string",
+        "url": "string",
+        "year": "string"
+      }
+    },
+
+    "navigation": {
+      "alphabetical": "boolean"
+    },
+
+    "visual": {
+      "show_quote": "boolean",
+      "show_origin": "boolean",
+      "show_gallery": "boolean",
+      "show_publications": "boolean"
+    }
+  }
+}
