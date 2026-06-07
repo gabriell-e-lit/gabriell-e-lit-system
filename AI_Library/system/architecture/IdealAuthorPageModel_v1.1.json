@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "",
+    "description": "",
+    "canonical_url": ""
+  },
+
+  "identity": {
+    "author_id": "",
+    "slug": "",
+    "name_original": "",
+    "name_display": ""
+  },
+
+  "biography": {
+    "short": "",
+    "long": "",
+    "quote": ""
+  },
+
+  "photo": {
+    "url": "",
+    "alt": ""
+  },
+
+  "origin": {
+    "country": "",
+    "city": "",
+    "birth_year": "",
+    "death_year": ""
+  },
+
+  "links": {
+    "tag_url": "",
+    "gallery_subcategory": "",
+    "gallery_url": "",
+    "library_url": ""
+  },
+
+  "structure": {
+    "structural_pages_h2": [],
+    "structural_pages_h3": [],
+    "first_appearance": ""
+  },
+
+  "books": [],
+  "publications": [],
+  "magazine_issues": [],
+  "exhibitions": [],
+  "collections": [],
+
+  "navigation": {
+    "alphabetical": true
+  },
+
+  "visual": {
+    "show_quote": true,
+    "show_origin": true,
+    "show_gallery": true,
+    "show_publications": true
+  }
+}
