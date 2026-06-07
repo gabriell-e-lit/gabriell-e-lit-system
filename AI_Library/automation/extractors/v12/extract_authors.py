@@ -1,138 +1,137 @@
-"""
-extract_authors.py (v12 — extended skeleton)
-
-Екстрактор за автори.
-
-Архитектурни цели:
-
-- Извличане на основни авторски данни (име, slug, роли, произведения)
-- Зареждане на short_bio и long_bio от ExtractBios
-- Комбиниране на данните в един author JSON
-- Подготовка за статични страници и WordPress генератори
-
-Тази версия е архитектурен скелет — без реална логика.
-"""
-
-from typing import Optional, Dict, Any, List
-from AI_Library.utils.logging import Logger
-import os
 import json
+from pathlib import Path
+from bs4 import BeautifulSoup
 
-
-class ExtractAuthors:
+class AuthorExtractor:
     """
-    Екстрактор за автори (skeleton, extended).
+    AuthorExtractor v3.0
+    Работи с AuthorModel-v3.0.json
     """
 
-    def __init__(self, input_dir: str, output_dir: str, bios_dir: str, logger: Optional[Logger] = None):
-        """
-        :param input_dir: директория с HTML файлове или други входни данни
-        :param output_dir: директория за JSON резултати (authors/)
-        :param bios_dir: директория с JSON файлове от ExtractBios
-        """
-        self.input_dir = input_dir
-        self.output_dir = output_dir
-        self.bios_dir = bios_dir
-        self.logger = logger or Logger("ExtractAuthors")
+    def __init__(self, html_content: str, model_path: str):
+        self.soup = BeautifulSoup(html_content, "html.parser")
+        self.model = self.load_model(model_path)
+        self.data = self.initialize_output_structure()
 
     # ---------------------------------------------------------
-    # 1) Зареждане на HTML файлове (skeleton)
+    # MODEL LOADING
     # ---------------------------------------------------------
-    def load_source_files(self) -> List[str]:
-        self.logger.info("(skeleton) Зареждане на HTML файлове за автори.")
-        return []
+    def load_model(self, path: str) -> dict:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
 
     # ---------------------------------------------------------
-    # 2) Извличане на основни авторски данни (skeleton)
+    # INITIALIZE OUTPUT
     # ---------------------------------------------------------
-    def extract_author_core(self, file_path: str) -> Optional[Dict[str, Any]]:
+    def initialize_output_structure(self) -> dict:
         """
-        Извлича основни данни за автора:
-        - canonical_name
-        - author_slug
-        - roles
-        - works (ако има)
+        Създава празна структура според AuthorModel v3.0
         """
-        self.logger.info(f"(skeleton) Извличане на основни данни от файл: {file_path}")
-        return None
-
-    # ---------------------------------------------------------
-    # 3) Зареждане на биографии от ExtractBios (skeleton)
-    # ---------------------------------------------------------
-    def load_bio_json(self, author_slug: str) -> Dict[str, Any]:
-        """
-        Зарежда JSON файл за биография на автора, ако съществува.
-        Очаква структура:
-        {
-            "short_bio": "...",
-            "long_bio": "...",
-            "sources": {...}
+        return {
+            "seo": {
+                "title": "",
+                "description": "",
+                "canonical_url": ""
+            },
+            "identity": {
+                "author_id": "",
+                "slug": "",
+                "name_original": "",
+                "name_display": ""
+            },
+            "biography": {
+                "short": "",
+                "long": "",
+                "quote": ""
+            },
+            "photo": {
+                "url": "",
+                "alt": ""
+            },
+            "origin": {
+                "country": "",
+                "city": "",
+                "birth_year": "",
+                "death_year": ""
+            },
+            "links": {
+                "tag_url": "",
+                "gallery_subcategory": "",
+                "gallery_url": "",
+                "library_url": ""
+            },
+            "structure": {
+                "structural_pages_h2": [],
+                "structural_pages_h3": [],
+                "first_appearance": ""
+            },
+            "books": [],
+            "publications": [],
+            "magazine_issues": [],
+            "exhibitions": [],
+            "collections": [],
+            "navigation": {
+                "alphabetical": True
+            },
+            "visual": {
+                "show_quote": True,
+                "show_origin": True,
+                "show_gallery": True,
+                "show_publications": True
+            }
         }
+
+    # ---------------------------------------------------------
+    # REAL EXTRACTION FUNCTIONS (Variant C)
+    # ---------------------------------------------------------
+
+    # 1) Extract name_display
+    def extract_name_display(self):
         """
-        bio_path = os.path.join(self.bios_dir, f"{author_slug}.json")
-
-        if not os.path.exists(bio_path):
-            self.logger.info(f"(skeleton) Няма биография за {author_slug}.")
-            return {}
-
-        self.logger.info(f"(skeleton) Зареждане на биография за {author_slug}.")
-        try:
-            with open(bio_path, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return {}
-
-    # ---------------------------------------------------------
-    # 4) Комбиниране на данните (skeleton)
-    # ---------------------------------------------------------
-    def merge_author_data(self, core_data: Dict[str, Any], bio_data: Dict[str, Any]) -> Dict[str, Any]:
+        Извлича името, което се вижда на страницата.
+        Най-често е в <h1> или в заглавието на публикацията.
         """
-        Комбинира основните авторски данни с биографичните данни.
+        h1 = self.soup.find("h1")
+        if h1:
+            self.data["identity"]["name_display"] = h1.get_text(strip=True)
+
+    # 2) Extract name_original
+    def extract_name_original(self):
         """
-        self.logger.info("(skeleton) Комбиниране на авторски данни с биография.")
-
-        merged = core_data.copy()
-
-        merged["short_bio"] = bio_data.get("short_bio")
-        merged["long_bio"] = bio_data.get("long_bio")
-        merged["bio_sources"] = bio_data.get("sources")
-
-        return merged
-
-    # ---------------------------------------------------------
-    # 5) Записване на author JSON (skeleton)
-    # ---------------------------------------------------------
-    def save_author_json(self, author_slug: str, author_data: Dict[str, Any]):
+        Ако авторът е български → name_original = name_display.
+        Ако е чужд → ще добавим логика по-късно.
         """
-        Записва финалния JSON файл за автора.
+        self.data["identity"]["name_original"] = self.data["identity"]["name_display"]
+
+    # 3) Extract slug
+    def extract_slug(self, url: str):
         """
-        self.logger.info(f"(skeleton) Записване на JSON за автор: {author_slug}")
+        Извлича slug от URL.
+        Пример:
+        https://gabriell-e-lit.com/izdatelstvo/tag/zad-garba-gabriela-zaneva
+        → slug = zad-garba-gabriela-zaneva
+        """
+        slug = url.rstrip("/").split("/")[-1]
+        self.data["identity"]["slug"] = slug
 
-        output_path = os.path.join(self.output_dir, f"{author_slug}.json")
-
-        try:
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(author_data, f, ensure_ascii=False, indent=2)
-        except Exception:
-            self.logger.error(f"(skeleton) Грешка при запис на JSON за {author_slug}")
+    # 4) Extract author_id
+    def extract_author_id(self):
+        """
+        Генерира author_id от slug.
+        Пример:
+        slug = zad-garba-gabriela-zaneva
+        → author_id = author_zad_garba_gabriela_zaneva
+        """
+        slug = self.data["identity"]["slug"]
+        author_id = "author_" + slug.replace("-", "_")
+        self.data["identity"]["author_id"] = author_id
 
     # ---------------------------------------------------------
-    # 6) Главен метод — orchestration (skeleton)
+    # MAIN PIPELINE
     # ---------------------------------------------------------
-    def run(self):
-        self.logger.info("ExtractAuthors (skeleton, extended) — стартиране.")
-
-        files = self.load_source_files()
-
-        for file_path in files:
-            core_data = self.extract_author_core(file_path)
-            if not core_data:
-                continue
-
-            slug = core_data.get("author_slug")
-            bio_data = self.load_bio_json(slug)
-
-            merged = self.merge_author_data(core_data, bio_data)
-            self.save_author_json(slug, merged)
-
-        self.logger.info("ExtractAuthors (skeleton, extended) — завършено.")
+    def run(self, url: str) -> dict:
+        self.extract_name_display()
+        self.extract_name_original()
+        self.extract_slug(url)
+        self.extract_author_id()
+        return self.data
