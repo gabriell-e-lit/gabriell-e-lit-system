@@ -1,5 +1,5 @@
 # AuthorExtractor_v4.py
-# Финална версия – интегрира canon + issue (+ gallery през интегратора)
+# Финална версия – интегрира canon + issue + gallery
 # и връща AuthorModel_v4.2
 
 from urllib.parse import urlparse
@@ -10,7 +10,7 @@ from .gallery_extractor_v3 import GalleryExtractorV3
 from .integrator import integrate_author_data
 
 
-# По желание: константи за директориите на галерията (използват се от генератора, не задължително тук)
+# Константи за директориите на галерията (използват се от генератора)
 GALLERY_STATIC_PATHS = {
     "gallery_illustrator": "https://e-gallery.gabriell-e-lit.com/authors/gabriell-e-lit/",
     "gallery_e_gallery": "https://e-gallery.gabriell-e-lit.com/authors/e-gallery/",
@@ -24,18 +24,10 @@ class AuthorExtractorV4:
 
     - mode="canon": извлича един автор от канон страница
     - mode="issue": извлича списък автори от страница „Автори в брой X“
-      (тук връщаме директно v3-обектите, защото са много автори)
-    - галерийните данни влизат през интегратора като gallery_data
+    - галерийните данни се интегрират чрез match_gallery_author()
     """
 
     def __init__(self, html: str, mode: str, url: str = "", gallery_html: str = None, library_data=None):
-        """
-        html        – HTML на текущата страница (канон или брой)
-        mode        – "canon" или "issue"
-        url         – URL на страницата (по избор)
-        gallery_html – HTML на галерийната страница (ако искаш да интегрираш художници)
-        library_data – по-късно: данни от библиотечен екстрактор
-        """
         self.html = html
         self.mode = mode
         self.url = url
@@ -50,15 +42,27 @@ class AuthorExtractorV4:
         """
         return slug.replace("-", "") + ".php"
 
+    # ----------------- NEW: match gallery author -----------------
+    def match_gallery_author(self, slug, gallery_list):
+        """
+        Намира художник в gallery_list по slug или по име.
+        """
+        # 1) Точно съвпадение по slug
+        for g in gallery_list:
+            if g["identity"]["slug"] == slug:
+                return g
+
+        # 2) fallback: име → slug
+        for g in gallery_list:
+            if g["identity"]["name_display"].lower() == slug.replace("-", " "):
+                return g
+
+        return None
+
+    # ----------------- detect static page flags -----------------
     def detect_static_page_flags(self, canon_data, gallery_data=None, library_data=None):
         """
-        Определя:
-        - дали авторът има статична страница
-        - в коя категория попада
-        На база:
-        - роля от канона
-        - галерийни данни
-        - библиотечни данни (по-късно)
+        Определя дали авторът има статична страница и категорията ѝ.
         """
 
         # 1) Канон – издателство / гост-редактор
@@ -70,7 +74,7 @@ class AuthorExtractorV4:
         if "гост" in role or "guest" in role:
             return True, "guest_editor"
 
-        # 2) Библиотека – ако има отделен static_page_url (по-късно)
+        # 2) Библиотека – ако има отделен static_page_url
         if library_data and library_data.get("static_page_url"):
             return True, "library"
 
@@ -92,15 +96,13 @@ class AuthorExtractorV4:
         """
         Главен pipeline.
         В режим "canon" → връща един AuthorModel_v4.2 обект.
-        В режим "issue" → връща списък от v3-обекти (един брой → много автори).
+        В режим "issue" → връща списък от v3-обекти.
         """
 
         # ---------- режим: issue ----------
         if self.mode == "issue":
             issue_extractor = IssueExtractorV3(self.html)
             issue_list_v3 = issue_extractor.extract()
-            # Тук нарочно връщаме v3-обектите, защото са много автори
-            # и трансформацията към v4.2 може да се прави по-късно, по един.
             return issue_list_v3
 
         # ---------- режим: canon ----------
@@ -111,15 +113,17 @@ class AuthorExtractorV4:
         canon_extractor = CanonExtractorV3(self.html)
         canon_data = canon_extractor.extract()
 
-        # 2) GalleryExtractorV3 – ако имаме gallery_html, можем да подадем gallery_data за интеграция
+        # 2) GalleryExtractorV3 – интегрираме галерийните данни
         gallery_data = None
         if self.gallery_html:
             gallery_extractor = GalleryExtractorV3(self.gallery_html)
             gallery_list = gallery_extractor.extract()
-            # Тук трябва да намерим съответния художник по slug или име, ако е художник.
-            # За момента оставяме gallery_data=None, освен ако не се подаде отвън
-            # конкретен обект. Това може да се разшири по-късно.
-            # gallery_data = ...
+
+            # ТУК: намираме съответния художник
+            gallery_data = self.match_gallery_author(
+                slug=canon_data["identity"]["slug"],
+                gallery_list=gallery_list
+            )
 
         # 3) Интегратор – обединява canon + issue + library + gallery → AuthorModel_v3
         author_v3 = integrate_author_data(
@@ -161,12 +165,12 @@ class AuthorExtractorV4:
 
             "sources": {
                 "tag_page": author_v3["links"]["tag_url"],
-                "wikipedia": "",  # може да дойде от канона, ако го добавите там
-                "static_page": author_v3["links"]["library_url"]  # или друг източник
+                "wikipedia": "",
+                "static_page": author_v3["links"]["library_url"]
             },
 
             "books_publisher": author_v3.get("books", []),
-            "books_library": [],  # по-късно – ако имате отделен library екстрактор
+            "books_library": [],
 
             "publications": author_v3.get("publications", []),
 
