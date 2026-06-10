@@ -2,27 +2,38 @@
   "name": "",
   "slug": "",
   "page_filename": "",
+  "static_page_required": false,
+  "static_page_category": "",
 
   "biography": "",
   "photo": "",
   "photo_alt": "",
 
-  "birth": "",
-  "origin": "",
-  "quote": "",
-
-  "roles": [],
+  "origin": {
+    "country": "",
+    "city": "",
+    "year_of_birth": "",
+    "year_of_death": "",
+    "notes": ""
+  },
 
   "sources": {
     "tag_page": "",
     "wikipedia": "",
-    "official_site": ""
+    "static_page": ""
   },
 
   "books_publisher": [],
   "books_library": [],
-  "publications": [],
-  "gallery": [],
 
-  "publication_display_mode": "gallery"
+  "publications": [],
+
+  "gallery": {
+    "subcategory": "",
+    "url": ""
+  },
+
+  "roles": [],
+
+  "publication_display_mode": "list"
 }
