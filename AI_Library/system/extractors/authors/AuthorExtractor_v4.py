@@ -144,6 +144,21 @@ class AuthorExtractorV4:
         slug = author_v3["identity"]["slug"]
         name = author_v3["identity"]["name_display"]
 
+        # --- CLEAN TAG URL ---
+        raw_tag_url = author_v3["links"]["tag_url"]
+
+        def is_valid_tag_url(url: str) -> bool:
+            if not url:
+                return False
+            # WordPress fallback URLs съдържат %d0%... → кирилица → невалидни
+            if "%d0" in url.lower() or "%d1" in url.lower():
+                return False
+            parsed = urlparse(url)
+            # Валидните URL-и винаги са латинизирани и започват с /tag/
+            return "/tag/" in parsed.path and all(ord(c) < 128 for c in parsed.path)
+
+        clean_tag_url = raw_tag_url if is_valid_tag_url(raw_tag_url) else ""
+
         author_v4 = {
             "name": name,
             "slug": slug,
@@ -164,7 +179,7 @@ class AuthorExtractorV4:
             }),
 
             "sources": {
-                "tag_page": author_v3["links"]["tag_url"],
+                "tag_page": clean_tag_url,
                 "wikipedia": "",
                 "static_page": author_v3["links"]["library_url"]
             },
