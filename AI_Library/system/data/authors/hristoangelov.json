@@ -1,0 +1,79 @@
+{
+  "name": "Христо Ангелов",
+  "slug": "hristo-angelov",
+  "page_filename": "hristoangelov.php",
+  "static_page_required": true,
+  "static_page_category": "publisher",
+
+  "biography": "Христо Ангелов е български поет-сатирик, роден на 28 януари 1936 г. в с. Първомайци, Великотърновско. Произхожда от земеделско семейство. След войната родителите му се преселват в Русе, където завършва Техникум по механотехника. Служи във военно-въздушните сили. През 1965 г. завършва Висшия машинно-електротехнически институт в София. Тридесет години преподава в Техникум по електротехника в Русе. Пише сатирична поезия и епиграми от ученик. Има многобройни публикации в периодичния печат. Автор в списание „Картини с думи и багри“ от брой 0/2018 г. През 2019 г. издателство gabriell-e-lit осъществява първата му самостоятелна книга — сатиричния сборник „След девети, след десети“.",
+
+  "photo": "https://e-library.gabriell-e-lit.com/authors/portraits/hristoangelov.jpg",
+  "photo_alt": "Христо Ангелов",
+
+  "origin": {
+    "country": "България",
+    "city": "Първомайци",
+    "year_of_birth": "1936",
+    "year_of_death": "",
+    "notes": ""
+  },
+
+  "sources": {
+    "tag_page": "https://gabriell-e-lit.com/izdatelstvo/tag/%d1%85%d1%80%d0%b8%d1%81%d1%82%d0%be-%d0%b0%d0%bd%d0%b3%d0%b5%d0%bb%d0%be%d0%b2/",
+    "wikipedia": "",
+    "static_page": "https://gabriell-e-lit.com/p-izdatelstvo/authors/hristoangelov.php"
+  },
+
+  "books_publisher": [
+    {
+      "title": "След девети, след десети (второ издание)",
+      "cover": "https://gabriell-e-lit.com/p-izdatelstvo/books/covers/sleddevetisleddeseti-2.jpg",
+      "formats": [
+        {
+          "type": "p-book",
+          "url": ""
+        }
+      ],
+      "year": "",
+      "notes": "Второ издание, допълнено"
+    },
+    {
+      "title": "След девети, след десети (първо издание)",
+      "cover": "https://e-books.gabriell-e-lit.com/poezia/sleddevetisleddeseti/cover.jpg",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://e-books.gabriell-e-lit.com/poezia/sleddevetisleddeseti/Sleddevetisleddeseti-HristoAngelov.pdf"
+        },
+        {
+          "type": "p-book",
+          "url": "https://gabriell-e-lit.com/p-izdatelstvo/books/books/HristoAngelov-Sleddevetisleddeseti.pdf"
+        }
+      ],
+      "year": "2019",
+      "notes": "Първо издание"
+    }
+  ],
+
+  "books_library": [],
+
+  "publications": [
+    {
+      "issue": "0/2018",
+      "title": "",
+      "url": ""
+    }
+  ],
+
+  "gallery": {
+    "subcategory": "",
+    "url": ""
+  },
+
+  "roles": [
+    "автор",
+    "publisher"
+  ],
+
+  "publication_display_mode": "list"
+}
