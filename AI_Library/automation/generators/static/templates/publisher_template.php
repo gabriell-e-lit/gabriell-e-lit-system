@@ -32,9 +32,12 @@ include __DIR__ . '/../../includes/menu_top.php';
                         <li><strong>Година на раждане:</strong> {{origin_birth}}</li>
                     </ul>
 
-                    <p><strong>Таг страница:</strong>
-                        <a href="{{tag_page}}" target="_blank">{{name}} в „Картини с думи и багри“</a>
-                    </p>
+						{{#tag_page}}
+						<p><strong>Таг страница:</strong>
+							<a href="{{tag_page}}" target="_blank">{{name}} в „Картини с думи и багри“</a>
+						</p>
+						{{/tag_page}}
+
                 </div>
             </div>
 
@@ -73,16 +76,17 @@ include __DIR__ . '/../../includes/menu_top.php';
             <!-- ПУБЛИКАЦИИ В СПИСАНИЕТО -->
             <!-- ========================= -->
             <h3>Публикации в списание „Картини с думи и багри“</h3>
-
-            <ul class="author-publications">
-                {{#publications}}
-                <li>
-                    <strong>Брой {{issue}}</strong>
-                    {{#title}} — {{title}}{{/title}}
-                    {{#url}} <a href="{{url}}" target="_blank">прочети</a>{{/url}}
-                </li>
-                {{/publications}}
-            </ul>
+			
+			<ul class="author-publications">
+				{{#publications}}
+				<li>
+					<strong>Брой {{issue}}</strong> — {{title}}
+					{{#url}}
+						<a href="{{url}}" target="_blank">прочети</a>
+					{{/url}}
+				</li>
+				{{/publications}}
+			</ul>
 
         </div>
     </div>
