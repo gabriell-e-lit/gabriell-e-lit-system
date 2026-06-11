@@ -43,7 +43,7 @@
     "first_appearance": ""
   },
 
-  "books": [],               // IdealBookCellModel[]
+  "books": [],               
   "publications": [],
   "magazine_issues": [],
   "exhibitions": [],
