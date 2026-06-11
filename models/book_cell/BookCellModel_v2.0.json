@@ -1,0 +1,26 @@
+{
+  "book_page_url": "",
+  "title": "",
+  "author_name": "",
+  "author_page_url": "",
+
+  "covers": {
+    "ebook_url": "",
+    "ebook_alt": "",
+    "print_url": "",
+    "print_alt": ""
+  },
+
+  "formats": {
+    "pdf_url": "",
+    "epub_url": "",
+    "pbook_url": "",
+    "audio_url": ""
+  },
+
+  "display": {
+    "show_author": true,
+    "show_formats": true,
+    "show_double_cover": true
+  }
+}
