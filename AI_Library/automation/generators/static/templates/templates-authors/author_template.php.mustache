@@ -1,0 +1,61 @@
+<?php include __DIR__ . "/../../includes/header.php"; ?>
+
+<div class="author-page">
+
+    <h1 class="author-name">{{ identity.name_display }}</h1>
+
+    <div class="author-photo">
+        {{#photo.url}}
+        <img src="{{ photo.url }}" alt="{{ photo.alt }}">
+        {{/photo.url}}
+    </div>
+
+    <div class="author-biography">
+        {{#biography.short}}
+        <p class="bio-short">{{ biography.short }}</p>
+        {{/biography.short}}
+
+        {{#biography.long}}
+        <div class="bio-long">{{{ biography.long }}}</div>
+        {{/biography.long}}
+
+        {{#biography.quote}}
+        <blockquote class="author-quote">{{ biography.quote }}</blockquote>
+        {{/biography.quote}}
+    </div>
+
+    <div class="author-origin">
+        {{#origin.country}}<p><strong>Държава:</strong> {{ origin.country }}</p>{{/origin.country}}
+        {{#origin.city}}<p><strong>Град:</strong> {{ origin.city }}</p>{{/origin.city}}
+        {{#origin.birth_year}}<p><strong>Роден:</strong> {{ origin.birth_year }}</p>{{/origin.birth_year}}
+        {{#origin.death_year}}<p><strong>Починал:</strong> {{ origin.death_year }}</p>{{/origin.death_year}}
+    </div>
+
+    <h2>Книги</h2>
+    <div class="books-grid">
+        {{#books_rendered}}
+            {{{ book_cell_html }}}
+        {{/books_rendered}}
+    </div>
+
+    {{#publications.length}}
+    <h2>Публикации</h2>
+    <ul class="publications">
+        {{#publications}}
+        <li>{{ . }}</li>
+        {{/publications}}
+    </ul>
+    {{/publications.length}}
+
+    {{#exhibitions.length}}
+    <h2>Изложби</h2>
+    <ul class="exhibitions">
+        {{#exhibitions}}
+        <li>{{ . }}</li>
+        {{/exhibitions}}
+    </ul>
+    {{/exhibitions.length}}
+
+</div>
+
+<?php include __DIR__ . "/../../includes/footer.php"; ?>
