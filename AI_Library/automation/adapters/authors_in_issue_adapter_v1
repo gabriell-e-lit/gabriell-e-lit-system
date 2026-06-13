@@ -1,0 +1,101 @@
+# AuthorsInIssueAdapter v1.0
+# Извлича автори от страниците "Автори на брой Х"
+
+import requests
+from bs4 import BeautifulSoup
+from typing import List, Dict, Any
+
+
+class AuthorsInIssueAdapter:
+    """
+    Адаптер за страниците "Автори на брой Х".
+    Пример URL:
+    https://gabriell-e-lit.com/.../authors-1-2026-30/
+    """
+
+    def __init__(self):
+        pass
+
+    # -----------------------------
+    # UTILS
+    # -----------------------------
+
+    def fetch_html(self, url: str) -> BeautifulSoup:
+        response = requests.get(url)
+        response.raise_for_status()
+        return BeautifulSoup(response.text, "html.parser")
+
+    def extract_text(self, element):
+        if not element:
+            return ""
+        return element.get_text(strip=True)
+
+    # -----------------------------
+    # MAIN EXTRACTION
+    # -----------------------------
+
+    def extract_authors_from_issue(self, url: str) -> List[Dict[str, Any]]:
+        """
+        Връща списък от raw_author записи, извлечени от страница "Автори на брой Х".
+        """
+
+        soup = self.fetch_html(url)
+
+        # Намираме всички H2 заглавия (Име Фамилия)
+        h2_list = soup.find_all("h2")
+
+        authors_raw = []
+
+        for h2 in h2_list:
+            name_display = self.extract_text(h2)
+            if not name_display:
+                continue
+
+            # Следващият елемент след H2 е блокът със снимка + биография
+            block = h2.find_next_sibling()
+
+            if not block:
+                continue
+
+            # Снимка
+            img = block.select_one("img")
+            photo_url = img["src"] if img else ""
+            photo_alt = img["alt"] if img else ""
+
+            # Биография (текстът след снимката)
+            bio_el = block.select_one("p, div")
+            bio_text = bio_el.decode_contents() if bio_el else ""
+
+            # Линк към тага (ако има)
+            tag_link_el = h2.find("a")
+            tag_url = tag_link_el["href"] if tag_link_el else ""
+
+            # Създаваме raw_author
+            raw_author = {
+                "name_display": name_display,
+                "name_original": name_display,  # ако няма друго поле
+
+                "photo_url": photo_url,
+                "photo_alt": photo_alt,
+
+                "bio_short": "",
+                "bio_long": bio_text,
+
+                "quote": "",
+
+                "country": "",
+                "city": "",
+                "birth_year": "",
+                "death_year": "",
+
+                "tag_url": tag_url,
+
+                # SEO
+                "seo_title": name_display,
+                "seo_description": self.extract_text(bio_el) if bio_el else "",
+                "canonical_url": url + "#" + name_display.replace(" ", "-").lower(),
+            }
+
+            authors_raw.append(raw_author)
+
+        return authors_raw
